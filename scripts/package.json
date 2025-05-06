@@ -1,7 +1,7 @@
 {
   "name": "polls",
   "version": "1.0.0",
-  "description": "Repo to manage metadata for Sky Governance Polls",
+  "description": "Generates index files for polls markdown files.",
   "main": "dist/generate-polls-index.js",
   "scripts": {
     "build": "tsc",
