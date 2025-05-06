@@ -40,7 +40,7 @@ jobs:
         working-directory: ./scripts
 
       - name: Generate index files
-        run: pnpm run generate:all
+        run: pnpm run generate:polls
         working-directory: ./scripts
 
       - name: Check for changes in index files
