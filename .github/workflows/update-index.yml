@@ -3,7 +3,8 @@ name: Update Polls Index
 on:
   push:
     branches:
-      - main # Or your default branch
+      - main
+      - testnet
     paths:
       # Trigger on changes in polls directory
       - '**.md'
