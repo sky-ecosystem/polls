@@ -8,10 +8,8 @@ The `polls` repo is organized as follows:
 
 ```
 polls/
-├── 2024/ # Contains polls conducted in 2024
-│ └── 2024-05-20-community-sentiment.md
-├── 2023/ # Contains polls conducted in 2023
-│ └── 2023-12-10-feature-request.md
+├── 2025/ # Contains polls conducted in 2025
+│ └── e.g. 2024-05-20-community-sentiment.md
 ├── ... # Additional year directories as needed
 ├── templates/ # Contains templates for creating new poll files
 │ └── poll-template.md
@@ -25,7 +23,7 @@ polls/
 
 Poll files should follow the pattern: `<yyyy-mm-dd>-<description>.md`.
 
-- `<yyyy-mm-dd>`: The date the poll was created or concluded.
+- `<yyyy-mm-dd>`: The date the poll is scheduled to begin.
 - `<description>`: A brief, hyphenated description of the poll's topic (e.g., `community-sentiment`, `feature-request`).
 
 ## Components
