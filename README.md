@@ -1,10 +1,10 @@
-# polls
+# Polls
 
 This repository contains current and historical governance polls used in the Sky Protocol.
 
-## Directory Structure
+## Structure
 
-The `polls` directory is organized as follows:
+The `polls` repo is organized as follows:
 
 ```
 polls/
