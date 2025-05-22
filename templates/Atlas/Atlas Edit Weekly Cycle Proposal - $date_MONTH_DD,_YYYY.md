@@ -11,7 +11,7 @@ parameters:
             type: 'and',
             conditions: [
                 { type : plurality },
-                { type : comparison, comparator : '>=', value: 20000 }
+                { type : comparison, comparator : '>=', value: 480000000 }
             ]
         }
         - {type : default, value : 2 }
@@ -24,9 +24,10 @@ options:
 start_date: $YYYY-MM-DDT16:00:00
 end_date: $YYYY-MM-DDT16:00:00
 ---
+
 # Atlas Edit Weekly Cycle Proposal - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.makerdao.com/polling) [on behalf of Prime Delegate $Delegate_Name]($link). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.sky.money/polling) [on behalf of Prime Delegate $Delegate_Name]($link). This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.2_Atlas_Edit_Weekly_Cycle-4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59%7C0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -47,9 +48,9 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 ## Outcomes
 
-This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **20,000 MKR**.
+This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **480,000,000 SKY**.
 
-**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 20,000 MKR, then the following actions will be taken:**
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 480,000,000 SKY, then the following actions will be taken:**
 
 - The associated Pull Request will be merged into The Atlas.
 
