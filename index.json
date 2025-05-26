@@ -1,6 +1,96 @@
 [
   {
-    "path": "2025/placeholder.md",
-    "metadata": {}
+    "path": "2025/2025-05-26-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - May 26, 2025",
+      "summary": "This Atlas Edit 1) builds out the Allocation System Primitive, 2) adds Spark-Launch Agent 1 Ecosystem Accord, 3) adds Sky-Spark-Launch Agent 1 Ecosystem Accord, 4) adds logic regarding key interest rates, 5) updates Risk Framework, 6) renames First Loss Capital To Junior Risk Capital, 7) updates logic regarding distribution of Agent Tokens, 8) updates Spark Liquidity Layer documentation, 9) updates Spark Artifact based on Ecosystem Accords, 10) updates Launch Agent 1 Artifact based on Ecosystem Accords.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-05-26/26454/",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ]
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-05-26T16:00:00.000Z",
+      "end_date": "2025-05-29T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-05-26-Spark-Morpho-market-onboarding.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Onboard August PT-USDS to Morpho Spark DAI Vault - May 26, 2025",
+      "summary": "Signal your support or opposition to onboarding PT-USDS-14Aug2025 to the Morpho DAI vault.",
+      "discussion_link": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell-2/26440",
+      "parameters": {
+        "input_format": "single-choice",
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-05-26T16:00:00.000Z",
+      "end_date": "2025-05-29T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-05-26-Spark-rate-limits-update.md",
+    "metadata": {
+      "title": "SparkLend Liquidity Layer Mainnet - Increase USDe Mint and Staking Rate Limits - May 26, 2025",
+      "summary": "Signal your support or opposition to increasing the USDe Mint and Staking Rate Limits on the Spark Liquidity Layer.",
+      "discussion_link": "https://forum.sky.money/t/may-29-2025-proposed-changes-to-spark-for-upcoming-spell-2/26440",
+      "parameters": {
+        "input_format": "single-choice",
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-05-26T16:00:00.000Z",
+      "end_date": "2025-05-29T16:00:00.000Z"
+    }
   }
 ]
