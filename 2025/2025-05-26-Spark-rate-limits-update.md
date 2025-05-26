@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to increasing the USDe mint and staking rate limits on the SparkLend Liquidity Layer on Mainnet as follows:
+The community can vote in this poll to express support or opposition to increasing the USDe mint and staking rate limits on the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on Mainnet as follows:
 
 - Minting USDe
   - Max amount: **250 million**
