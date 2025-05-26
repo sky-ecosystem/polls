@@ -61,7 +61,7 @@ This poll implements a **Minimum Positive Participation** value. The Minimum Pos
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 480,000,000 SKY, then the following actions will be taken:**
 
-- The associated Pull Request will be merged into The Atlas.
+- A Pull Request mirroring the contents of the Notion page shared above will be merged into the Atlas GitHub repository.
 
 ---
 
