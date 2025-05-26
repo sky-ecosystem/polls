@@ -57,6 +57,7 @@ async function generateIndex() {
       // and tsconfig settings (`esModuleInterop: true`) are correct if errors persist.
       const parsed = matter(fileContent);
       const metadata = parsed.data as PollMetadata; // Type assertion
+      // Validate poll parameters so the format is compatible with the gov portal
       const [validatedParameters, errorParameters] = validatePollParameters(
         metadata.parameters
       )
@@ -66,7 +67,6 @@ async function generateIndex() {
           `Invalid poll parameters for poll: ${metadata.title}. ${errorParameters}`
         )
       }
-      console.log({validatedParameters})
 
       // Construct the relative path from the repo root
       const relativePath = path.join(file);
@@ -75,7 +75,7 @@ async function generateIndex() {
         path: relativePath,
         metadata: {
           ...metadata, // Use the asserted metadata
-          parameters: validatedParameters
+          parameters: validatedParameters // Attach the validate poll parameters
         },
       })
     }
