@@ -43,7 +43,7 @@ The community may vote in this poll to express support or opposition to the foll
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-05-26/26454)
 
 Due to the size of the proposal, the GitHub Pull Request won’t be ready in time, so a Notion page with the proposal content has been used instead.
- Using the process below, community members can independently verify the contents of the Proposal submitted on the Notion page:
+Using the process below, community members can independently verify the contents of the Proposal submitted on the Notion page:
 1- Download the HTML file from the Notion page
 2- Open it in an editor such as VS Code
 3- Copy the contents into the hash generator at [Keccak-256 - Online Tools](https://emn178.github.io/online-tools/keccak_256.html)
