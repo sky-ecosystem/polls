@@ -42,6 +42,13 @@ The community may vote in this poll to express support or opposition to the foll
 - [Atlas Edit Notion Page](https://www.notion.so/Public-Atlas-Edit-Weekly-Proposal-For-SPK-Launch-Week-of-2025-05-26-1fdf2ff08d73802c804adcf401e7d66f?pvs=21)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-05-26/26454)
 
+Due to the size of the proposal, the GitHub Pull Request won’t be ready in time, so a Notion page with the proposal content has been used instead.
+ Using the process below, community members can independently verify the contents of the Proposal submitted on the Notion page:
+1- Download the HTML file from the Notion page
+2- Open it in an editor such as VS Code
+3- Copy the contents into the hash generator at [Keccak-256 - Online Tools](https://emn178.github.io/online-tools/keccak_256.html)
+4- Verify that the hash is equal to `bedf45dceb0748041815e6a534eba006a83d00aded64c96b0d2ee7ac297f199d`
+
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
 - _**Build Out Allocation System Primitive** - Builds out the Allocation System Primitive, including the process for Star Agents to comply with the risk framework._
