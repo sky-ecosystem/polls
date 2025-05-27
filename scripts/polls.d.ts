@@ -4,8 +4,6 @@ import {
   PollVictoryConditions,
 } from './constants'
 
-export type PollVoteType = 'Plurality Voting' | 'Ranked Choice IRV' | 'Unknown'
-
 //  { type : comparison, options: [0, 1, 4], comparator : '>=10000' }
 export type PollVictoryConditionComparison = {
   type: PollVictoryConditions.comparison

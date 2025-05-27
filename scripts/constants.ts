@@ -1,23 +1,3 @@
-import type { PollVoteType } from './polls'
-
-export enum SupportedNetworks {
-  mainnet = 'mainnet',
-  tenderly = 'tenderly',
-}
-
-export const POLL_VOTE_TYPE = {
-  PLURALITY_VOTE: 'Plurality Voting' as PollVoteType,
-  RANKED_VOTE: 'Ranked Choice IRV' as PollVoteType,
-  UNKNOWN: 'Unknown' as PollVoteType,
-}
-
-export const POLLING_DB_URLS = {
-  [SupportedNetworks.mainnet]:
-    'https://pollingdb2-mainnet-prod.makerdao.com/api/v1',
-  [SupportedNetworks.tenderly]:
-    'https://pollingdb2-tenderly-staging.makerdao.com/api/v1',
-}
-
 // Poll parameters
 export enum PollInputFormat {
   singleChoice = 'single-choice',
@@ -49,8 +29,6 @@ export const ERRORS_VALIDATE_POLL_PARAMETERS = {
   victoryConditionsNotArray:
     'victory_conditions should be an array of victory conditions',
   invalidVictoryConditions: 'victory_conditions should be objects',
-  victoryConditionsNotValid:
-    'victory_conditions must include a valid condition. Valid conditions are "plurality", "instant_runoff", "approval" or "majority"',
   victoryConditionsInstantRunOffAndPluralityCanNotBeCombined:
     'victory_conditions combination not valid. instant-runoff and plurality can not be combined together.',
   victoryConditionsInstantRunOffAndMajoritynNotBeCombined:
@@ -71,7 +49,6 @@ export const ERRORS_VALIDATE_POLL_PARAMETERS = {
     'victory_condition plurality requires input_format single-choice',
   approvalRequiresChooseFree:
     'victory_condition approval requires input_format choose-free',
-  // TODO: Include more result_displays when allowed
   requiredResultDisplay:
     'result_display is required. Available values are "instant-runoff-breakdown" or "single-vote-breakdown"',
   singleChoiceRequiresSingleVoteBreakdownDisplay:
