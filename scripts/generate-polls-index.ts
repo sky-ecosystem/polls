@@ -3,6 +3,7 @@ import * as path from 'path';
 import { glob } from 'glob';
 // Revert back to standard default import for gray-matter
 import matter from 'gray-matter';
+import { validatePollParameters } from './validate-poll-parameters';
 
 // Define an interface for the expected front matter structure (optional but good practice)
 interface PollMetadata {
@@ -56,14 +57,27 @@ async function generateIndex() {
       // and tsconfig settings (`esModuleInterop: true`) are correct if errors persist.
       const parsed = matter(fileContent);
       const metadata = parsed.data as PollMetadata; // Type assertion
+      // Validate poll parameters so the format is compatible with the gov portal
+      const [validatedParameters, errorParameters] = validatePollParameters(
+        metadata.parameters
+      )
+      
+      if (errorParameters.length > 0 || !validatedParameters) {
+        throw new Error(
+          `Invalid poll parameters for poll: ${metadata.title}. ${errorParameters}`
+        )
+      }
 
       // Construct the relative path from the repo root
       const relativePath = path.join(file);
 
       indexData.push({
         path: relativePath,
-        metadata: metadata, // Use the asserted metadata
-      });
+        metadata: {
+          ...metadata, // Use the asserted metadata
+          parameters: validatedParameters // Attach the validate poll parameters
+        },
+      })
     }
 
     // Sort the index data by path for consistency
