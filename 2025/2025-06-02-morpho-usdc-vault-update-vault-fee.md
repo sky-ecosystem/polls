@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to the following change:
 
 - Increase the Vault Fee by 10 percentage points from 0% to **10%**.
 
