@@ -1,7 +1,7 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - June 9, 2025
 summary: This Atlas Edit 1) adds a timeline for disabling the legacy conversion contract, 2) refines SKY Rewards rate normalization process, 3) updates the Spark Artifact and the Ecosystem Accord to prepare for the SPK Launch.  
-discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-09/26608/1
+discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-09/26608
 parameters:
     input_format:
         type: single-choice
@@ -40,7 +40,7 @@ The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](ht
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
 - [Atlas Edit Pull Request](https://github.com/makerdao/next-gen-atlas/pull/10)
-- [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-09/26608/1)
+- [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-09/26608)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
