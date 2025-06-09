@@ -429,5 +429,95 @@
       "start_date": "2025-06-02T16:00:00.000Z",
       "end_date": "2025-06-05T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-06-09-AEP-11.md",
+    "metadata": {
+      "title": "Atlas Edit Monthly Cycle Proposal (AEP-11) - June 9, 2025",
+      "summary": "This Atlas Edit formalizes and refines the moderation policies of the Sky ecosystem communication channels for increased transparency and coordination.",
+      "discussion_link": "https://forum.sky.money/t/aep-11-moderation-policies-of-the-sky-ecosystem-communication-channels/26225",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 240000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-09T16:00:00.000Z",
+      "end_date": "2025-06-23T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-09-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - June 9, 2025",
+      "summary": "This Atlas Edit 1) adds a timeline for disabling the legacy conversion contract, 2) refines SKY Rewards rate normalization process, 3) updates the Spark Artifact and the Ecosystem Accord to prepare for the SPK Launch.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-09/26608",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-09T16:00:00.000Z",
+      "end_date": "2025-06-12T16:00:00.000Z"
+    }
   }
 ]
