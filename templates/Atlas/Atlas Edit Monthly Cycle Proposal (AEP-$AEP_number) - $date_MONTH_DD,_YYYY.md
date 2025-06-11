@@ -27,7 +27,7 @@ end_date: $YYYY-MM-DDT16:00:00
 
 # Atlas Edit Monthly Cycle Proposal (AEP-$AEP_Number) - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e) into the [voting system](https://vote.sky.money/polling). This Governance Poll will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed an [Atlas Edit Monthly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109%7C0db3326e) into the [voting system](https://vote.sky.money/polling) [on behalf of Prime Delegate $Delegate_Name]($link). This Governance Poll will be active for fourteen days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 
