@@ -13,5 +13,10 @@
   "1515": ["high-impact", "spark"],
   "1516": ["high-impact", "spark"],
   "1517": ["medium-impact", "misc-governance"],
-  "1518": ["high-impact", "endgame", "spark"]
+  "1518": ["high-impact", "endgame", "spark"],
+  "1519": ["high-impact", "endgame"],
+  "1520": ["high-impact", "risk-parameter", "endgame"],
+  "1521": ["medium-impact", "spark"],
+  "1522": ["medium-impact", "spark"],
+  "1523": ["medium-impact", "spark"]
 }
