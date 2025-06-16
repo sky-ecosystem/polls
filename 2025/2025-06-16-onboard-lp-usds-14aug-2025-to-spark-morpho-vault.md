@@ -1,6 +1,6 @@
 ---
 title: Spark DAI Morpho Vault Mainnet - Onboard LP-USDS-14Aug-2025 to the Spark DAI Morpho Vault - June 16, 2025
-summary: Signal your support or opposition to onboarding LP-USDS-14Aug to the Morpho Spark DAI Vault.
+summary: Signal your support or opposition to onboarding LP-USDS-14Aug to the Spark DAI Morpho Vault.
 discussion_link: https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663
 parameters:
     input_format: single-choice
