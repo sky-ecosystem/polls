@@ -1,6 +1,6 @@
 ---
-title: Spark DAI Morpho Vault Mainnet - Onboard syrupUSDC August PT to the Morpho Spark DAI Vault - June 16, 2025
-summary: Signal your support or opposition to onboarding the syrupUSDC August PT to the Morpho Spark DAI Vault.
+title: Spark DAI Morpho Vault Mainnet - Onboard syrupUSDC August PT to the Spark DAI Morpho Vault - June 16, 2025
+summary: Signal your support or opposition to onboarding the syrupUSDC August PT to the Spark DAI Morpho Vault.
 discussion_link: https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663
 parameters:
     input_format: single-choice
