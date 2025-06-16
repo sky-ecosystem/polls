@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the LP-USDS-14Aug-2025 to the Morpho Spark DAI Vault with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding the LP-USDS-14Aug-2025 to the Spark DAI Morpho Vault with the following parameters:
 
 ### LP-USDS-14Aug2025
 
