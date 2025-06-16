@@ -32,7 +32,6 @@ The community can vote in this poll to express support or opposition to increasi
 
 - Increase the [Maximum Debt Ceiling (`line`)](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4.1_Maximum_Debt_Ceiling_(line)/6f1a913d-9436-4b70-816b-e317672737d6%7C57eaf45219bea3b430c268bb) by 100M USDS, from 2.4B USDS to **2.5B USDS**.
 
-
 Please review the discussion [thread](https://forum.sky.money/t/parameter-changes-proposal-june-16-2025/26653) to help inform your position before voting.
 
 ## Outcomes
