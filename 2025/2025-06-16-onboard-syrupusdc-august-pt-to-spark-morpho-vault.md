@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the syrupUSDC August PT to the Morpho Spark DAI Vault with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding the syrupUSDC August PT to the Spark DAI Morpho Vault with the following parameters:
 
 ### PT-syrupUSDC-28Aug2025
 
