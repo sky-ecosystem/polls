@@ -16,7 +16,7 @@ start_date: 2025-06-16T16:00:00
 end_date: 2025-06-19T16:00:00
 ---
 
-# Poll: Spark DAI Morpho Vault Mainnet - Onboard USDe September PT to the Morpho Spark DAI Vault - June 16, 2025
+# Poll: Spark DAI Morpho Vault Mainnet - Onboard USDe September PT to the Spark DAI Morpho Vault - June 16, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, June 16 at 16:00 UTC.
 
