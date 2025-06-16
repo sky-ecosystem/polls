@@ -1,5 +1,5 @@
 ---
-title: Spark DAI Morpho Vault Mainnet - Onboard USDe September PT to the Morpho Spark DAI Vault - June 16, 2025
+title: Spark DAI Morpho Vault Mainnet - Onboard USDe September PT to the Spark DAI Morpho Vault - June 16, 2025
 summary: Signal your support or opposition to onboarding the USDe September PT to the Morpho Spark DAI Vault.
 discussion_link: https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663
 parameters:
