@@ -519,5 +519,174 @@
       "start_date": "2025-06-09T16:00:00.000Z",
       "end_date": "2025-06-12T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-06-16-atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - June 16, 2025",
+      "summary": "This Atlas Edit updates various artifacts, risk frameworks, and governance processes to enhance clarity, functionality, and alignment with the Sky Protocol's governance standards.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-16/26664",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-16T16:00:00.000Z",
+      "end_date": "2025-06-19T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-16-increase-allocator-bloom-a-maximum-debt-ceiling.md",
+    "metadata": {
+      "title": "Increase ALLOCATOR-BLOOM-A Maximum Debt Ceiling - June 16, 2025",
+      "summary": "Signal your support or opposition to increasing the ALLOCATOR-BLOOM-A Maximum Debt Ceiling.",
+      "discussion_link": "https://forum.sky.money/t/parameter-changes-proposal-june-16-2025/26653",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-16T16:00:00.000Z",
+      "end_date": "2025-06-19T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-16-onboard-lp-usds-14aug-2025-to-spark-dai-morpho-vault.md",
+    "metadata": {
+      "title": "Spark DAI Morpho Vault Mainnet - Onboard LP-USDS-14Aug-2025 to the Spark DAI Morpho Vault - June 16, 2025",
+      "summary": "Signal your support or opposition to onboarding LP-USDS-14Aug to the Spark DAI Morpho Vault.",
+      "discussion_link": "https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-16T16:00:00.000Z",
+      "end_date": "2025-06-19T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-16-onboard-syrupusdc-august-pt-to-spark-dai-morpho-vault.md",
+    "metadata": {
+      "title": "Spark DAI Morpho Vault Mainnet - Onboard syrupUSDC August PT to the Spark DAI Morpho Vault - June 16, 2025",
+      "summary": "Signal your support or opposition to onboarding the syrupUSDC August PT to the Spark DAI Morpho Vault.",
+      "discussion_link": "https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-16T16:00:00.000Z",
+      "end_date": "2025-06-19T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-16-onboard-usde-september-pt-to-spark-dai-morpho-vault.md",
+    "metadata": {
+      "title": "Spark DAI Morpho Vault Mainnet - Onboard USDe September PT to the Spark DAI Morpho Vault - June 16, 2025",
+      "summary": "Signal your support or opposition to onboarding the USDe September PT to the Spark DAI Morpho Vault.",
+      "discussion_link": "https://forum.sky.money/t/june-26-2025-proposed-changes-to-spark-for-upcoming-spell/26663",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-16T16:00:00.000Z",
+      "end_date": "2025-06-19T16:00:00.000Z"
+    }
   }
 ]
