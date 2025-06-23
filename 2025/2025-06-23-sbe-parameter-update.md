@@ -13,7 +13,7 @@ options:
    1: Yes
    2: No
 start_date: 2025-06-23T16:00:00
-end_date: 2025-06-29T16:00:00
+end_date: 2025-06-26T16:00:00
 ---
 
 # Poll: Smart Burn Engine Parameter Update - June 23, 2025
