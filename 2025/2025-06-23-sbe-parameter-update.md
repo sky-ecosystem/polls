@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to the [Smart Burn Engine](https://sky-atlas.powerhouse.io/A.3.6_Surplus_Buffer_and_Smart_Burn_Engine/c58d38dc-4b17-4c0a-a1df-546a06612c54%7C57ea):
 
-- Reduce `vow.hump` by 20 million USDS from 70 million USDS to **50 million USDS**.
+- Reduce [`vow.hump`](https://sky-atlas.powerhouse.io/A.3.6.2_Surplus_Buffer_Splitter_Parameters/122f2ff0-8d73-80f8-9a2a-d221794f73f5%7C57ea2c54) by 20 million USDS from 70 million USDS to **50 million USDS**.
 
 Please review the discussion [thread](https://forum.sky.money/t/smart-burn-engine-parameter-update-proposals-june-26-2025-spell-contents/26702) to help inform your position before voting.
 
