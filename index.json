@@ -688,5 +688,81 @@
       "start_date": "2025-06-16T16:00:00.000Z",
       "end_date": "2025-06-19T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-06-23-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - June 23, 2025",
+      "summary": "This Atlas Edit 1) adds timeline for transferring control of Spark infrastructure from Sky Governance to Spark, 2) updates risk framework and asset liability management framework for latest improvements recommended by BA Labs, 3) adds specifications for Spark Genesis Capital Allocation, 4) limits Spark and Launch Agent 1 from receiving Accessibility Reward bonus on USDS and sUSDS balances they hold, 5) authorizes Launch Agent 2 to deploy idle cash into lending markets on Solana subject to approval of its Operational Executor Agent, 6) makes minor corrections to the Atlas following up on the SPK Launch, 7) adds Aave USDC on Base as an active Instance and corrects references and parameters.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-06-23/26701",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-23T16:00:00.000Z",
+      "end_date": "2025-06-26T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-06-23-sbe-parameter-update.md",
+    "metadata": {
+      "title": "Smart Burn Engine Parameter Update - June 23, 2025",
+      "summary": "Signal your support or opposition to updating the SBE vow.hump parameter.",
+      "discussion_link": "https://forum.sky.money/t/smart-burn-engine-parameter-update-proposals-june-26-2025-spell-contents/26702",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-06-23T16:00:00.000Z",
+      "end_date": "2025-06-26T16:00:00.000Z"
+    }
   }
 ]
