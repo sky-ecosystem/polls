@@ -45,14 +45,14 @@ The community may vote in this poll to express support or opposition to the foll
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
 _This proposal includes the following edits:_
-_- Transfer Capital To Launch Agent 2 And Establish Pre-Pioneer Incentive Pool - Documents transfer of funds to Launch Agent 2 and establishes a Pre-Pioneer Incentive Pool._
-_- Authorize Gradual Increases In Core Vault Stability Fees - Authorizes a gradual increase in Stability Fees for Core Vaults to incentivize migration to platforms maintained by Stars._
-_- Update Required Risk Capital For Real World Assets - Updates near-term Financial Required Risk Capital Percentage for Real World Assets to cover JAAA._
-_- Add Additional Grove Allocation System Primitive Instances - Adds additional Instances to the Grove Allocation System Primitive._
-_- Remove Launch Agent 1 Anonymity - Updates the references from Launch Agent 1 to Grove now that Grove has publicly launched._
-_- Clarify That Agent Borrowings Must Be Invested In Allocation System Instances - Specifies that funds borrowed by Agents must be invested into Allocation System Instances._
-_- Update References To Accessibility Reward Fee - Updates references to the Accessibility Reward Fee to reflect the total fee that can be earned._
-_- Update Document Title Of Internal Reference - Updates the title of an internal reference to ensure accuracy in the Atlas._
+- _Transfer Capital To Launch Agent 2 And Establish Pre-Pioneer Incentive Pool - Documents transfer of funds to Launch Agent 2 and establishes a Pre-Pioneer Incentive Pool._
+- _Authorize Gradual Increases In Core Vault Stability Fees - Authorizes a gradual increase in Stability Fees for Core Vaults to incentivize migration to platforms maintained by Stars._
+- _Update Required Risk Capital For Real World Assets - Updates near-term Financial Required Risk Capital Percentage for Real World Assets to cover JAAA._
+- _Add Additional Grove Allocation System Primitive Instances - Adds additional Instances to the Grove Allocation System Primitive._
+- _Remove Launch Agent 1 Anonymity - Updates the references from Launch Agent 1 to Grove now that Grove has publicly launched._
+- _Clarify That Agent Borrowings Must Be Invested In Allocation System Instances - Specifies that funds borrowed by Agents must be invested into Allocation System Instances._
+- _Update References To Accessibility Reward Fee - Updates references to the Accessibility Reward Fee to reflect the total fee that can be earned._
+- _Update Document Title Of Internal Reference - Updates the title of an internal reference to ensure accuracy in the Atlas._
 
 ## Outcomes
 
