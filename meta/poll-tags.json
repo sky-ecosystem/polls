@@ -8,7 +8,7 @@
   "1510": ["high-impact", "spark"],
   "1511": ["high-impact", "spark"],
   "1512": ["high-impact", "spark"],
-  "1512": ["high-impact", "spark"],
+  "1513": ["high-impact", "spark"],
   "1514": ["high-impact", "spark"],
   "1515": ["high-impact", "spark"],
   "1516": ["high-impact", "spark"],
@@ -19,12 +19,7 @@
   "1521": ["medium-impact", "spark"],
   "1522": ["medium-impact", "spark"],
   "1523": ["medium-impact", "spark"],
-  "1524": [
-    "high-impact",
-    "risk-parameter"
-  ],
-  "1525": [
-    "high-impact",
-    "endgame"
-  ]
+  "1524": ["high-impact", "risk-parameter"],
+  "1525": ["high-impact", "endgame"],
+  "1526": ["high-impact", "endgame"]
 }
