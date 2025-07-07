@@ -809,5 +809,50 @@
       "start_date": "2025-06-30T16:00:00.000Z",
       "end_date": "2025-07-03T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-07-07-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - July 7, 2025",
+      "summary": "This Atlas Edit 1) updates the value of the Sky Spread to 10 basis points, 2) clarifies that Star Agents can operationalize their Allocation System Instances under certain conditions, 3) removes documents related to offboarded Peg Stability Modules.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-07/26767",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-07-07T16:00:00.000Z",
+      "end_date": "2025-07-10T16:00:00.000Z"
+    }
   }
 ]
