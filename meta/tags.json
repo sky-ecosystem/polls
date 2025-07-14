@@ -42,6 +42,15 @@
     "related_link": "https://spark.fi/",
     "precedence": 5
   },
+    {
+    "id": "grove",
+    "shortname": "Grove",
+    "longname": "Grove Star",
+    "recommend_ui": true,
+    "description": "Polls related to the Grove Star",
+    "related_link": "https://www.grove.finance/",
+    "precedence": 6
+  },
   {
     "id": "core-unit-onboard",
     "shortname": "CU On",
