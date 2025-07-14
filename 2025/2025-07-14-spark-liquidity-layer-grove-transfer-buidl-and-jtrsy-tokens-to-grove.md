@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to facilitating a Spark transfer of BUIDL and JTRSY tokens to Grove. Note that will require changes to the ALLOCATOR-BLOOM-A [Debt Ceiling Instant Access Module](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) to facilitate the offsetting transfer of USDS from Grove to Spark as Grove will assume the associated debt positions for these collateral tokens.
+The community can vote in this poll to express support or opposition to facilitating a Spark transfer of BUIDL and JTRSY tokens to Grove. Note that this will require changes to the ALLOCATOR-BLOOM-A [Debt Ceiling Instant Access Module](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) to facilitate the offsetting transfer of USDS from Grove to Spark as Grove will assume the associated debt positions for these collateral tokens.
 
 Please review the discussion [thread](https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796) to help inform your position before voting.
 
