@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Deploy Spark USDS Morpho Vault and Onboard PT-SPK-USDS Farm - July 14, 2025
-summary: Signal your support or opposition to onboarding PT-USDS-24Sep2025 to the Spark USDS Vault.
+summary: Signal your support or opposition to deploying a new Spark USDS Morpho Vault and onboarding PT-USDS-24Sep2025.
 discussion_link: https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796
 parameters:
     input_format: single-choice
