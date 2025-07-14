@@ -1,5 +1,5 @@
 ---
-title: Spark Liquidity Layer Mainnet - Grove - Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
+title: Spark Liquidity Layer Mainnet - Grove - Facilitate Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
 summary: Signal your support or opposition to transferring BUIDL and JTRSY tokens to Grove.
 discussion_link: https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796
 parameters:
@@ -16,7 +16,7 @@ start_date: 2025-07-14T16:00:00
 end_date: 2025-07-17T16:00:00
 ---
 
-# Poll: Spark Liquidity Layer Mainnet- Grove - Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
+# Poll: Spark Liquidity Layer Mainnet - Grove - Facilitate Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, July 14 at 16:00 UTC.
 
@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to Spark transferring BUIDL and JTRSY tokens to Grove.
+The community can vote in this poll to express support or opposition to facilitating a Spark transfer of BUIDL and JTRSY tokens to Grove. Note that will likely require changes to the ALLOCATOR-BLOOM-A [Debt Ceiling Instant Access Module](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.4_Debt_Ceiling_Instant_Access_Module_(DC_IAM)/071d42e3-8a21-4401-852e-0b52c49768bb%7C57eaf45219bea3b430c2) to facilitate the offsetting transfer of USDS. 
 
 Please review the discussion [thread](https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796) to help inform your position before voting.
 
