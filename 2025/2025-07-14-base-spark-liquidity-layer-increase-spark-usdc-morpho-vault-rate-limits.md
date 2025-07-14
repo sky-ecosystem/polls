@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to increasing the Spark USDC Morpho vault [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base as follows:
 
-- max: Increase by 50 million from 50 million to **100 million**.
+- `max`: Increase by 50 million from 50 million to **100 million USDC**.
 - slope: Increase by 25 million per day from 25 million per day to **50 million per day**.
 
 Please review the discussion [thread](https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796) to help inform your position before voting.
