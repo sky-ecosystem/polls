@@ -36,10 +36,10 @@
   {
     "id": "spark",
     "shortname": "Spark",
-    "longname": "Spark Protocol",
+    "longname": "Spark Star",
     "recommend_ui": true,
-    "description": "Polls related to the Spark Protocol",
-    "related_link": "https://www.sparkprotocol.io/",
+    "description": "Polls related to the Spark Star",
+    "related_link": "https://spark.fi/",
     "precedence": 5
   },
   {
