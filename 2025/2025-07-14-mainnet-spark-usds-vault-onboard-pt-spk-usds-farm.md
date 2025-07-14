@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to deployin
 
 ### Vault Parameter summary:
 
-- Max amount: **200 million USDS**
+- `Max amount`: **200 million USDS**
 - Slope: **100 million USDS per day**
 
 ### PT-USDS-24Sep2025
