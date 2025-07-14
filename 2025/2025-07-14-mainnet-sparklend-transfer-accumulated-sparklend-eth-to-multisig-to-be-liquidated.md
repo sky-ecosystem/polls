@@ -32,6 +32,8 @@ The community can vote in this poll to express support or opposition to transfer
 
 - Liquidation multisig: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2e1b01adabb8d4981863394bea23a1263cbaedfc)
 
+Any received USDS will later be transferred to the Spark Proxy and serve as additional risk capital.
+
 Please review the discussion [thread](https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796) to help inform your position before voting.
 
 ## Outcomes
