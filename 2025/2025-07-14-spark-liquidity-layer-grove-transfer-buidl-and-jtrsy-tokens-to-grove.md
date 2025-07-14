@@ -1,4 +1,3 @@
-
 ---
 title: Spark Liquidity Layer Mainnet - Grove - Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
 summary: Signal your support or opposition to transferring BUIDL and JTRSY tokens to Grove.
