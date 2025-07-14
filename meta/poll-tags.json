@@ -22,5 +22,11 @@
   "1524": ["high-impact", "risk-parameter"],
   "1525": ["high-impact", "endgame"],
   "1526": ["high-impact", "endgame"],
-  "1527": ["high-impact", "endgame", "psm"]
+  "1527": ["high-impact", "endgame", "psm"],
+  "1528": ["high-impact", "endgame"],
+  "1529": ["high-impact", "risk-parameter", "spark"],
+  "1530": ["high-impact", "risk-parameter", "spark"],
+  "1531": ["medium-impact", "risk-parameter", "spark"],
+  "1532": ["medium-impact", "spark"],
+  "1533": ["high-impact", "grove", "spark"]
 }
