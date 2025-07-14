@@ -16,7 +16,7 @@ start_date: 2025-07-14T16:00:00
 end_date: 2025-07-17T16:00:00
 ---
 
-# Poll: Spark Liquidity Layer Mainnet - Grove - Facilitate Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
+# Poll: Spark Liquidity Layer Mainnet - Grove Liquidity Layer Mainnet - Facilitate Spark Transfer of BUIDL and JTRSY tokens to Grove - July 14, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, July 14 at 16:00 UTC.
 
