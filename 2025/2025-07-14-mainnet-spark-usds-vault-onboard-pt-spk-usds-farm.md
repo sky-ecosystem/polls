@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to deploying a Spark USDS Morpho Vaul and onboarding the PT-SPK-USDS Farm with the following parameters:
+The community can vote in this poll to express support or opposition to deploying a Spark USDS Morpho Vault and onboarding the PT-SPK-USDS Farm with the following parameters:
 
 ### Vault Parameter summary:
 
