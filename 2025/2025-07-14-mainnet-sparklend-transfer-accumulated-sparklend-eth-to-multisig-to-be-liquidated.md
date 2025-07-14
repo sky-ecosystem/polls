@@ -1,5 +1,5 @@
 ---
-title: SparkLend Mainnet - Transfer accumulated SparkLend ETH to multisig to be liquidated - July 14, 2025
+title: SparkLend Mainnet - Transfer Accumulated SparkLend ETH to Multisig to be Liquidated - July 14, 2025
 summary: Signal your support or opposition to transferring the accumulated SparkLend ETH to a multisig to be liquidated.
 discussion_link: https://forum.sky.money/t/july-24-2025-proposed-changes-to-spark-for-upcoming-spell/26796
 parameters:
