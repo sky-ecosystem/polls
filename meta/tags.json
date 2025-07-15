@@ -167,7 +167,7 @@
     "shortname": "DDM",
     "longname": "Direct Deposit Module",
     "recommend_ui": true,
-    "description": "Polls relating to changes or onboarding of Direct Deposit Modules",
+    "description": "Polls relating to changes to or onboarding of Direct Deposit Modules",
     "precedence": 20
   },
   {
@@ -175,7 +175,7 @@
     "shortname": "PSM",
     "longname": "Peg Stability Module",
     "recommend_ui": true,
-    "description": "Polls relating to changes or onboarding of Peg Stability Modules",
+    "description": "Polls relating to changes to or onboarding of Peg Stability Modules",
     "related_link": "https://sky-atlas.powerhouse.io/A.3.4.2.7.1_Peg_Stability_Module/1b2f2ff0-8d73-80f4-a8bf-e0a9e05f52a3|57eaaad19a16b74d",
     "precedence": 21
   },
