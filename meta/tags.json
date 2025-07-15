@@ -61,23 +61,6 @@
     "precedence": 6
   },
   {
-    "id": "core-unit-onboard",
-    "shortname": "CU On",
-    "longname": "Core Unit Onboarding",
-    "recommend_ui": true,
-    "description": "Proposals to onboard new Core Units into MakerDAO",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP39",
-    "precedence": 7
-  },
-  {
-    "id": "core-unit-offboard",
-    "shortname": "CU Off",
-    "longname": "Core Unit Offboarding",
-    "recommend_ui": true,
-    "description": "Proposals to offboard Core Units from MakerDAO",
-    "precedence": 8
-  },
-  {
     "id": "collateral-onboard",
     "shortname": "Collateral On",
     "longname": "Collateral Onboarding",
@@ -93,15 +76,6 @@
     "recommend_ui": true,
     "description": "Polls concerning MakerDAO's Oracles",
     "precedence": 10
-  },
-  {
-    "id": "budget",
-    "shortname": "Budget",
-    "longname": "Budget",
-    "recommend_ui": true,
-    "description": "Budget proposals made by MakerDAO's Core Units",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP40",
-    "precedence": 11
   },
   {
     "id": "medium-impact",
@@ -128,15 +102,6 @@
     "description": "Changes to the System Surplus Buffer",
     "related_link": "https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer",
     "precedence": 14
-  },
-  {
-    "id": "greenlight",
-    "shortname": "Greenlight",
-    "longname": "Greenlight",
-    "recommend_ui": true,
-    "description": "Polls relating to the collateral application greenlight process",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP9",
-    "precedence": 15
   },
   {
     "id": "bridge",
@@ -172,15 +137,6 @@
     "description": "Polls relating to MakerDAO's Recognized Delegates",
     "related_link": "https://manual.makerdao.com/governance/what-is-delegation",
     "precedence": 19
-  },
-  {
-    "id": "momc",
-    "shortname": "MOMC",
-    "longname": "MakerDAO Open Market Committee",
-    "recommend_ui": true,
-    "description": "Proposals made by the MakerDAO Open Market Committee",
-    "related_link": "https://forum.makerdao.com/tag/ppg-omc-001",
-    "precedence": 20
   },
   {
     "id": "auctions",
@@ -234,69 +190,11 @@
     "precedence": 26
   },
   {
-    "id": "oracle-whitelist",
-    "shortname": "ORA Whitelist",
-    "longname": "Oracle Whitelist",
-    "recommend_ui": true,
-    "description": "Oracle Whitelist proposals",
-    "precedence": 27
-  },
-  {
-    "id": "oracle-feed",
-    "shortname": "ORA Feed",
-    "longname": "Oracle Feed",
-    "recommend_ui": true,
-    "description": "Oracle Feed Onboarding and Offboarding",
-    "precedence": 28
-  },
-  {
-    "id": "ratification",
-    "shortname": "Ratification",
-    "longname": "Ratification Poll",
-    "recommend_ui": true,
-    "description": "Ratification Polls as defined in MIP51",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP51#MIP51c2",
-    "precedence": 29
-  },
-  {
     "id": "endgame",
     "shortname": "Endgame",
     "longname": "Endgame",
     "recommend_ui": true,
     "description": "Polls related to the Endgame Plan",
     "precedence": 30
-  },
-  {
-    "id": "black-thursday",
-    "shortname": "Black Thu",
-    "longname": "Black Thursday",
-    "recommend_ui": true,
-    "description": "Polls relating to Black Thursday",
-    "precedence": 31
-  },
-  {
-    "id": "inclusion",
-    "shortname": "Inclusion",
-    "longname": "Inclusion Poll",
-    "recommend_ui": false,
-    "description": "Inclusion Polls as defined in MIP3 (obsolete)",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP3",
-    "precedence": 32
-  },
-  {
-    "id": "mcd-launch",
-    "shortname": "MCD Launch",
-    "longname": "Multi-Collateral DAI Launch",
-    "recommend_ui": false,
-    "description": "Polls relating to the launch of Multi-Collateral DAI",
-    "precedence": 33
-  },
-  {
-    "id": "prioritization-sentiment",
-    "shortname": "Priority Sentiment",
-    "longname": "Prioritization Sentiment",
-    "recommend_ui": true,
-    "description": "Polls that seek input on prioritization sentiment from MKR holders",
-    "precedence": 34
   }
 ]
