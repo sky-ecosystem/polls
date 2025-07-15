@@ -25,13 +25,22 @@
     "precedence": 3
   },
   {
-    "id": "mips",
-    "shortname": "MIP",
-    "longname": "MIP",
+    "id": "weekly",
+    "shortname": "Weekly",
+    "longname": "Weekly Atlas Edit",
     "recommend_ui": true,
-    "description": "Polls related to the Maker Improvement Proposal Process defined in MIP0",
-    "related_link": "https://mips.makerdao.com/mips/details/MIP0",
+    "description": "Polls relating to Weekly Atlas Edit Proposals",
+    "related_link": "https://sky-atlas.powerhouse.io/A.1.10.2_Atlas_Edit_Weekly_Cycle/4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308",
     "precedence": 4
+  },
+  {
+    "id": "monthly",
+    "shortname": "Monthly",
+    "longname": "Monthly Atlas Edit",
+    "recommend_ui": true,
+    "description": "Polls relating to Monthly Atlas Edit Proposals",
+    "related_link": "https://sky-atlas.powerhouse.io/A.1.11.2_Atlas_Edit_Monthly_Cycle/430185a5-fa5d-4664-89cf-21c9e6cfc109|0db3326e",
+    "precedence": 5
   },
   {
     "id": "spark",
