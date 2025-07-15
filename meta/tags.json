@@ -5,7 +5,7 @@
     "longname": "High Impact",
     "recommend_ui": true,
     "description": "Polls that the Governance Facilitators have judged high-impact",
-    "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
+    "related_link": "https://forum.sky.money/t/introducing-impact-estimations/14267",
     "precedence": 1
   },
   {
@@ -83,7 +83,7 @@
     "longname": "Medium Impact",
     "recommend_ui": true,
     "description": "Polls that the Governance Facilitators have judged medium-impact",
-    "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
+    "related_link": "https://forum.sky.money/t/introducing-impact-estimations/14267",
     "precedence": 12
   },
   {
@@ -100,7 +100,7 @@
     "longname": "System Surplus",
     "recommend_ui": true,
     "description": "Changes to the System Surplus Buffer",
-    "related_link": "https://manual.makerdao.com/parameter-index/core/param-system-surplus-buffer",
+    "related_link": "https://sky-atlas.powerhouse.io/A.3.6.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3|57ea2c54",
     "precedence": 14
   },
   {
@@ -117,7 +117,7 @@
     "longname": "Low Impact",
     "recommend_ui": true,
     "description": "Polls that the Governance Facilitators have judged low-impact",
-    "related_link": "https://forum.makerdao.com/t/introducing-impact-estimations/14267",
+    "related_link": "https://forum.sky.money/t/introducing-impact-estimations/14267",
     "precedence": 17
   },
   {
@@ -135,7 +135,7 @@
     "longname": "Delegates",
     "recommend_ui": true,
     "description": "Polls relating to Sky Protocol's Aligned Delegates",
-    "related_link": "https://manual.makerdao.com/governance/what-is-delegation",
+    "related_link": "https://sky-atlas.powerhouse.io/A.1.5_Aligned_Delegates/4addc93d-996d-408e-9750-b9c39743af4e|0db3",
     "precedence": 19
   },
   {
@@ -152,7 +152,7 @@
     "longname": "Dai Savings Rate",
     "recommend_ui": true,
     "description": "Polls affecting the Dai Savings Rate",
-    "related_link": "https://manual.makerdao.com/parameter-index/core/param-dai-savings-rate",
+    "related_link": "https://sky-atlas.powerhouse.io/A.3.2.2.4_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951",
     "precedence": 22
   },
   {
@@ -170,7 +170,7 @@
     "longname": "Peg Stability Module",
     "recommend_ui": true,
     "description": "Polls relating to changes or onboarding of Peg Stability Modules",
-    "related_link": "https://manual.makerdao.com/module-index/module-psm",
+    "related_link": "https://sky-atlas.powerhouse.io/A.3.4.2.7.1_Peg_Stability_Module/1b2f2ff0-8d73-80f4-a8bf-e0a9e05f52a3|57eaaad19a16b74d",
     "precedence": 24
   },
   {
