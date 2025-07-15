@@ -147,6 +147,15 @@
     "precedence": 21
   },
   {
+    "id": "ssr",
+    "shortname": "SSR",
+    "longname": "Sky Savings Rate",
+    "recommend_ui": true,
+    "description": "Polls affecting the Sky Savings Rate",
+    "related_link": "https://sky-atlas.powerhouse.io/A.3.2.2.2_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951",
+    "precedence": 18
+  },
+  {
     "id": "dsr",
     "shortname": "DSR",
     "longname": "Dai Savings Rate",
