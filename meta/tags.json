@@ -65,7 +65,7 @@
     "shortname": "Collateral On",
     "longname": "Collateral Onboarding",
     "recommend_ui": true,
-    "description": "Polls relating to the onboarding of collateral into Sky Protocol or its Stars",
+    "description": "Polls relating to the onboarding of collateral into the Sky Protocol or its Stars",
     "precedence": 8
   },
   {
@@ -73,7 +73,7 @@
     "shortname": "Oracle",
     "longname": "Oracle",
     "recommend_ui": true,
-    "description": "Polls concerning Oracles usage by Sky Protocol or its Stars",
+    "description": "Polls concerning Oracles usage by the Sky Protocol or its Stars",
     "precedence": 9
   },
   {
