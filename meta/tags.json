@@ -165,12 +165,12 @@
     "precedence": 22
   },
   {
-    "id": "d3m",
-    "shortname": "D3M",
-    "longname": "DAI Direct Deposit Module",
+    "id": "ddm",
+    "shortname": "DDM",
+    "longname": "Direct Deposit Module",
     "recommend_ui": true,
-    "description": "Polls relating to changes or onboarding of DAI Direct Deposit Modules",
-    "related_link": "https://manual.makerdao.com/module-index/module-dai-direct-deposit",
+    "description": "Polls relating to changes or onboarding of Direct Deposit Modules",
+    "precedence": 20
     "precedence": 23
   },
   {
