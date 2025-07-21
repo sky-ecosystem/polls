@@ -28,5 +28,9 @@
   "1530": ["high-impact", "risk-parameter", "spark"],
   "1531": ["medium-impact", "risk-parameter", "spark"],
   "1532": ["medium-impact", "spark"],
-  "1533": ["high-impact", "grove", "spark"]
+  "1533": ["high-impact", "grove", "spark"],
+  "1534": ["high-impact", "endgame"],
+  "1535": ["high-impact", "grove"],
+  "1536": ["high-impact", "grove"],
+  "1537": ["high-impact", "grove"]
 }
