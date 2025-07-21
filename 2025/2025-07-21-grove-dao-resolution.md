@@ -1,5 +1,5 @@
 ---
-title: Approve DAO Resolution Authorizing the Subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd - July 21, 2025
+title: Grove Liquidity Layer Mainnet - Approve DAO Resolution Authorizing the Subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd - July 21, 2025
 summary: Signal your support or opposition to approving a DAO Resolution authorizing the subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd.
 discussion_link: https://forum.sky.money/t/grove-legal-overview-of-jaaa/26815
 parameters:
@@ -16,9 +16,9 @@ start_date: 2025-07-21T16:00:00
 end_date: 2025-07-24T16:00:00
 ---
 
-# Poll: Approve DAO Resolution Authorizing the Subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd - July 21, 2025
+# Poll: Grove Liquidity Layer Mainnet - Approve DAO Resolution Authorizing the Subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd - July 21, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/#A.1.9.1_Operational_Weekly_Cycle-b189fa17-57a9-4d4e-9780-0ce4efd94211%7C0db30308) will be active for three days beginning on Monday, July 21 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 21 at 16:00 UTC.
 
 **This is a binary vote.**
 
