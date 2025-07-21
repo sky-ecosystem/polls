@@ -1054,5 +1054,143 @@
       "start_date": "2025-07-14T16:00:00.000Z",
       "end_date": "2025-07-17T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-07-21-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - July 21, 2025",
+      "summary": "This Atlas Edit 1) replaces the date of finalization of the Risk Framework with a specific date of July 1, 2025 for certain milestones related to Spark and Grove TGE and income generation, 2) updates the naming convention of the contracts in the Governance Security Article to be consistent with the Chainlog keys and standardizes references to the GSM Pause Delay, 3) adds a definition of the Chainlog to the Atlas, 4) clarifies that Star Agents should use their specified category when posting on the Sky Forum, 5) adds interim logic for the way in which Launch Agent 2 and Launch Agent 3 can update their respective Artifacts, 6) clarifies that any leftover funds in a derecognized AD's Buffer, after deduction of penalties, should be paid out to the AD.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-21/26829",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-07-21T16:00:00.000Z",
+      "end_date": "2025-07-24T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-07-21-grove-dao-resolution.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Approve DAO Resolution Authorizing the Subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd - July 21, 2025",
+      "summary": "Signal your support or opposition to approving a DAO Resolution authorizing the subscription to the Janus Henderson Anemoy AAA CLO Fund by Aspen Grove Ltd.",
+      "discussion_link": "https://forum.sky.money/t/grove-legal-overview-of-jaaa/26815",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-07-21T16:00:00.000Z",
+      "end_date": "2025-07-24T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-07-21-onboard-BlackRock-BUIDL-I-on-GLL-mainnet.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Onboard BlackRock BUIDL-I - July 21, 2025",
+      "summary": "Signal your support or opposition to onboarding BlackRock BUIDL-I on the Grove Liquidity Layer on Mainnet.",
+      "discussion_link": "https://forum.sky.money/t/july-24-2025-proposed-onboardings-for-grove-in-upcoming-spell/26805",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-07-21T16:00:00.000Z",
+      "end_date": "2025-07-24T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-07-21-onboard-Centrifuge-JTRSY-on-GLL-mainnet.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Onboard Centrifuge JTRSY - July 21, 2025",
+      "summary": "Signal your support or opposition to onboarding Centrifuge JTRSY on the Grove Liquidity Layer on Mainnet.",
+      "discussion_link": "https://forum.sky.money/t/july-24-2025-proposed-onboardings-for-grove-in-upcoming-spell/26805",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-07-21T16:00:00.000Z",
+      "end_date": "2025-07-24T16:00:00.000Z"
+    }
   }
 ]
