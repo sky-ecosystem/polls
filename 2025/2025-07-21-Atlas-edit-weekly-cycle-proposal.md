@@ -1,7 +1,7 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - July 21, 2025
 summary: This Atlas Edit 1) replaces the date of finalization of the Risk Framework with a specific date of July 1, 2025 for certain milestones related to Spark and Grove TGE and income generation, 2) updates the naming convention of the contracts in the Governance Security Article to be consistent with the Chainlog keys and standardizes references to the GSM Pause Delay, 3) adds a definition of the Chainlog to the Atlas, 4) clarifies that Star Agents should use their specified category when posting on the Sky Forum, 5) adds interim logic for the way in which Launch Agent 2 and Launch Agent 3 can update their respective Artifacts, 6) clarifies that any leftover funds in a derecognized AD's Buffer, after deduction of penalties, should be paid out to the AD.
-discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-21/26829/1
+discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-21/26829
 parameters:
     input_format:
         type: single-choice
@@ -40,7 +40,7 @@ The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](ht
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
 - [Atlas Edit Pull Request](https://github.com/sky-ecosystem/next-gen-atlas/pull/31)
-- [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-21/26829/1)
+- [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-07-21/26829)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
