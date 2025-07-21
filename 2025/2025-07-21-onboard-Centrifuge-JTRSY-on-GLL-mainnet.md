@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding Centrifuge JTRSY on the Grove Liquidity Layer on Mainnet with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding Centrifuge JTRSY on the Grove Liquidity Layer on Mainnet with the following [rate limit](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) parameters:
 
 - Deposits
   - Max amount: **50 million USDC**
