@@ -30,14 +30,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to onboarding the Curve pyUSD/USDC pool to the Spark Liquidity Layer on mainnet for swaps with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
-- Swap
-  - Max amount: **5 million**.
-  - Slope: **25 million per day**.
-  - Max slippage: **0.05%**.
-- Deposit
-  - Max amount: **0**.
-- Withdrawal
-  - Max amount: **0**.
+- Swap:
+  - Max amount: **5 million**
+  - Slope: **25 million per day**
+  - Max slippage: **0.05%**
+- Deposit:
+  - Max amount: **0**
+- Withdrawal:
+  - Max amount: **0**
 
 Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 
