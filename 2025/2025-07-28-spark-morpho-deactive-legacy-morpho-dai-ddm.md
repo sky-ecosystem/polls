@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 - Deactivate the legacy DDM by removing DIRECT-SPARK-DAI from the AutoLine and setting the [Debt Ceiling](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.2_Debt_Ceiling_Limit/7ae407d0-ca28-42c8-b307-6448906d7445|57eaf45219bea3b430c2) to **0**.
 
-The facility has been replaced by the Spark Liquidity Layer and is now redundant.
+The DDM has been replaced by the Spark Liquidity Layer and is now redundant.
 
 Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 

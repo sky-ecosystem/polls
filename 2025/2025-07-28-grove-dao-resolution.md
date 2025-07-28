@@ -1,6 +1,6 @@
 ---
 title: Grove Star - Approve DAO Resolution Authorizing Grove Foundation to Enter into Strategic Partnerships - July 28, 2025
-summary: Signal your support or opposition to the DAO Resolution authorizing the Grove Foudnation to enter into strategic partnerships.
+summary: Signal your support or opposition to the DAO Resolution authorizing the Grove Foundation to enter into strategic partnerships.
 discussion_link: https://forum.sky.money/t/grove-ecosystem-polls/26881
 parameters:
     input_format: single-choice

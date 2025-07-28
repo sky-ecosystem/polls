@@ -1,5 +1,5 @@
 ---
-title: SparkLend Mainnet - Update Stablecoin Rate Models to Account for [Base Rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01|7896ed3326389fe3553030cd0a82f68efd49) Spread - July 28, 2025
+title: SparkLend Mainnet - Update Stablecoin Rate Models to Account for Base Rate Spread - July 28, 2025
 summary: Signal your support or opposition to updating the stablecoin rate models for Sparklend on mainnet with the parameters listed below.
 discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896
 parameters:
@@ -51,7 +51,7 @@ The community can vote in this poll to express support or opposition to the foll
   - [Slope2](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130|7896ed3326389fe3553030cd0a82f68efd49): **15%**.
   - [Optimal Utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366|7896ed3326389fe3553030cd0a82f68efd49): **95%**.
 
-pyUSD rate model is noted in the separate SparkLend onboarding proposal.
+pyUSD rate model is noted in the separate concurrent SparkLend onboarding proposal titled "Onboard SparkLend pyUSD".
 
 Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 

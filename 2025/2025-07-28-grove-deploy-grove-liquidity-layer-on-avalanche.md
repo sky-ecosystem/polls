@@ -1,6 +1,6 @@
 ---
 title: Grove Liquidity Layer Mainnet and Avalance - Deploy Grove Liquidity Layer on Avalanche - July 28, 2025
-summary: Signal your support or opposition to deploying the Grove Liqidity Layer on Avalanche.
+summary: Signal your support or opposition to deploying the Grove Liquidity Layer on Avalanche.
 discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-grove-for-upcoming-spell/26883
 parameters:
     input_format: single-choice

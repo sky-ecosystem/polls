@@ -45,13 +45,13 @@ The community can vote in this poll to express support or opposition to onboardi
 - [Liquidation Bonus](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.7_Liquidation_Bonus_Definition/1c1f2ff0-8d73-81cc-a9e4-d29ba266e7b0|7896ed3326389fe3553030cd0a82f68efd49): **10%**.
 - [Reserve Factor](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.8_Reserve_Factor_Definition/1c1f2ff0-8d73-81a0-9436-c819cdd7bbbe|7896ed3326389fe3553030cd0a82f68efd49): **10%**.
 - [Supply Cap](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.9_Supply_Cap_Definition/1c1f2ff0-8d73-81b3-8206-e7b26cebfd73|7896ed3326389fe3553030cd0a82f68efd49): **50 million pyUSD**.
-- [Supply Cap (max)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.3_SparkLend_Risk_Parameters_Cap_Automator_Absolute_Maximum_Exposure_Definition/1c1f2ff0-8d73-8118-8297-de5ca8d630bd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **500 million pyUSD**.
-- [Supply Cap (gap)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.1_SparkLend_Risk_Parameters_Cap_Automator_Target_Available_Exposure_Definition/1c1f2ff0-8d73-8175-b303-e9cb44557afd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **50 million pyUSD**.
-- [Supply Cap (ttl)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.2_SparkLend_Risk_Parameters_Cap_Automator_Cooldown_Period_Definition/1c1f2ff0-8d73-81f7-ba0b-d2da5f735f99|7896ed3326389fe3553030cd0a82f68e65d71fb5): **12 hours**.
+- [Supply Cap (`max`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.3_SparkLend_Risk_Parameters_Cap_Automator_Absolute_Maximum_Exposure_Definition/1c1f2ff0-8d73-8118-8297-de5ca8d630bd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **500 million pyUSD**.
+- [Supply Cap (`gap`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.1_SparkLend_Risk_Parameters_Cap_Automator_Target_Available_Exposure_Definition/1c1f2ff0-8d73-8175-b303-e9cb44557afd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **50 million pyUSD**.
+- [Supply Cap (`ttl`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.2_SparkLend_Risk_Parameters_Cap_Automator_Cooldown_Period_Definition/1c1f2ff0-8d73-81f7-ba0b-d2da5f735f99|7896ed3326389fe3553030cd0a82f68e65d71fb5): **12 hours**.
 - [Borrow Cap](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.10_Borrow_Cap_Definition/1c1f2ff0-8d73-81ed-b136-d5f9871bc2c2|7896ed3326389fe3553030cd0a82f68efd49): **25 million pyUSD**.
-- [Borrow Cap (max)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.3_SparkLend_Risk_Parameters_Cap_Automator_Absolute_Maximum_Exposure_Definition/1c1f2ff0-8d73-8118-8297-de5ca8d630bd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **475 million pyUSD**.
-- [Borrow Cap (gap)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.1_SparkLend_Risk_Parameters_Cap_Automator_Target_Available_Exposure_Definition/1c1f2ff0-8d73-8175-b303-e9cb44557afd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **25 million pyUSD**.
-- [Borrow Cap (ttl)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.2_SparkLend_Risk_Parameters_Cap_Automator_Cooldown_Period_Definition/1c1f2ff0-8d73-81f7-ba0b-d2da5f735f99|7896ed3326389fe3553030cd0a82f68e65d71fb5): **12 hours**.
+- [Borrow Cap (`max`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.3_SparkLend_Risk_Parameters_Cap_Automator_Absolute_Maximum_Exposure_Definition/1c1f2ff0-8d73-8118-8297-de5ca8d630bd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **475 million pyUSD**.
+- [Borrow Cap (`gap`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.1_SparkLend_Risk_Parameters_Cap_Automator_Target_Available_Exposure_Definition/1c1f2ff0-8d73-8175-b303-e9cb44557afd|7896ed3326389fe3553030cd0a82f68e65d71fb5): **25 million pyUSD**.
+- [Borrow Cap (`ttl`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.2_SparkLend_Risk_Parameters_Cap_Automator_Cooldown_Period_Definition/1c1f2ff0-8d73-81f7-ba0b-d2da5f735f99|7896ed3326389fe3553030cd0a82f68e65d71fb5): **12 hours**.
 - Isolation Mode: **NO**.
 - Isolation Mode Debt Ceiling: n/a.
 - Liquidation Protocol Fee: **10%**.
