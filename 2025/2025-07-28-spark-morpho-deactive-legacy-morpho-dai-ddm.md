@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Spark DAI Morpho Vault Mainnet - Deactivate Legacy Morpho DAI Vault DDM - July 28, 2025
+summary: Signal your support or opposition to deactivating the legacy DDM to the Spark Morpho DAI Vault.
+discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-07-28T16:00:00
+end_date: 2025-07-31T16:00:00
 ---
 
-# Poll: $GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Spark DAI Morpho Vault Mainnet - Deactivate Legacy Morpho DAI Vault DDM - July 28, 2025
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 28 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -30,10 +30,11 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-- $GenericChangeA
-- $GenericChangeB
+- Deactivate the legacy DDM by removing DIRECT-SPARK-DAI from the AutoLine and setting the [Debt Ceiling](https://sky-atlas.powerhouse.io/A.3.8.1.1.2.2_Debt_Ceiling_Limit/7ae407d0-ca28-42c8-b307-6448906d7445|57eaf45219bea3b430c2) to **0**.
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+The DDM has been replaced by the Spark Liquidity Layer and is now redundant.
+
+Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 
 ## Outcomes
 
