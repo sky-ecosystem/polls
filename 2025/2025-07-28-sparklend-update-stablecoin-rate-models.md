@@ -16,7 +16,7 @@ start_date: 2025-07-28T16:00:00
 end_date: 2025-07-31T16:00:00
 ---
 
-# Poll: SparkLend Mainnet - Update Stablecoin Rate Models to Account for [Base Rate](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.3_Interest_Rate_Model_Definition/1c1f2ff0-8d73-81dd-99c0-fc707ce48e01|7896ed3326389fe3553030cd0a82f68efd49) Spread - July 28, 2025
+# Poll: SparkLend Mainnet - Update Stablecoin Rate Models to Account for Base Rate Spread - July 28, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 28 at 16:00 UTC.
 
