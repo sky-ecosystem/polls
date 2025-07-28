@@ -32,5 +32,16 @@
   "1534": ["high-impact", "endgame"],
   "1535": ["high-impact", "grove"],
   "1536": ["high-impact", "grove"],
-  "1537": ["high-impact", "grove"]
+  "1537": ["high-impact", "grove"],
+  "1538": ["high-impact", "misc-governance", "endgame"],
+  "1539": ["medium-impact", "real-world-assets", "grove"],
+  "1540": ["high-impact", "real-world-assets", "bridge", "grove"],
+  "1541": ["high-impact", "real-world-assets", "grove"],
+  "1542": ["high-impact", "real-world-assets", "collateral-onboard", "grove"],
+  "1543": ["medium-impact", "spark"],
+  "1544": ["high-impact", "collateral-onboard", "spark"],
+  "1545": ["low-impact", "technical", "risk-parameter", "d3m", "spark"],
+  "1546": ["medium-impact", "technical", "spark"],
+  "1547": ["high-impact", "collateral-onboard", "risk-parameter", "spark"],
+  "1548": ["medium-impact", "risk-parameter", "spark"]
 }
