@@ -36,7 +36,7 @@ The community can vote in this poll to express support or opposition to deployin
 
 - CCTP MESSENGER: [0x6B25532e1060CE10cc3B0A99e5683b91BFDe6982](https://snowtrace.io/address/0x6B25532e1060CE10cc3B0A99e5683b91BFDe6982)
 
-- ALM Controller: [0xdD6E2A3923482691710b3D29fD4073bCefefAA71](https://snowtrace.io/address/0xdD6E2A3923482691710b3D29fD4073bCefefAA71)
+- ALM Controller: [0xEc4Cb675AF8C8665903025C2812d1234A1708bb6](https://snowtrace.io/address/0xEc4Cb675AF8C8665903025C2812d1234A1708bb6)
 - ALM Proxy: [0x7107DD8F56642327945294a18A4280C78e153644](https://snowtrace.io/address/0x7107DD8F56642327945294a18A4280C78e153644)
 - ALM Rate Limits: [0x6ba2e6bCCe3d2A31F1e3e1d3e11CDffBaA002A21](https://snowtrace.io/address/0x6ba2e6bCCe3d2A31F1e3e1d3e11CDffBaA002A21)
 
