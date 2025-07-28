@@ -1,5 +1,5 @@
 ---
-title: Grove Liquidity Layer Mainnet and Avalance - Deploy Grove Liquidity Layer on Avalanche - July 28, 2025
+title: Grove Liquidity Layer Mainnet and Avalanche - Deploy Grove Liquidity Layer on Avalanche - July 28, 2025
 summary: Signal your support or opposition to deploying the Grove Liquidity Layer on Avalanche.
 discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-grove-for-upcoming-spell/26883
 parameters:
@@ -16,7 +16,7 @@ start_date: 2025-07-28T16:00:00
 end_date: 2025-07-31T16:00:00
 ---
 
-# Poll: Grove Liquidity Layer Mainnet and Avalance - Deploy Grove Liquidity Layer on Avalanche - July 28, 2025
+# Poll: Grove Liquidity Layer Mainnet and Avalanche - Deploy Grove Liquidity Layer on Avalanche - July 28, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 28 at 16:00 UTC.
 

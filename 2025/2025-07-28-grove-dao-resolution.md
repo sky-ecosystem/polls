@@ -36,7 +36,7 @@ Please review the discussion [thread](https://forum.sky.money/t/grove-ecosystem-
 
 **If the votes for the 'Yes' option exceed the votes for the 'No' option then the following actions will be taken:**
 
-- The DAO Resolution authorizing the Grove Foundation to enter into strategic partnerships will be appproved.
+- The DAO Resolution authorizing the Grove Foundation to enter into strategic partnerships will be approved.
 
 **If the votes for the 'No' option equal or exceed the votes for the 'Yes' option then no further action will be taken at this time.**
 
