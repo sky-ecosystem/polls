@@ -1,6 +1,6 @@
 ---
-title: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD/USDC Pool for Swaps - July 28, 2025
-summary: Signal your support or opposition to onboarding the Curve pyUSD/USDC pool to the Spark Liquidity Layer with the listed parameters.
+title: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD-USDC Pool for Swaps - July 28, 2025
+summary: Signal your support or opposition to onboarding the Curve pyUSD-USDC pool to the Spark Liquidity Layer with the listed parameters.
 discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896
 parameters:
     input_format: single-choice
@@ -16,7 +16,7 @@ start_date: 2025-07-28T16:00:00
 end_date: 2025-07-31T16:00:00
 ---
 
-# Poll: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD/USDC Pool for Swaps - July 28, 2025
+# Poll: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD-USDC Pool for Swaps - July 28, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 28 at 16:00 UTC.
 
@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the Curve pyUSD/USDC pool to the Spark Liquidity Layer on mainnet for swaps with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+The community can vote in this poll to express support or opposition to onboarding the Curve pyUSD-USDC pool to the Spark Liquidity Layer on mainnet for swaps with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Swap:
   - Max amount: **5 million**
