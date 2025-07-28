@@ -51,7 +51,7 @@ The community can vote in this poll to express support or opposition to the foll
   - [Slope2](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.17_Slope_2_Definition/1c1f2ff0-8d73-8199-aa99-dde95c3f7130|7896ed3326389fe3553030cd0a82f68efd49): **15%**.
   - [Optimal Utilization](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.11_Optimal_Utilization_Definition/1c1f2ff0-8d73-8173-a52b-d6f86efd3366|7896ed3326389fe3553030cd0a82f68efd49): **95%**.
 
-pyUSD rate model is noted in the separate concurrent SparkLend onboarding proposal titled "Onboard SparkLend pyUSD".
+pyUSD rate model is noted in the concurrent SparkLend onboarding proposal titled "Onboard SparkLend pyUSD".
 
 Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 
