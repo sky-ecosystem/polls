@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 Grove Labs proposes a transition from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3. This migration allows Grove to leverage new features offered by Centrifuge V3, such as the capability to transfer vault tokens across multiple chains supported by Centrifuge V3. Additionally, this update aligns Grove’s infrastructure with Centrifuge’s latest tech stack.
 
-The underlying assets and structures remain the same across the V2 and V3 implementation. Existing vault share tokens held by the Grove ALM Proxy will remain unaffected and work directly with Centrifuge V3. Centrifuge V3 has undergone a series of security audits, available [here](https://docs.centrifuge.io/developer/protocol/security/). Updated addresses can be verified [here](https://docs.centrifuge.io/developer/protocol/deployments/).
+The underlying assets and structures remain the same across the V2 and V3 implementations. Existing vault share tokens held by the Grove ALM Proxy will remain unaffected and work directly with Centrifuge V3. Centrifuge V3 has undergone a series of security audits, available [here](https://docs.centrifuge.io/developer/protocol/security/). Updated addresses can be verified [here](https://docs.centrifuge.io/developer/protocol/deployments/).
 
 - [Mainnet] JTRSY (V2) Address: [0x36036fFd9B1C6966ab23209E073c68Eb9A992f50](https://etherscan.io/address/0x36036fFd9B1C6966ab23209E073c68Eb9A992f50)
     - Parameters:
