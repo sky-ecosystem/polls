@@ -132,7 +132,7 @@
     "shortname": "DAO Resolution",
     "longname": "DAO Resolution",
     "recommend_ui": true,
-    "description": "Polls relating to DAO Resolutions for agreements relating to the Sky Protocol or its Stars.",
+    "description": "Polls relating to DAO Resolutions for agreements relating to the Sky Protocol or its Stars",
     "precedence": 16
   },
   {
