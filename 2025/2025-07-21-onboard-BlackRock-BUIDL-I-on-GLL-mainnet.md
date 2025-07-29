@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Grove Liquidity Layer Mainnet - Onboard BlackRock BUIDL-I - July 21, 2025
+summary: Signal your support or opposition to onboarding BlackRock BUIDL-I on the Grove Liquidity Layer on Mainnet.
+discussion_link: https://forum.sky.money/t/july-24-2025-proposed-onboardings-for-grove-in-upcoming-spell/26805
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-07-21T16:00:00
+end_date: 2025-07-24T16:00:00
 ---
 
-# Poll: $GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Grove Liquidity Layer Mainnet - Onboard BlackRock BUIDL-I - July 21, 2025
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 21 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,12 +28,17 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to onboarding BlackRock BUIDL-I on the Grove Liquidity Layer on Mainnet with the following [rate limit](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) parameters:
 
-- $GenericChangeA
-- $GenericChangeB
+- Deposits
+  - Max amount: **50 million USDC**
+  - Slope: **50 million USDC per day**
+- Withdrawals
+  - Max amount: **Unlimited**
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Token address: [0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041](https://etherscan.io/token/0x6a9DA2D710BB9B700acde7Cb81F10F1fF8C89041)
+
+Please review the discussion [thread](https://forum.sky.money/t/july-24-2025-proposed-onboardings-for-grove-in-upcoming-spell/26805) to help inform your position before voting.
 
 ## Outcomes
 

@@ -1,7 +1,7 @@
 ---
-title: $GenericChange - $date_MONTH_DD,_YYYY
-summary: Signal your support or opposition to $GenericChange.
-discussion_link: $discussion_link
+title: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD-USDC Pool for Swaps - July 28, 2025
+summary: Signal your support or opposition to onboarding the Curve pyUSD-USDC pool to the Spark Liquidity Layer with the listed parameters.
+discussion_link: https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896
 parameters:
     input_format: single-choice
     victory_conditions:
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-07-28T16:00:00
+end_date: 2025-07-31T16:00:00
 ---
 
-# Poll: $GenericChange - $date_MONTH_DD,_YYYY
+# Poll: Spark Liquidity Layer Mainnet - Onboard Curve pyUSD-USDC Pool for Swaps - July 28, 2025
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, July 28 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,12 +28,18 @@ The $poll_deployers have placed a Governance Poll into the voting system on beha
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes:
+The community can vote in this poll to express support or opposition to onboarding the Curve pyUSD-USDC pool to the Spark Liquidity Layer on mainnet for swaps with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
-- $GenericChangeA
-- $GenericChangeB
+- Swap:
+  - Max amount: **5 million**
+  - Slope: **25 million per day**
+  - Max slippage: **0.05%**
+- Deposit:
+  - Max amount: **0**
+- Withdrawal:
+  - Max amount: **0**
 
-Please review the discussion [thread]($discussion_link) to help inform your position before voting.
+Please review the discussion [thread](https://forum.sky.money/t/august-7-2025-proposed-changes-to-spark-for-upcoming-spell/26896) to help inform your position before voting.
 
 ## Outcomes
 
