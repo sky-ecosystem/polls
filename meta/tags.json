@@ -47,7 +47,7 @@
     "shortname": "Spark",
     "longname": "Spark Star",
     "recommend_ui": true,
-    "description": "Polls related to the Spark Star",
+    "description": "Polls relating to the Spark Star",
     "related_link": "https://spark.fi/",
     "precedence": 6
   },
@@ -56,7 +56,7 @@
     "shortname": "Grove",
     "longname": "Grove Star",
     "recommend_ui": true,
-    "description": "Polls related to the Grove Star",
+    "description": "Polls relating to the Grove Star",
     "related_link": "https://www.grove.finance/",
     "precedence": 7
   },
@@ -149,7 +149,7 @@
     "shortname": "Auction",
     "longname": "Auction",
     "recommend_ui": true,
-    "description": "Polls related to auctions and auction parameters in the Sky Protocol",
+    "description": "Polls relating to auctions and auction parameters in the Sky Protocol",
     "precedence": 18
   },
   {
@@ -192,7 +192,7 @@
     "shortname": "Misc Fund",
     "longname": "Misc Funding",
     "recommend_ui": true,
-    "description": "Polls related to miscellaneous funding proposals",
+    "description": "Polls relating to miscellaneous funding proposals",
     "precedence": 23
   },
   {
@@ -200,7 +200,7 @@
     "shortname": "Misc Gov",
     "longname": "Misc Governance",
     "recommend_ui": true,
-    "description": "Miscellaneous Polls related to Governance",
+    "description": "Miscellaneous Polls relating to Governance",
     "precedence": 24
   },
   {
@@ -208,7 +208,7 @@
     "shortname": "Endgame",
     "longname": "Endgame",
     "recommend_ui": true,
-    "description": "Polls related to the Endgame Plan",
+    "description": "Polls relating to the Endgame Plan",
     "precedence": 25
   }
 ]
