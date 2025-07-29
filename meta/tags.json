@@ -13,7 +13,7 @@
     "shortname": "Parameter",
     "longname": "Risk Parameter",
     "recommend_ui": true,
-    "description": "Polls that change risk parameters within the Sky Protocol",
+    "description": "Polls that change risk parameters within the Sky Protocol or its Stars",
     "precedence": 2
   },
   {
@@ -21,7 +21,7 @@
     "shortname": "Tech",
     "longname": "Technical",
     "recommend_ui": true,
-    "description": "Polls relating to technical changes to the Sky Protocol",
+    "description": "Polls relating to technical changes to the Sky Protocol or its Stars",
     "precedence": 3
   },
   {
@@ -149,7 +149,7 @@
     "shortname": "Auction",
     "longname": "Auction",
     "recommend_ui": true,
-    "description": "Polls relating to auctions and auction parameters in the Sky Protocol",
+    "description": "Polls relating to auctions and auction parameters in the Sky Protocol or its Stars",
     "precedence": 18
   },
   {
