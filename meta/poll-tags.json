@@ -43,6 +43,6 @@
   "1544": ["high-impact", "spark", "collateral-onboard"],
   "1546": ["medium-impact", "spark", "technical"],
   "1547": ["high-impact", "risk-parameter", "spark", "collateral-onboard"],
-  "1548": ["medium-impact", "risk-parameter", "spark"]
-  "1549": ["high-impact", "real-world-assets", "misc-governance", "endgame", "grove", "spark"]
+  "1548": ["medium-impact", "risk-parameter", "spark"],
+  "1549": ["high-impact", "spark", "grove", "weekly", "misc-governance", "endgame"]
 }
