@@ -1547,5 +1547,50 @@
       "start_date": "2025-07-28T16:00:00.000Z",
       "end_date": "2025-07-31T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-08-04-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - August 4, 2025",
+      "summary": "This Atlas edit 1) documents the simplified profit and loss calculation that will be used in Stage 1 of the implementation of the Monthly Settlement Cycle, 2) updates the minimum level of Actively Stabilizing Collateral that Stars must maintain and defines Resting versus Latent Actively Stabilizing Collateral, 3) updates the Required Risk Capital for Real World Assets to take into account new versus existing deployments, 4) removes exceptions for Maple from the Risk Framework since risk assessments for Maple have now been completed, 5) adds the terms for sharing revenue from investments in USDe and sUSDe to the Ecosystem Accord between Spark and Grove, 6) updates the name of yUSDS to stUSDS, 7) incorporates the Linear Interpolation Module and its features in the Atlas.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-08-04/26957",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-04T16:00:00.000Z",
+      "end_date": "2025-08-07T16:00:00.000Z"
+    }
   }
 ]
