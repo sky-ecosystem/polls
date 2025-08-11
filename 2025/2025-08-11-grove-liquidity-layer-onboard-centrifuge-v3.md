@@ -58,7 +58,7 @@ The community can vote in this poll to express support or opposition to transiti
     - Slope: **50 million USDC per day (same as V2)**
   - Withdrawals:
     - Max amount: **Unlimited (same as V2)**
-- [Avalanche] JTRSY (V3) Address: 0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A
+- [Avalanche] JTRSY (V3) Address: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://snowtrace.io/address/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Parameters:
   - Deposits:
     - Max amount: 50 million USDC
