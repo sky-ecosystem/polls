@@ -44,5 +44,13 @@
   "1546": ["medium-impact", "spark", "technical"],
   "1547": ["high-impact", "risk-parameter", "spark", "collateral-onboard"],
   "1548": ["medium-impact", "risk-parameter", "spark"],
-  "1549": ["high-impact", "spark", "grove", "weekly", "misc-governance", "endgame"]
+  "1549": ["high-impact", "spark", "grove", "weekly", "misc-governance", "endgame"],
+  "1550": ["high-impact", "weekly", "misc-governance"],
+  "1551": ["high-impact", "weekly", "misc-governance"],
+  "1552": ["high-impact", "grove", "technical"],
+  "1553": ["high-impact", "grove", "technical"],
+  "1554": ["high-impact", "grove", "technical"],
+  "1555": ["low-impact", "spark"],
+  "1556": ["low-impact", "spark", "misc-funding"],
+  "1557": ["high-impact", "risk-parameter", "spark"]
 }
