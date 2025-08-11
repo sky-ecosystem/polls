@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to updating the following market parameter changes for SparkLend on mainnet:
+The community can vote in this poll to express support or opposition to updating the market parameters for SparkLend on mainnet below as follows.
 
 ### ETH
 
