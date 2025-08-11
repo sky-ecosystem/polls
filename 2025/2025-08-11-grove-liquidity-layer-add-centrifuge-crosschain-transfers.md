@@ -18,7 +18,7 @@ end_date: 2025-08-14T16:00:00
 
 # Poll: Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Crosschain Transfers - August 11, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Faciltiators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 11 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 11 at 16:00 UTC.
 
 **This is a binary vote.**
 
