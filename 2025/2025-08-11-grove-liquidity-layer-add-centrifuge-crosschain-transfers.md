@@ -48,7 +48,6 @@ Furthermore, `setCentrifugeRecipient` will be called with following parameters f
 - centrifugeId: 5
 - receipient: Avalanche.ALM_PROXY
 
-
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993) to help inform your position before voting.
 
 ## Outcomes
