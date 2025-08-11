@@ -40,13 +40,13 @@ LIMIT_CENTRIFUGE_TRANSFER:
 - JTRSY (V3) token: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/token/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A) 
 - Avalanche destinationCentrifugeId: **5**
 - Parameters:
-  - Max amount: 50 million JTRSY
-  - Slope: 50 million JTRSY per day
+  - Max amount: **50 million JTRSY**
+  - Slope: **50 million JTRSY per day**
 
 Furthermore, `setCentrifugeRecipient` will be called with following parameters for the Grove_ALM_Proxy on Avalanche:
 
-- centrifugeId: 5
-- recipient: Avalanche.ALM_PROXY
+- centrifugeId: **5**
+- recipient: **Avalanche.ALM_PROXY**
 
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993) to help inform your position before voting.
 
