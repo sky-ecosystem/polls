@@ -65,7 +65,7 @@ The community can vote in this poll to express support or opposition to transiti
     - Slope: 50 million USDC per day
   - Withdrawals:
     - Max amount: Unlimited
-- [Avalanche] JAAA (V3) Address: 0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784
+- [Avalanche] JAAA (V3) Address: [0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784](https://snowtrace.io/address/0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784)
 - Parameters:
   - Deposits:
     - Max amount: 50 million USDC
