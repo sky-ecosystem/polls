@@ -1,5 +1,5 @@
 ---
-title: SparkLend Mainnet - Refresh Market Parameters - August 11, 2025
+title: SparkLend Mainnet - Refresh Market Parameters for Multiple Assets - August 11, 2025
 summary: Signal your support or opposition to updating SparkLend market parameters for the multiple assets listed below listed below.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997
 parameters:
