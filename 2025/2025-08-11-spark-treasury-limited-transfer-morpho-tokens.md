@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following limited transfer of MORPHO tokens by the Spark Treasury:
+The community can vote in this poll to express support or opposition to activating the following rate-limited transfer of MORPHO tokens from the Spark Treasury to an external Spark multisig:
 
 - Recipient address: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2e1b01adabb8d4981863394bea23a1263cbaedfc) (Spark multisig)
 - Rate limit: **100,000 MORPHO per day**
