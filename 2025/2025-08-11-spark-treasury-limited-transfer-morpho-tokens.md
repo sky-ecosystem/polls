@@ -1,6 +1,6 @@
 ---
 title: Spark Treasury - Authorize Rate Limited Transfer of MORPHO Tokens to Multisig - August 11, 2025
-summary: Signal your support or opposition to authorizing a limited transfer of MORPHO tokens to Spark Multisig on mainnet.
+summary: Signal your support or opposition to authorizing a rate-limited transfer of MORPHO tokens from the Spark Treasury to a Spark multisig on mainnet.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997
 parameters:
     input_format: single-choice
