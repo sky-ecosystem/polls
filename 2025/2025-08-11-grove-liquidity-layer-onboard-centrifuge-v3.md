@@ -1,6 +1,6 @@
 ---
 title: Grove Liquidity Layer Mainnet - Onboard Centrifuge V3 and Offboard Centrifuge V2 - August 11, 2025
-summary: Signal your support or opposition to transition from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet.
+summary: Signal your support or opposition to transitioning from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993
 parameters:
     input_format: single-choice
