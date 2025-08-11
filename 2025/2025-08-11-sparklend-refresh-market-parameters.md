@@ -41,7 +41,7 @@ The community can vote in this poll to express support or opposition to updating
 
 - [Maximum LTV](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.4_LTV_Definition/1c1f2ff0-8d73-81bb-8385-c4bc0c1ebd30%7C7896ed3326389fe3553030cd0a82f68efd49): 83%
 - [Liquidation threshold](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.5_Liquidation_Threshold_Definition/1c1f2ff0-8d73-81ea-bd7e-feb73a44923a%7C7896ed3326389fe3553030cd0a82f68efd49): 84%
-- [Borrow cap max](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.1.10_Borrow_Cap_Definition/1c1f2ff0-8d73-81ed-b136-d5f9871bc2c2%7C7896ed3326389fe3553030cd0a82f68efd49): 1 wstETH
+- [Borrow cap Absolute Maximum Exposure (`max`)](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3.1.3_SparkLend_Risk_Parameters_Cap_Automator_Absolute_Maximum_Exposure_Definition/1c1f2ff0-8d73-8118-8297-de5ca8d630bd|7896ed3326389fe3553030cd0a82f68e65d71fb5):  1 wstETH
 
 ### rETH
 
