@@ -32,21 +32,21 @@ The community can vote in this poll to express support or opposition to upgradin
 
 LIMIT_CENTRIFUGE_TRANSFER:
 
-- JAAA (V3) token: 0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784
-- Ethereum destinationCentrifugeId: 1
+- JAAA (V3) token: [0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784](https://etherscan.io/address/0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784)
+- Ethereum destinationCentrifugeId: **1**
 - Parameters
-  - Max amount: 50 million JAAA
-  - Slope: 50 million JAAA per day
-- JTRSY (V3) token: 0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A
-- Ethereum destinationCentrifugeId: 1
+  - Max amount: **50 million JAAA**
+  - Slope: **50 million JAAA per day**
+- JTRSY (V3) token: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/address/0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784)
+- Ethereum destinationCentrifugeId: **1**
 - Parameters:
-  - Max amount: 50 million JTRSY
-  - Slope: 50 million JTRSY per day
+  - Max amount: **50 million JTRSY**
+  - Slope: **50 million JTRSY per day**
 
 Furthermore, `setCentrifugeRecipient` will be called with following parameters for the Grove_ALM_Proxy on Ethereum:
 
-- centrifugeId: 1
-- receipient: Ethereum.ALM_PROXY
+- centrifugeId: **1**
+- receipient: **Ethereum.ALM_PROXY**
 
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993) to help inform your position before voting.
 
