@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following Spark Liquidity Layer Mainnet change to the Spark USDS Morpho Vault:
+The community can vote in this poll to express support or opposition to the following change to the Spark USDS Morpho Vault on mainnet :
 
 - Set vault curator fee: **10%**
 
