@@ -44,7 +44,7 @@ The community can vote in this poll to express support or opposition to the foll
     - Slope: 0 USDC (Offboarding)
   - Withdrawals:
     - Max amount: 0 (Offboarding)
-- [Mainnet] JTRSY (V3) Address: 0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A
+- [Mainnet] JTRSY (V3) Address: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/token/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Parameters:
   - Deposits:
     - Max amount: 50 million USDC (same as V2)
