@@ -1,6 +1,6 @@
 ---
 title: Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025
-summary: Signal your support or opposition to upgrade the ForeignController on Grove Liquidity Layer mainnet with added functionality related to ERC7540 Centrifuge vaults.
+summary: Signal your support or opposition to upgrade the Grove Liquidity Layer's ForeignController on mainnet with added functionality related to ERC7540 Centrifuge vaults.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993
 parameters:
     input_format: single-choice
