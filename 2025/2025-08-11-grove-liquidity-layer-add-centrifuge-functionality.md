@@ -1,5 +1,5 @@
 ---
-title: Grove Liquidity Layer Mainnet - - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025
+title: Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025
 summary: Signal your support or opposition to upgrade the ForeignController on Grove Liquidity Layer mainnet with added functionality related to ERC7540 Centrifuge vaults.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993
 parameters:
@@ -16,7 +16,7 @@ start_date: 2025-08-11T16:00:00
 end_date: 2025-08-14T16:00:00
 ---
 
-# Poll: Grove Liquidity Layer Mainnet - - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025
+# Poll: Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Faciltiators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 11 at 16:00 UTC.
 
