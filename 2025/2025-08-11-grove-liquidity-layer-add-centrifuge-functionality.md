@@ -43,7 +43,7 @@ LIMIT_CENTRIFUGE_TRANSFER:
   - Max amount: **50 million JTRSY**
   - Slope: **50 million JTRSY per day**
 
-Furthermore, `setCentrifugeRecipient` will be called with following parameters for the Grove_ALM_Proxy on Ethereum:
+Furthermore, `setCentrifugeRecipient` will be called with the following parameters for the Grove_ALM_Proxy on Ethereum:
 
 - centrifugeId: **1**
 - receipient: **Ethereum.ALM_PROXY**
