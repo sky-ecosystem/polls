@@ -1592,5 +1592,281 @@
       "start_date": "2025-08-04T16:00:00.000Z",
       "end_date": "2025-08-07T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-08-11-Atlas-edit-weekly-cycle-proposal-2.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal 2 - August 11, 2025",
+      "summary": "This Atlas Edit 1) adds Ecosystem Entity grants, 2) modifies token rewards and the burn engine.",
+      "discussion_link": "https://forum.sky.money/t/weekly-cycle-atlas-edit-proposal-week-starting-2025-08-11/27008",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - August 11, 2025",
+      "summary": "This Atlas Edit 1) renames Star Agents to Prime Agents, 2) renames Prime Delegates to Ranked Delegates, 3) updates Ethena risk capital requirements, 4) refines risk requirements for Real World Assets, 5) clarifies operator of the Spark Liquidity Layer, 6) removes logic for DDM Vaults from Sky Core Atlas, 7) unifies terminology for administrative risk, 8) makes follow up changes from the August 4th Atlas Edit Weekly Cycle Proposal.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-08-11/26991",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-grove-liquidity-layer-add-centrifuge-crosschain-transfers.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Crosschain Transfers - August 11, 2025",
+      "summary": "Signal your support or opposition to upgrading the Grove Liquidity Layer controller on mainnet to enable Centrifuge crosschain transfers.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-grove-liquidity-layer-add-centrifuge-functionality.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Functionality - August 11, 2025",
+      "summary": "Signal your support or opposition to upgrade the Grove Liquidity Layer's ForeignController on mainnet with added functionality related to ERC7540 Centrifuge vaults.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-grove-liquidity-layer-onboard-centrifuge-v3.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet - Onboard Centrifuge V3 and Offboard Centrifuge V2 - August 11, 2025",
+      "summary": "Signal your support or opposition to transitioning from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-spark-liquidity-layer-activate-usds-morpho-vault-fee.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Spark USDS Morpho Vault - Activate Vault Fee - August 11, 2025",
+      "summary": "Signal your support or opposition to adding a 10% vault curator fee to the newly launched Spark USDS Morpho vault on Ethereum mainnet.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-spark-treasury-limited-transfer-morpho-tokens.md",
+    "metadata": {
+      "title": "Spark Treasury - Authorize Rate Limited Transfer of MORPHO Tokens to Multisig - August 11, 2025",
+      "summary": "Signal your support or opposition to authorizing a rate-limited transfer of MORPHO tokens from the Spark Treasury to a Spark multisig on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-11-sparklend-refresh-market-parameters.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Refresh Market Parameters for Multiple Assets - August 11, 2025",
+      "summary": "Signal your support or opposition to updating SparkLend market parameters for the multiple assets.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-11T16:00:00.000Z",
+      "end_date": "2025-08-14T16:00:00.000Z"
+    }
   }
 ]
