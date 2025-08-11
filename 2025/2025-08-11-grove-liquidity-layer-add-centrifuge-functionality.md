@@ -37,7 +37,7 @@ LIMIT_CENTRIFUGE_TRANSFER:
 - Parameters
   - Max amount: **50 million JAAA**
   - Slope: **50 million JAAA per day**
-- JTRSY (V3) token: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/address/0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784)
+- JTRSY (V3) token: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/address/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Ethereum destinationCentrifugeId: **1**
 - Parameters:
   - Max amount: **50 million JTRSY**
