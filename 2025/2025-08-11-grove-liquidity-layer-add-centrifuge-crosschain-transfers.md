@@ -1,6 +1,6 @@
 ---
 title: Grove Liquidity Layer Mainnet - Upgrade Controller - Add Centrifuge Crosschain Transfers - August 11, 2025
-summary: Signal your support or opposition to upgrading the Grove Liquitiy Layer controller on mainnet to enable Centrifuge crosschain transfers.
+summary: Signal your support or opposition to upgrading the Grove Liquidity Layer controller on mainnet to enable Centrifuge crosschain transfers.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993
 parameters:
     input_format: single-choice
