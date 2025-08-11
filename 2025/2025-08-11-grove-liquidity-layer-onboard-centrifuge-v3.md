@@ -30,34 +30,34 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to transitioning from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet as follows:
 
-- [Mainnet] JTRSY (V2) Address: 0x36036fFd9B1C6966ab23209E073c68Eb9A992f50
+- [Mainnet] JTRSY (V2) Address: [0x36036fFd9B1C6966ab23209E073c68Eb9A992f50](https://etherscan.io/address/0x36036fFd9B1C6966ab23209E073c68Eb9A992f50)
 - Parameters:
   - Deposits:
-    - Max amount: 0 USDC (Offboarding)
-    - Slope: 0 USDC (Offboarding)
+    - Max amount: **0 USDC (Offboarding)**
+    - Slope: **0 USDC (Offboarding)**
   - Withdrawals:
-    - Max amount: 0 (Offboarding)
-- [Mainnet] JAAA (V2) Address: 0xE9d1f733F406D4bbbDFac6D4CfCD2e13A6ee1d01
+    - Max amount: **0 (Offboarding)**
+- [Mainnet] JAAA (V2) Address: [0xE9d1f733F406D4bbbDFac6D4CfCD2e13A6ee1d01](https://etherscan.io/address/0xE9d1f733F406D4bbbDFac6D4CfCD2e13A6ee1d01)
 - Parameters:
   -  Deposits:
-    - Max amount: 0 USDC (Offboarding)
-    - Slope: 0 USDC (Offboarding)
+    - Max amount: **0 USDC (Offboarding)**
+    - Slope: **0 USDC (Offboarding)**
   - Withdrawals:
-    - Max amount: 0 (Offboarding)
+    - Max amount: **0 (Offboarding)**
 - [Mainnet] JTRSY (V3) Address: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/token/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Parameters:
   - Deposits:
-    - Max amount: 50 million USDC (same as V2)
-    - Slope: 50 million USDC per day (same as V2)
+    - Max amount: **50 million USDC (same as V2)**
+    - Slope: **50 million USDC per day (same as V2)**
   - Withdrawals:
-    - Max amount: Unlimited (same as V2)
-- [Mainnet] JAAA (V3) Address: 0x4880799eE5200fC58DA299e965df644fBf46780B
+    - Max amount: **Unlimited (same as V2)**
+- [Mainnet] JAAA (V3) Address: [0x4880799eE5200fC58DA299e965df644fBf46780B](https://etherscan.io/address/0x4880799eE5200fC58DA299e965df644fBf46780B)
 - Parameters:
   - Deposits:
-    - Max amount: 100 million USDC (same as V2)
-    - Slope: 50 million USDC per day (same as V2)
+    - Max amount: **100 million USDC (same as V2)**
+    - Slope: **50 million USDC per day (same as V2)**
   - Withdrawals:
-    - Max amount: Unlimited (same as V2)
+    - Max amount: **Unlimited (same as V2)**
 - [Avalanche] JTRSY (V3) Address: 0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A
 - Parameters:
   - Deposits:
