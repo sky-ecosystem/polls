@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Spark USDS Morpho Vault - Activate Vault Fee - August 11, 2025
-summary: Signal your support or opposition to adding a 10% vault curator fee to the newly launched Spark USDC Morpho vault on Ethereum mainnet. 
+summary: Signal your support or opposition to adding a 10% vault curator fee to the newly launched Spark USDS Morpho vault on Ethereum mainnet. 
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell/26997
 parameters:
     input_format: single-choice
