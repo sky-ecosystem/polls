@@ -47,19 +47,12 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 _This proposal includes the following edits:_
 
 - _**Rename Star Agents To Prime Agents** - Renames Star Agents to Prime Agents to prepare for the introduction of Halo Agents._
-
 - _**Rename Prime Delegates To Ranked Delegates** - Renames Prime Delegates to Ranked Delegates to avoid potential confusion given the introduction of Prime Agents._
-
 - _**Update Ethena Risk Capital Requirements** - Updates the near-term Required Risk Capital for Ethena exposures._
-
 - _**Refine Risk Requirements For Real World Assets** - Refines the Risk Framework requirements for investments in JTRSY and JAAA._
-
 - _**Clarify Operator Of Spark Liquidity Layer** - Clarifies that Spark has overall responsibility for the operation of the Spark Liquidity Layer._
-
 - _**Remove Logic For DDM Vaults From Sky Core Atlas** - Removes logic for the deprecated Morpho Dai DDM Vault from the Sky Core Atlas._
-
 - _**Use Consistent Terminology For Administrative Risk** - Updates references to “Admin Risk” to “Administrative Risk” for consistency._
-
 - _**Make Follow Up Changes From August 4th Atlas Edit Weekly Cycle Proposal** - Updates terminology used in the Simplified Profit And Loss Calculation and clarifies the assets that qualify as Resting versus Latent Actively Stabilizing Collateral._
 
 ## Outcomes
