@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to transitioning from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet as follows:
+The community can vote in this poll to express support or opposition to transitioning from the existing Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V2 to the Tokenized JAAA and Tokenized JTRSY vaults on Centrifuge V3 for the Grove Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - [Mainnet] JTRSY (V2) Address: [0x36036fFd9B1C6966ab23209E073c68Eb9A992f50](https://etherscan.io/address/0x36036fFd9B1C6966ab23209E073c68Eb9A992f50)
 - Parameters:
