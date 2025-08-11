@@ -35,7 +35,7 @@ LIMIT_CENTRIFUGE_TRANSFER:
 - JAAA (V3) token: [0x4880799eE5200fC58DA299e965df644fBf46780B](https://etherscan.io/token/0x4880799eE5200fC58DA299e965df644fBf46780B)
 - Avalanche destinationCentrifugeId: **5**
 - Parameters
-  - Max amount: 50 million JAAA
+  - Max amount: **50 million JAAA**
   - Slope: 50 million JAAA per day
 - JTRSY (V3) token: 0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A
 - Avalanche destinationCentrifugeId: 5
