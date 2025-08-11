@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to upgrading the ForeignController on Grove Liquidity Layer mainnet with added functionality related to ERC7540 Centrifuge vaults as follows:
+The community can vote in this poll to express support or opposition to upgrading the ForeignController on Grove Liquidity Layer mainnet with added functionality related to ERC7540 Centrifuge vaults as follows:
 
 LIMIT_CENTRIFUGE_TRANSFER:
 
