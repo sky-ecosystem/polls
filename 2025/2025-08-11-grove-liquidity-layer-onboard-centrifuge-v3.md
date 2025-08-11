@@ -61,17 +61,17 @@ The community can vote in this poll to express support or opposition to transiti
 - [Avalanche] JTRSY (V3) Address: [0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://snowtrace.io/address/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Parameters:
   - Deposits:
-    - Max amount: 50 million USDC
-    - Slope: 50 million USDC per day
+    - Max amount: **50 million USDC**
+    - Slope: **50 million USDC per day**
   - Withdrawals:
     - Max amount: Unlimited
 - [Avalanche] JAAA (V3) Address: [0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784](https://snowtrace.io/address/0x1121F4e21eD8B9BC1BB9A2952cDD8639aC897784)
 - Parameters:
   - Deposits:
-    - Max amount: 50 million USDC
-    - Slope: 50 million USDC per day
+    - Max amount: **50 million USDC**
+    - Slope: **50 million USDC per day**
   - Withdrawals:
-    - Max amount: Unlimited
+    - Max amount: **Unlimited**
     
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-grove-for-upcoming-spell/26993) to help inform your position before voting.
 
