@@ -52,5 +52,8 @@
   "1554": ["high-impact", "grove", "collateral-onboard", "collateral-offboard", "technical", "real-world-assets"],
   "1555": ["low-impact", "spark"],
   "1556": ["low-impact", "spark", "misc-funding"],
-  "1557": ["high-impact", "risk-parameter", "spark"]
+  "1557": ["high-impact", "risk-parameter", "spark"],
+  "1558": ["medium-impact", "spark", "weekly", "misc-governance"],
+  "1559": ["high-impact", "risk-parameter", "spark"],
+  "1560": ["high-impact", "risk-parameter", "spark"]
 }
