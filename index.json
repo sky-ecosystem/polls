@@ -1868,5 +1868,112 @@
       "start_date": "2025-08-11T16:00:00.000Z",
       "end_date": "2025-08-14T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-08-18-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - August 18, 2025",
+      "summary": "This Atlas edit 1) introduces a Delegate System for Spark, 2) updates the organization of the Risk Framework to move all short-term logic to the Implementation section, 3) updates the name of yAudit to Electisec to reflect their rebranding, 4) removes documents for the deprecated Morpho Direct Deposit Module and Spark Dai Direct Deposit Modules.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-08-18/27063",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-18T16:00:00.000Z",
+      "end_date": "2025-08-21T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-18-SLL-update-USDS-rate-limits.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Update SparkLend USDS Rate Limits - August 18, 2025",
+      "summary": "Signal your support or opposition to updating SparkLend USDS Rate Limits on the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-18T16:00:00.000Z",
+      "end_date": "2025-08-21T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-08-18-Spark-USDS-Morpho-Vault-adjust-PT-USDS-SPK-25Sept-pool-supply-cap.md",
+    "metadata": {
+      "title": "Spark USDS Morpho Vault Mainnet - Adjust PT-USDS-SPK-25Sept Pool Supply Cap - August 18, 2025",
+      "summary": "Signal your support or opposition to adjusting the PT-USDS-SPK-25Sept pool supply cap in the Spark USDS Morpho Vault on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-18T16:00:00.000Z",
+      "end_date": "2025-08-21T16:00:00.000Z"
+    }
   }
 ]
