@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet with the following [rate limit](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) parameters:
 
 - Deposits
   - maxAmount: **250 million aUSDe**
