@@ -1,6 +1,6 @@
 ---
 title: Spark USDS Morpho Vault Mainnet - Adjust PT-USDS-SPK-25Sept Pool Supply Cap - August 18, 2025
-summary: Signal your support or opposition to adjusting the PT-USDS-SPK-25Sept pool supply cap in the Spark DAI Morpho Vault on mainnet.
+summary: Signal your support or opposition to adjusting the PT-USDS-SPK-25Sept pool supply cap in the Spark USDS Morpho Vault on mainnet.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059
 parameters:
     input_format: single-choice
@@ -28,9 +28,9 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to adjusting the [PT-USDS-SPK-25Sept](https://app.morpho.org/ethereum/vault/0xe41a0583334f0dc4E023Acd0bFef3667F6FE0597/spark-usds-vault) pool supply cap in the Spark DAI Morpho Vault on mainnet as follows:
+The community can vote in this poll to express support or opposition to adjusting the [PT-USDS-SPK-25Sept](https://app.morpho.org/ethereum/vault/0xe41a0583334f0dc4E023Acd0bFef3667F6FE0597/spark-usds-vault) pool supply cap in the Spark USDS Morpho Vault on mainnet as follows:
 
-Pool supply cap: **1 billion USDS**.
+Increase Pool Supply Cap by 500 million USDS from 500 million USDS to **1 billion USDS**.
 
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059) to help inform your position before voting.
 

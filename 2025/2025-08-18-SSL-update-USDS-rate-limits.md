@@ -1,6 +1,6 @@
 ---
-title: SparkLend Liquidity Layer Mainnet - Update SparkLend USDS Rate Limits - August 18, 2025
-summary: Signal your support or opposition to updating USDS Rate Limits on the Spark Liquidity Layer.
+title: Spark Liquidity Layer Mainnet - Update SparkLend USDS Rate Limits - August 18, 2025
+summary: Signal your support or opposition to updating SparkLend USDS Rate Limits on the Spark Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059
 parameters:
     input_format: single-choice
@@ -18,7 +18,7 @@ end_date: 2025-08-21T16:00:00
 
 # Poll: SparkLend Liquidity Layer Mainnet - Update SparkLend USDS Rate Limits - August 18, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 18 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 18 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -31,10 +31,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to updating the USDS [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on Mainnet as follows:
 
 - Deposits
-  - maxAmount: **200 million**
-  - slope: **400 million per day**
+  - maxAmount: **200 million USDS**
+  - slope: **400 million USDS per day**
 - Withdrawals
-  - maxAmount: **unlimited**
+  - maxAmount: **Unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/august-21-2025-proposed-changes-to-spark-for-upcoming-spell-2/27059) to help inform your position before voting.
 
