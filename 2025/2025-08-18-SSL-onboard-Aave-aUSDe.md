@@ -31,8 +31,8 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet with the following parameters:
 
 - Deposits
-  - maxAmount: **250 million**
-  - Slope: **100 million**
+  - maxAmount: **250 million aUSDe**
+  - Slope: **100 million aUSDe per day**
 - Withdrawals
   - maxAmount: **Unlimited**
 
