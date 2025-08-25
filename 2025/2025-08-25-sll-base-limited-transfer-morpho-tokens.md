@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Base - Activate Rate Limited Transfer of MORPHO Tokens - August 25, 2025
-summary: Signal your support or opposition to activating rate limits transfer of MORPHO tokens to a liquidation multisig in the Spark Liquidity Layer on Base.
+summary: Signal your support or opposition to activating a rate-limited transfer of MORPHO tokens to a liquidation multisig in the Spark Liquidity Layer on Base.
 discussion_link: https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102
 parameters:
     input_format: single-choice

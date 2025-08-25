@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to the Spark USDC Morpho vault on Base:
 
-- Reduce the vault fee by 9 percentage points, from 10% to **1%**.
+- Reduce the vault fee by 9 percentage points from 10% to **1%**.
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

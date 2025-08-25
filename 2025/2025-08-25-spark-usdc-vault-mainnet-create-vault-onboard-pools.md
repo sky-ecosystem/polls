@@ -32,11 +32,11 @@ The community can vote in this poll to express support or opposition to creating
 
 - Vault name: **Spark Blue Chip USDC Vault**
 - Vault ticker: **sparkUSDCbc**
-- Admins
-    Owner: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Proxy)
-    Guardian: n/a (defaults to owner)
-    Curator: n/a (defaults to owner)
-    Allocator: [0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB](https://etherscan.io/address/0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB) (Spark Liquidity Layer ALM Planner)
+- Admins:
+    - Owner: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Proxy)
+    - Guardian: n/a (defaults to owner)
+    - Curator: n/a (defaults to owner)
+    - Allocator: [0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB](https://etherscan.io/address/0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB) (Spark Liquidity Layer ALM Planner)
 - Fee: **1%**
 - Markets:
     - cbBTC 86%:

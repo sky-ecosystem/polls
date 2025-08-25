@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Increase SparkLend spUSDT and spPYUSD Deposit Rate Limits - August 25, 2025
-summary: Signal your support or opposition to increasing SparkLend spUSDT and spPYUSD swap rate limits in the Spark Liquidity Layer on mainnet.
+summary: Signal your support or opposition to increasing SparkLend spUSDT and spPYUSD deposit rate limits in the Spark Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102
 parameters:
     input_format: single-choice
@@ -16,7 +16,7 @@ start_date: 2025-08-25T16:00:00
 end_date: 2025-08-28T16:00:00
 ---
 
-# Poll: Spark Liquidity Layer Mainnet - Increase SparkLend spUSDT and spPYUSD Rate Limits - August 25, 2025
+# Poll: Spark Liquidity Layer Mainnet - Increase SparkLend spUSDT and spPYUSD Deposit Rate Limits - August 25, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 25 at 16:00 UTC.
 
