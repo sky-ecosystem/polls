@@ -1975,5 +1975,50 @@
       "start_date": "2025-08-18T16:00:00.000Z",
       "end_date": "2025-08-21T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-08-25-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - August 25, 2025",
+      "summary": "This Atlas edit 1) changes the funding source for the Accessibility Reward Wallet, 2) protects anonymity of Spark delegates, 3) adds pyUSD to the Risk Framework, 4) clarifies approval requirements for Agent Root Edits, 5) moves authority for approving additional lending markets to the Core Executor Agents, 6) updates SparkLend multisig and clarifies update process, 7) corrects the responsible party for updating active data, 8) completes the renaming of Stars to Primes.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-08-25/27101",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-08-25T16:00:00.000Z",
+      "end_date": "2025-08-28T16:00:00.000Z"
+    }
   }
 ]
