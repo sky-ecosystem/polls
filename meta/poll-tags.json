@@ -55,5 +55,6 @@
   "1557": ["high-impact", "risk-parameter", "spark"],
   "1558": ["medium-impact", "spark", "weekly", "misc-governance"],
   "1559": ["high-impact", "risk-parameter", "spark"],
-  "1560": ["high-impact", "risk-parameter", "spark"]
+  "1560": ["high-impact", "risk-parameter", "spark"],
+  "1561": ["high-impact", "risk-parameter", "spark", "weekly", "misc-governance", "misc-funding", "endgame"]
 }
