@@ -30,10 +30,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to transferring MORPHO tokens to a liquidation multisig with the following addresses and [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base:
 
-* Sender address: [0x2917956eFF0B5eaF030abDB4EF4296DF775009cA](https://basescan.org/address/0x2917956eFF0B5eaF030abDB4EF4296DF775009cA) (Spark Base ALM Proxy)
-* Recipient address: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://basescan.org/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark Base liquidation multisig)
-* maxAmount: **100,000 MORPHO**
-* slope: **100,000 MORPHO per day**
+- Sender address: [0x2917956eFF0B5eaF030abDB4EF4296DF775009cA](https://basescan.org/address/0x2917956eFF0B5eaF030abDB4EF4296DF775009cA) (Spark Base ALM Proxy)
+- Recipient address: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://basescan.org/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark Base liquidation multisig)
+- maxAmount: **100,000 MORPHO**
+- slope: **100,000 MORPHO per day**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

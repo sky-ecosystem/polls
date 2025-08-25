@@ -30,12 +30,12 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to increasing SparkLend's spUSDT and spPYUSD deposit [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) in the Spark Liquidity Layer on mainnet:
 
-* SparkLend spUSDT:
-  * maxAmount: Increase by xyz, from abc to **100 million USDT**
-  * slope: Increase by xyz, from abc to **100 million USDT per day**
-* SparkLend spPYUSD:
-  * maxAmount: Increase by xyz, from abc to **100 million PYUSD**
-  * slope: Increase by xyz, from abc to **100 million PYUSD per day**
+- SparkLend spUSDT:
+  - maxAmount: Increase by xyz, from abc to **100 million USDT**
+  - slope: Increase by xyz, from abc to **100 million USDT per day**
+- SparkLend spPYUSD:
+  - maxAmount: Increase by xyz, from abc to **100 million PYUSD**
+  - slope: Increase by xyz, from abc to **100 million PYUSD per day**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

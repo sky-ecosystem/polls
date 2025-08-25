@@ -30,14 +30,14 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes to increase the Curve swap [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) for the Spark Liquidity Layer on mainnet with the following parameters:
 
-* sUSDS/USDT
-    * maxAmount: **5 million**
-    * slope: **100 million per day**
-    * maxSlippage: **0.25%**
-* PYUSD/USDC
-    * maxAmount: **5 million**
-    * slope: **100 million per day**
-    * maxSlippage: **0.1%**
+- sUSDS/USDT
+    - maxAmount: **5 million**
+    - slope: **100 million per day**
+    - maxSlippage: **0.25%**
+- PYUSD/USDC
+    - maxAmount: **5 million**
+    - slope: **100 million per day**
+    - maxSlippage: **0.1%**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 
