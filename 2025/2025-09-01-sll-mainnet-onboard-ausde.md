@@ -1,6 +1,6 @@
 ---
-title: Spark USDC Morpho Vault Mainnet - Create Vault and Onboard Pools - August 25, 2025
-summary: Signal your support or opposition to creating a Spark USDC Morpho vault on mainnet and onboarding the listed pools.
+title: Spark Liquidity Layer Mainnet - Onboard Aave aUSDe - September 1, 2025
+summary: Signal your support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102
 parameters:
     input_format: single-choice
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2025-08-25T16:00:00
-end_date: 2025-08-28T16:00:00
+start_date: 2025-09-01T16:00:00
+end_date: 2025-09-04T16:00:00
 ---
 
-# Poll: Spark USDC Morpho Vault Mainnet - Create Vault and Onboard Pools - August 25, 2025
+# Poll: Spark Liquidity Layer Mainnet - Onboard Aave aUSDe - September 1, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 25 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 1 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,23 +28,13 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to creating a Spark USDC Morpho vault on mainnet and onboarding pools with the following details:
+The community can vote in this poll to express support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
-- Vault name: **Spark Blue Chip USDC Vault**
-- Vault ticker: **sparkUSDCbc**
-- Admins:
-    - Owner: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Proxy)
-    - Guardian: n/a (defaults to owner)
-    - Curator: n/a (defaults to owner)
-    - Allocator: [0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB](https://etherscan.io/address/0x8a25A24EDE9482C4Fc0738F99611BE58F1c839AB) (Spark Liquidity Layer ALM Planner)
-- Fee: **1%**
-- Markets:
-    - cbBTC 86%:
-        - Supply cap: **500 million USDC**
-    - wstETH 86%:
-        - Supply cap: **500 million USDC**
-    - WETH 86%:
-        - Supply cap: **500 million USDC**
+- Deposits:
+    - maxAmount: **250 million USDe**
+    - slope: **100 million USDe per day**
+- Withdrawals:
+    - maxAmount: **Unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

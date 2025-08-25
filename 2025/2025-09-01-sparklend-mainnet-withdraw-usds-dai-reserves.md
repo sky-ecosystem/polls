@@ -1,6 +1,6 @@
 ---
-title: Spark Liquidity Layer Base - Activate Rate Limited Transfer of MORPHO Tokens - August 25, 2025
-summary: Signal your support or opposition to activating a rate-limited transfer of MORPHO tokens to a liquidation multisig in the Spark Liquidity Layer on Base.
+title: SparkLend Mainnet - Withdraw USDS and DAI Reserves from SparkLend - September 1, 2025
+summary: Signal your support or opposition to withdrawing USDS and DAI reserves from SparkLend to the Spark Proxy on mainnet.
 discussion_link: https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102
 parameters:
     input_format: single-choice
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2025-08-25T16:00:00
-end_date: 2025-08-28T16:00:00
+start_date: 2025-09-01T16:00:00
+end_date: 2025-09-04T16:00:00
 ---
 
-# Poll: Spark Liquidity Layer Base - Activate Rate Limited Transfer of MORPHO Tokens - August 25, 2025
+# Poll: SparkLend Mainnet - Withdraw USDS and DAI Reserves from SparkLend - September 1, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 25 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 1 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,12 +28,11 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to transferring MORPHO tokens to a liquidation multisig with the following addresses and [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) on Base:
+The community can vote in this poll to express support or opposition to transferring all accumulated DAI and USDS reserves from the SparkLend Collector to the Spark Proxy on mainnet with the following details:
 
-- Sender address: [0x2917956eFF0B5eaF030abDB4EF4296DF775009cA](https://basescan.org/address/0x2917956eFF0B5eaF030abDB4EF4296DF775009cA) (Spark Base ALM Proxy)
-- Recipient address: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://basescan.org/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark Base liquidation multisig)
-- maxAmount: **100,000 MORPHO**
-- slope: **100,000 MORPHO per day**
+- Sender address: [0xb137E7d16564c81ae2b0C8ee6B55De81dd46ECe5](https://etherscan.io/address/0xb137E7d16564c81ae2b0C8ee6B55De81dd46ECe5) (SparkLend Collector)
+- Recipient address: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Subdao Proxy)
+- Transfer amount: All spDAI and spUSDS in the SparkLend Collector
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

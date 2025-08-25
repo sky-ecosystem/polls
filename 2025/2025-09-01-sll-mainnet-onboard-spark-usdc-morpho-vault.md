@@ -1,6 +1,6 @@
 ---
-title: Spark USDC Morpho Vault Base - Reduce Vault Fee - August 25, 2025
-summary: Signal your support or opposition to reducing the vault fee of the Spark USDC Morpho vault on Base.
+title: Spark Liquidity Layer Mainnet - Onboard Spark USDC Morpho Vault - September 1, 2025
+summary: Signal your support or opposition to onboarding the Spark USDC Morpho vault to the Spark Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102
 parameters:
     input_format: single-choice
@@ -12,13 +12,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: 2025-08-25T16:00:00
-end_date: 2025-08-28T16:00:00
+start_date: 2025-09-01T16:00:00
+end_date: 2025-09-04T16:00:00
 ---
 
-# Poll: Spark USDC Morpho Vault Base - Reduce Vault Fee - August 25, 2025
+# Poll: Spark Liquidity Layer Mainnet - Onboard Spark USDC Morpho Vault - September 1, 2025
 
-The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, August 25 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitators. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 1 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -28,9 +28,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to the Spark USDC Morpho vault on Base:
+The community can vote in this poll to express support or opposition to onboarding the Spark USDC Morpho vault to the Spark Liquidity Layer on mainnet with the following deposit [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
-- Reduce the vault fee by 9 percentage points from 10% to **1%**.
+- maxAmount: **50 million USDC**
+- slope: **25 million USDC per day**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 
