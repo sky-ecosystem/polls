@@ -43,8 +43,6 @@ The community can vote in this poll to express support or opposition to creating
         - Supply cap: **500 million USDC**
     - wstETH 86%:
         - Supply cap: **500 million USDC**
-    - WETH 86%:
-        - Supply cap: **500 million USDC**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 
