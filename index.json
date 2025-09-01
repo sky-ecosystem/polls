@@ -2020,5 +2020,298 @@
       "start_date": "2025-08-25T16:00:00.000Z",
       "end_date": "2025-08-28T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-01-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 1, 2025",
+      "summary": "This Atlas edit 1) defines the parameters of stUSDS and the process of updating them in preparation for the launch of stUSDS, 2) defines a resolution process for the Core Simplification Buffer Budget, 3) revises the calculation of Smart Contract Risk to reflect the latest process and updates the list of auditors, 4) updates the Instance Financial RRC Ratio for Ethena to account for lending Ethena related assets against other Ethena related assets, 5) makes the Governance Facilitators responsible for updating the members of the Emergency Response Group, 6) adds definitions of commonly used parameters in Prime Agent Liquidity Layers, 7) clarifies the rules for how Prime Agents and Integrators can split the Accessibility Reward, 8) makes minor spelling and grammatical corrections.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-01/27122/",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sll-mainnet-increase-curve-swap-rate-limits.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Increase Curve Swap Rate Limits - September 1, 2025",
+      "summary": "Signal your support or opposition to increasing Curve swap rate limits in the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sll-mainnet-increase-sparklend-spusdt-sppyusd-rate-limits.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Increase SparkLend spUSDT and spPYUSD Deposit Rate Limits - September 1, 2025",
+      "summary": "Signal your support or opposition to increasing SparkLend spUSDT and spPYUSD deposit rate limits in the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sll-mainnet-onboard-ausde.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard Aave aUSDe - September 1, 2025",
+      "summary": "Signal your support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sll-mainnet-onboard-spark-usdc-morpho-vault.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard Spark USDC Morpho Vault - September 1, 2025",
+      "summary": "Signal your support or opposition to onboarding the Spark USDC Morpho vault to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sll-mainnet-transfer-buidl-tokens-grove.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Transfer BUIDL to Grove - September 1, 2025",
+      "summary": "Signal your support or opposition to transferring residual BUIDL tokens to Grove from the Spark ALM Proxy.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-spark-usdc-vault-mainnet-create-vault-onboard-pools.md",
+    "metadata": {
+      "title": "Spark USDC Morpho Vault Mainnet - Create Vault and Onboard Pools - September 1, 2025",
+      "summary": "Signal your support or opposition to creating a Spark USDC Morpho vault on mainnet and onboarding the listed pools.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-spark-usds-morpho-vault-mainnet-onboard-november-ethena-pts.md",
+    "metadata": {
+      "title": "Spark USDS Morpho Vault Mainnet - Onboard November Ethena PTs - September 1, 2025",
+      "summary": "Signal your support or opposition to onboarding November Ethena PTs to the Spark USDS Morpho vault on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-01-sparklend-mainnet-withdraw-usds-dai-reserves.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Withdraw USDS and DAI Reserves from SparkLend - September 1, 2025",
+      "summary": "Signal your support or opposition to withdrawing USDS and DAI reserves from SparkLend to the Spark Proxy on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-01T16:00:00.000Z",
+      "end_date": "2025-09-04T16:00:00.000Z"
+    }
   }
 ]
