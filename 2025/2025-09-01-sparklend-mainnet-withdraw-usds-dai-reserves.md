@@ -31,7 +31,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to transferring all accumulated DAI and USDS reserves from the SparkLend Collector to the Spark Proxy on mainnet with the following details:
 
 - Sender address: [0xb137E7d16564c81ae2b0C8ee6B55De81dd46ECe5](https://etherscan.io/address/0xb137E7d16564c81ae2b0C8ee6B55De81dd46ECe5) (SparkLend Collector)
-- Recipient address: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Subdao Proxy)
+- Recipient address: [0x3300f198988e4C9C63F75dF86De36421f06af8c4](https://etherscan.io/address/0x3300f198988e4C9C63F75dF86De36421f06af8c4) (Spark Proxy)
 - Transfer amount: All spDAI and spUSDS in the SparkLend Collector
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.

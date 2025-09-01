@@ -35,16 +35,16 @@ The community can vote in this poll to express support or opposition to onboardi
 - Supply cap: **500 million USDS**
 - LLTV: **91.5%**
 - Oracle:
-    - PT value at redemption: **fixed 1 USD**
-    - Linear discount rate: **15%**
+  - PT value at redemption: **fixed 1 USD**
+  - Linear discount rate: **15%**
 
 ### PT-sUSDe-Nov2025
 
 - Supply cap: **500 million USDS**
 - LLTV: **91.5%**
 - Oracle:
-    - PT value at redemption: **fixed 1 USD**
-    - Linear discount rate: **15%**
+  - PT value at redemption: **fixed 1 USD**
+  - Linear discount rate: **15%**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 

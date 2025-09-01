@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to the following changes to increasing SparkLend's spUSDT and spPYUSD deposit [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) in the Spark Liquidity Layer on mainnet:
+The community can vote in this poll to express support or opposition to the following changes to increasing SparkLend spUSDT and spPYUSD deposit [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) in the Spark Liquidity Layer on mainnet:
 
 - SparkLend spUSDT:
   - maxAmount: Increase by 50 million USDT from 50 million USDT to **100 million USDT**

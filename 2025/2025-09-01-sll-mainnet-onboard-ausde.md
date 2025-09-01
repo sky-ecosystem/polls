@@ -31,10 +31,10 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 The community can vote in this poll to express support or opposition to onboarding Aave aUSDe to the Spark Liquidity Layer on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposits:
-    - maxAmount: **250 million USDe**
-    - slope: **100 million USDe per day**
+  - maxAmount: **250 million USDe**
+  - slope: **100 million USDe per day**
 - Withdrawals:
-    - maxAmount: **Unlimited**
+  - maxAmount: **Unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-4-2025-proposed-changes-to-spark-for-upcoming-spell/27102) to help inform your position before voting.
 
