@@ -1,7 +1,7 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - September 1, 2025
 summary: This Atlas edit 1) defines the parameters of stUSDS and the process of updating them in preparation for the launch of stUSDS, 2) defines a resolution process for the Core Simplification Buffer Budget, 3) revises the calculation of Smart Contract Risk to reflect the latest process and updates the list of auditors, 4) updates the Instance Financial RRC Ratio for Ethena to account for lending Ethena related assets against other Ethena related assets, 5) makes the Governance Facilitators responsible for updating the members of the Emergency Response Group, 6) adds definitions of commonly used parameters in Prime Agent Liquidity Layers, 7) clarifies the rules for how Prime Agents and Integrators can split the Accessibility Reward, 8) makes minor spelling and grammatical corrections.
-discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-01/27122/1
+discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-01/27122/
 parameters:
     input_format:
         type: single-choice
