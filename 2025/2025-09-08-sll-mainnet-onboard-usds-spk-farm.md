@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Onboard USDS SPK Farm - September 8, 2025
-summary: Signal your support or opposition to onboarding the USDS SPK farm to the Spark Liquidity Layer on Mainnet.
+summary: Signal your support or opposition to onboarding the USDS SPK farm to the Spark Liquidity Layer on mainnet.
 discussion_link: https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153
 parameters:
     input_format: single-choice
