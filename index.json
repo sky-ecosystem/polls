@@ -2313,5 +2313,360 @@
       "start_date": "2025-09-01T16:00:00.000Z",
       "end_date": "2025-09-04T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-08-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 8, 2025",
+      "summary": "This Atlas edit 1) defines the Monthly Settlement Cycle process, 2) renames DAOcraft to Amatsu, 3) removes the Sky Core Simplification Budget, 4) refines the stUSDS BEAM GSM Pause Delay exception, 5) adds stUSDS Rate Normalization logic, 6) adds definition of Sky Forum, 7) removes remaining reference to Star.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-08/27149",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-base-activate-morpho-transfer-rate-limit.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Base - Activate MORPHO Transfer Rate Limit - September 8, 2025",
+      "summary": "Signal your support or opposition to activating a MORPHO transfer rate limit for the Spark Liquidity Layer on Base.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-base-increase-usdc-cctp-rate-limits.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Base - Increase USDC CCTP Rate Limits - September 8, 2025",
+      "summary": "Signal your support or opposition to increasing the USDC Cross-chain Transfer Protocol rate limits on Base.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-base-upgrade-alm-controller-to-v1.7.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Base - Upgrade ALM Controller to v1.7 - September 8, 2025",
+      "summary": "Signal your support or opposition to upgrading the SLL ALM Controller to version 1.7 on Base.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-mainnet-increase-usdc-cctp-rate-limits.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Increase USDC CCTP Rate Limits - September 8, 2025",
+      "summary": "Signal your support or opposition to increasing the USDC Cross-chain Transfer Protocol rate limits.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-mainnet-onboard-pyusd-usds-curve-pool.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard PYUSD-USDS Curve Pool - September 8, 2025",
+      "summary": "Signal your support or opposition to onboarding the PYUSD/USDS Curve Pool to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-mainnet-onboard-usds-spk-farm.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard USDS SPK Farm - September 8, 2025",
+      "summary": "Signal your support or opposition to onboarding the USDS SPK farm to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sll-mainnet-upgrade-alm-controller-to-v1.7.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Upgrade ALM Controller to v1.7 - September 8, 2025",
+      "summary": "Signal your support or opposition to upgrading the SLL ALM Controller to version 1.7 on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-spark-usds-morpho-vault-mainnet-onboard-december-pt-usds-spk.md",
+    "metadata": {
+      "title": "Spark USDS Morpho Vault Mainnet - Onboard December PT-USDS-SPK - September 8, 2025",
+      "summary": "Signal your support or opposition to onboarding the December PT-USDS-SPK token to the Spark USDS Morpho Vault on Mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sparklend-increase-usdt-cap-automator-rate-limits.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Increase USDT Cap Automator Rate Limits - September 8, 2025",
+      "summary": "Signal your support or opposition to increasing the USDT Cap Automator rate limits for SparkLend on Mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-08-sparklend-mainnet-withdraw-usds-dai-reserves.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Withdraw USDS and DAI Reserves from SparkLend - September 8, 2025",
+      "summary": "Signal your support or opposition to withdrawing USDS and DAI reserves from SparkLend to the Spark Proxy on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-08T16:00:00.000Z",
+      "end_date": "2025-09-11T16:00:00.000Z"
+    }
   }
 ]
