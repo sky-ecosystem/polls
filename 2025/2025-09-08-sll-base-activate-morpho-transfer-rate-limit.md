@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Base - Activate MORPHO Transfer Rate Limit - September 8, 2025
-summary: Signal your support or opposition to activating MORPHO transfer rate limit for the Spark Liquidity Layer on Base.
+summary: Signal your support or opposition to activating a MORPHO transfer rate limit for the Spark Liquidity Layer on Base.
 discussion_link: https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153
 parameters:
     input_format: single-choice
