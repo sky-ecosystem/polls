@@ -34,7 +34,7 @@ Increase the [Cross-chain Transfer Protocol (CCTP)](https://docs.spark.fi/user-g
 
 - Global: **Unlimited**.
 - Base to Ethereum:
-    - **200 million USDC max**
+    - maxAmount: **200 million USDC**
     - **500 million USDC slope per day**.
 
 Please review the discussion [thread](https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153) to help inform your position before voting.
