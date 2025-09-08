@@ -37,13 +37,13 @@ The community can vote in this poll to express support or opposition to onboardi
 - Underlying asset: USDS and PYUSD
 - Deposits
   - maxAmount: **5 million**
-  - slope: **50 million**
+  - slope: **50 million per day**
 - Withdrawals
   - maxAmount: **5 million**
-  - slope: **100 million**
+  - slope: **100 million per day**
 - Swaps
   - maxAmount: **5 million**
-  - slope: **50 million**
+  - slope: **50 million per day**
   - maxSlippage: **0.2%**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153) to help inform your position before voting.
