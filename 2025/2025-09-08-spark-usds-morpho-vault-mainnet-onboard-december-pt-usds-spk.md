@@ -33,7 +33,7 @@ The community can vote in this poll to express support or opposition to onboardi
 - Supply cap: **1 billion USDS**
 - LLTV: **96.5%**
 - Oracle details
-  - **Upgradable oracle, Spark subdao proxy as owner**
+  - **Upgradable oracle, Spark prime proxy as owner**
   - USDS price: **1 USD**
   - Pendle linear discount rate: **15%**
 
