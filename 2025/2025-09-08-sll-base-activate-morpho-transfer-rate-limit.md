@@ -33,7 +33,7 @@ The community can vote in this poll to express support or opposition to activati
 - Transfers
   - maxAmount: **100,000 MORPHO**
   - slope: **100,000 MORPHO per day**
-  - Recipient: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark Base liquidation multisig)
+  - Recipient: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://basescan.org/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark Base liquidation multisig)
 
 Please review the discussion [thread](https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153) to help inform your position before voting.
 
