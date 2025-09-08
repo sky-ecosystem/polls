@@ -1,6 +1,6 @@
 ---
 title: Spark USDS Morpho Vault Mainnet - Onboard December PT-USDS-SPK - September 8, 2025
-summary: Signal your support or opposition onboarding the December PT-USDS-SPK token to the Spark USDS Morpho Vault on Mainnet.
+summary: Signal your support or opposition to onboarding the December PT-USDS-SPK token to the Spark USDS Morpho Vault on Mainnet.
 discussion_link: https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153
 parameters:
     input_format: single-choice
