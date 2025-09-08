@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to onboarding the PYUSD-USDS Curve Pool to the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
-- Token/deposit address: [0xa632d59b9b804a956bfaa9b48af3a1b74808fc1f](https://etherscan.io/address/0xa632d59b9b804a956bfaa9b48af3a1b74808fc1f)
+- Token/deposit address: [0xA632D59b9B804a956BfaA9b48Af3A1b74808FC1f](https://etherscan.io/address/0xa632d59b9b804a956bfaa9b48af3a1b74808fc1f)
   - Fee: 0.001%
   - A parameter: 10,000
   - Off peg multiplier: 5
