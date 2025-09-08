@@ -1,6 +1,6 @@
 ---
 title: Spark Liquidity Layer Mainnet - Upgrade ALM Controller to v1.7 - September 8, 2025
-summary: Signal your support or opposition to upgrading the SLL ALM Controller to version 1.7 on Mainnet.
+summary: Signal your support or opposition to upgrading the SLL ALM Controller to version 1.7 on mainnet.
 discussion_link: https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153
 parameters:
     input_format: single-choice
