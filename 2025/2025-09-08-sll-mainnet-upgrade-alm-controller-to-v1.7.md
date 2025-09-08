@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to the following changes:
 
-- Upgrade the current [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) ALM Controller on Mainnet to version 1.7.
+- Upgrade the current [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) ALM Controller on mainnet to version 1.7.
 
 Please review the discussion [thread](https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153) to help inform your position before voting.
 
