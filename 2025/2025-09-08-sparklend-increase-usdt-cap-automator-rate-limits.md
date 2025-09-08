@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to increasing the USDT Cap Automator [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) for SparkLend on Mainnet:
+The community can vote in this poll to express support or opposition to increasing the USDT [Cap Automator rate limit](https://sky-atlas.powerhouse.io/A.AG1.3.2.1.1.3_SparkLend_Risk_Parameters_Cap_Automators/1c1f2ff0-8d73-81ec-bc16-e2f85c0765d7%7C7896ed3326389fe3553030cd0a82f68e) for SparkLend on Mainnet:
 
 - Supply cap
   - gap: **1 billion USDT**
