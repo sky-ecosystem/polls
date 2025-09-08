@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the PT-USDS-SPK-25Dec2025 token to the Spark USDS Morpho vault on Mainnet with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding the PT-USDS-SPK-25Dec2025 token to the Spark USDS Morpho vault on mainnet with the following parameters:
 
 - Supply cap: **1 billion USDS**
 - LLTV: **96.5%**
