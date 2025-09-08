@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding the USDS SPK farm to the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on Mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
+The community can vote in this poll to express support or opposition to onboarding the USDS SPK farm to the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on mainnet with the following [rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits):
 
 - Deposit address: [0x173e314C7635B45322cd8Cb14f44b312e079F3af](https://etherscan.io/address/0x173e314c7635b45322cd8cb14f44b312e079f3af)
 - Underlying asset: **USDS**
