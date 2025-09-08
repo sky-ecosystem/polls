@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to activating MORPHO transfer [rate limit](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) for the Spark Liquidity Layer on Base with the following parameter:
+The community can vote in this poll to express support or opposition to activating a MORPHO transfer [rate limit](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits) for the Spark Liquidity Layer on Base with the following parameters:
 
 - Transfers
   - maxAmount: **100,000 MORPHO**
