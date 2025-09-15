@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - September 15, 2025
-summary: This Atlas Edit 1) updates terminology in Atlas to reflect Executor Agents, 2) clarifies the Monthly Settlement Cycle execution process, 3) provides additional guidance regarding usage of stUSDS BEAM, 4) builds out Spark Governance processes, 5) provides senior risk capital to Grove, 6) documents the process for sending tokens to Sky, 7) renames TechOps to TechOps Services.
+summary: This Atlas Edit 1) updates terminology in the Atlas to reflect Executor Agents, 2) clarifies the Monthly Settlement Cycle execution process, 3) provides additional guidance regarding the usage of stUSDS BEAM, 4) builds out Spark Governance processes, 5) provides senior risk capital to Grove, 6) documents the process for sending tokens to Sky, 7) renames TechOps to TechOps Services.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-15/27169
 parameters:
     input_format:
