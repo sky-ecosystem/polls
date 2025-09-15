@@ -49,7 +49,6 @@ The community can vote in this poll to express support or opposition to executin
     - `WardsAbstract(ALLOCATOR_NOVA_A_BUFFER).rely(NOVA_PROXY);`
     - `WardsAbstract(ALLOCATOR_NOVA_A_BUFFER).deny(MCD_PAUSE_PROXY);`
 
-
 Please review the discussion [thread](https://forum.sky.money/t/technical-scope-of-the-nova-allocator-adjustment/27175) to help inform your position before voting.
 
 ## Outcomes
