@@ -28,16 +28,17 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to onboarding Superstate USCC to the Spark Liquidity Layer on mainnet with the following parameters:
+The community can vote in this poll to express support or opposition to onboarding Superstate USCC to the [Spark Liquidity Layer](https://docs.spark.fi/user-guides/spark-liquidity-layer/) on mainnet with the following parameters:
 
 - USCC token: [0x14d60E7FDC0D71d8611742720E4C50E7a974020c](https://etherscan.io/address/0x14d60E7FDC0D71d8611742720E4C50E7a974020c)
 - Deposit address: <to be provided by Superstate and added to proposal after passing of initial poll, before executive vote>
 - Underlying asset: USDC
-- Deposits
-  - maxAmount: **100 million**
-  - slope: **50 million per day**
-- Withdrawals
-  - maxAmount: **unlimited**
+- [Rate limits]( https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits)
+  - Deposits
+    - maxAmount: **100 million**
+    - slope: **50 million per day**
+  - Withdrawals
+    - maxAmount: **unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153) to help inform your position before voting. See additional details about Superstate and USCC at [https://superstate.com/uscc](https://superstate.com/uscc).
 
