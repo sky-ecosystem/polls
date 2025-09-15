@@ -16,7 +16,7 @@ start_date: 2025-09-15T16:00:00
 end_date: 2025-09-18T16:00:00
 ---
 
-# Poll: Allocator Instance Operator Adjustment - September 15, 2025Y
+# Poll: Allocator Instance Operator Adjustment - September 15, 2025
 
 The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Protocol Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 15 at 16:00 UTC.
 
