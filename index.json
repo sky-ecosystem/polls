@@ -2668,5 +2668,112 @@
       "start_date": "2025-09-08T16:00:00.000Z",
       "end_date": "2025-09-11T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-15-allocator-instance-operator-adjustment.md",
+    "metadata": {
+      "title": "Allocator Instance Operator Adjustment - September 15, 2025",
+      "summary": "Signal your support or opposition to modifying Launch Agent 2 allocator instance.",
+      "discussion_link": "https://forum.sky.money/t/technical-scope-of-the-nova-allocator-adjustment/27175",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-15T16:00:00.000Z",
+      "end_date": "2025-09-18T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-15-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 15, 2025",
+      "summary": "This Atlas Edit 1) updates terminology in the Atlas to reflect Executor Agents, 2) clarifies the Monthly Settlement Cycle execution process, 3) provides additional guidance regarding the usage of stUSDS BEAM, 4) builds out Spark Governance processes, 5) provides senior risk capital to Grove, 6) documents the process for sending tokens to Sky, 7) renames TechOps to TechOps Services.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-15/27169",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-15T16:00:00.000Z",
+      "end_date": "2025-09-18T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-15-onboard-Superstate-USCC.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard Superstate USCC - September 15, 2025",
+      "summary": "Signal your support or opposition to onboarding Superstate USCC to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/september-18-2025-proposed-changes-to-spark-for-upcoming-spell/27153",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-15T16:00:00.000Z",
+      "end_date": "2025-09-18T16:00:00.000Z"
+    }
   }
 ]
