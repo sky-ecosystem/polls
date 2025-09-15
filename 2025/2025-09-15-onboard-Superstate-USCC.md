@@ -33,7 +33,7 @@ The community can vote in this poll to express support or opposition to onboardi
 - USCC token: [0x14d60E7FDC0D71d8611742720E4C50E7a974020c](https://etherscan.io/address/0x14d60E7FDC0D71d8611742720E4C50E7a974020c)
 - Deposit address: <to be provided by Superstate and added to proposal after passing of initial poll, before executive vote>
 - Underlying asset: USDC
-- [Rate limits]( https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits)
+- [Rate limits](https://docs.spark.fi/dev/spark-liquidity-layer/spark-alm-controller#rate-limits)
   - Deposits
     - maxAmount: **100 million**
     - slope: **50 million per day**
