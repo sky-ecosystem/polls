@@ -1,6 +1,6 @@
 ---
 title: Allocator Instance Operator Adjustment - September 15, 2025
-summary: Signal your support or opposition to effecting allocator instance adjustments.
+summary: Signal your support or opposition to modifying Launch Agent 2 allocator instance.
 discussion_link: https://forum.sky.money/t/technical-scope-of-the-nova-allocator-adjustment/27175
 parameters:
     input_format: single-choice
