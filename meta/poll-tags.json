@@ -79,5 +79,6 @@
   "1581": ["low-impact", "spark", "misc-funding"],
   "1582": ["high-impact", "spark", "weekly", "misc-governance", "endgame"],
   "1583": ["high-impact", "technical"],
-  "1584": ["high-impact", "spark", "collateral-onboard"]
+  "1584": ["high-impact", "spark", "collateral-onboard"],
+  "1585": ["high-impact", "risk-parameter", "weekly", "misc-governance", "endgame"]
 }
