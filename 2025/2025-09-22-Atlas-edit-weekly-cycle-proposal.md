@@ -46,7 +46,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 *This proposal includes the following edits:*
 
-- _*Update Near-Term Logic Regarding Perpetual Exposures** - Increases RRC for Ethena exposures, adds near-term logic for Superstate, and establishes aggregate exposure limits._
+- _**Update Near-Term Logic Regarding Perpetual Exposures** - Increases RRC for Ethena exposures, adds near-term logic for Superstate, and establishes aggregate exposure limits._
 - _**Add Ecosystem Dispute Resolution Process** - Defines the initial process for resolution of disputes regarding Ecosystem Accords._
 - _**Correct Typographical Error** - Corrects a minor spelling error._
 
