@@ -2775,5 +2775,50 @@
       "start_date": "2025-09-15T16:00:00.000Z",
       "end_date": "2025-09-18T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-22-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 22, 2025",
+      "summary": "This Atlas edit 1) updated near-term logic regarding perpetual exposures, 2) adds the Ecosystem Dispute Resolution process, 3) corrects a typographical error.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-22/27188",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
   }
 ]
