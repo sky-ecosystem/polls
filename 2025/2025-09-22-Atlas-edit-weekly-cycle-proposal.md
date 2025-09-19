@@ -1,7 +1,7 @@
 ---
-title: Atlas Edit Weekly Cycle Proposal - $date_MONTH_DD,_YYYY
-summary: $sentence_summary
-discussion_link: $discussion_link
+title: Atlas Edit Weekly Cycle Proposal - September 22, 2025
+summary: This Atlas edit 1) updated near-term logic regarding perpetual exposures, 2) adds the Ecosystem Dispute Resolution process, 3) corrects a typographical error.
+discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-22/27188
 parameters:
     input_format:
         type: single-choice
@@ -21,13 +21,13 @@ options:
    0: Abstain
    1: Yes
    2: No
-start_date: $YYYY-MM-DDT16:00:00
-end_date: $YYYY-MM-DDT16:00:00
+start_date: 2025-09-22T16:00:00
+end_date: 2025-09-25T16:00:00
 ---
 
-# Atlas Edit Weekly Cycle Proposal - $date_MONTH_DD,_YYYY
+# Atlas Edit Weekly Cycle Proposal - September 22, 2025
 
-The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.10.2_Atlas_Edit_Weekly_Cycle/4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate $Delegate_Name]($link). This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.2_Atlas_Edit_Weekly_Cycle/4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The Governance Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.powerhouse.io/A.1.10.2_Atlas_Edit_Weekly_Cycle/4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate Bonapublica](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-22/27188/2). This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.2_Atlas_Edit_Weekly_Cycle/4a8ad9ad-5c5d-4994-9b46-f04c0e61ce59|0db30308) will be active for three days beginning on Monday, September 22 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -39,12 +39,16 @@ The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sk
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- [Atlas Edit Pull Request]($Pull_Request_link)
-- [Proposal Discussion Thread]($discussion_link)
+- [Atlas Edit Pull Request](https://github.com/sky-ecosystem/next-gen-atlas/pull/61)
+- [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-22/27188)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
 
-*$paragraph_summary*
+*This proposal includes the following edits:*
+
+- _**Update Near-Term Logic Regarding Perpetual Exposures** - Increases RRC for Ethena exposures, adds near-term logic for Superstate, and establishes aggregate exposure limits._
+- _**Add Ecosystem Dispute Resolution Process** - Defines the initial process for resolution of disputes regarding Ecosystem Accords._
+- _**Correct Typographical Error** - Corrects a minor spelling error._
 
 ## Outcomes
 
