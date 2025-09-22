@@ -42,7 +42,7 @@ The community can vote in this poll to express support or opposition to launchin
     - Max yield: 5%
     - Current yield (at launch): 0%
   - Supply cap: 10,000 WETH
-  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.AG1.3.1_Governance_Information_Unrelated_To_Root_Edit_Primitive/1c1f2ff0-8d73-810c-830c-cd1577e044c5|7896ed3326389fe35530)
+  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
       - maxAmount: unlimited
     - transferAssets
@@ -60,7 +60,7 @@ The community can vote in this poll to express support or opposition to launchin
     - Max yield: 10%
     - Current yield (at launch): 0%
   - Supply cap: 50 million USDC
-  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.AG1.3.1_Governance_Information_Unrelated_To_Root_Edit_Primitive/1c1f2ff0-8d73-810c-830c-cd1577e044c5|7896ed3326389fe35530)
+  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
       - maxAmount: unlimited
     - transferAssets
@@ -78,7 +78,7 @@ The community can vote in this poll to express support or opposition to launchin
     - Max yield: 10%
     - Current yield (at launch): 0%
   - Supply cap: 50 million USDT
-  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.AG1.3.1_Governance_Information_Unrelated_To_Root_Edit_Primitive/1c1f2ff0-8d73-810c-830c-cd1577e044c5|7896ed3326389fe35530)
+  - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
       - maxAmount: unlimited
     - transferAssets
