@@ -18,7 +18,7 @@ end_date: 2025-09-25T16:00:00
 
 # Poll: Grove Liquidity Layer Mainnet and Plume - Deploy Grove Liquidity Layer to Plume - September 22, 2025
 
-The Governance Faciltiators have placed a Governance Poll into the voting system on behalf of the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 22 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -45,8 +45,8 @@ The community can vote in this poll to express support or opposition to deployin
 
 ### Parameters
 
-Plume.GROVE_EXECUTOR.delay = **0 days**
-Plume.GROVE_EXECUTOR.gracePeriod = **7 days**
+- Plume.GROVE_EXECUTOR.delay = **0 days**
+- Plume.GROVE_EXECUTOR.gracePeriod = **7 days**
 
 Please review the discussion [thread](https://forum.sky.money/t/october-2-2025-proposed-changes-to-grove-for-upcoming-spell/27190) to help inform your position before voting.
 

@@ -18,7 +18,7 @@ end_date: 2025-09-25T16:00:00
 
 # Poll: Grove Liquidity Layer Mainnet and Plume - Onboard Apollo ACRDX - September 22, 2025
 
-The Governance Faciltiators have placed a Governance Poll into the voting system on behalf of the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 22 at 16:00 UTC.
+The Governance Facilitators have placed a Governance Poll into the voting system on behalf of the Stability Facilitator. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on Monday, September 22 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -32,7 +32,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 ### Associated DAO Resolution
 
-If this poll passes, Sky Governance will approve the DAO Resolution authorizing the subscription to the Anemoy Tokenized Apollo Diversified Credit Fund by Aspen Grove Ltd with the IPFS hash [bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi](https://gateway.pinata.cloud/ipfs/bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi)
+If this poll passes, Sky Governance will approve the DAO Resolution authorizing the subscription to the Anemoy Tokenized Apollo Diversified Credit Fund by Aspen Grove Ltd with the IPFS hash [bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi](https://gateway.pinata.cloud/ipfs/bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi).
 
 ### [Plume] Apollo ACRDX [Rate Limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
 
