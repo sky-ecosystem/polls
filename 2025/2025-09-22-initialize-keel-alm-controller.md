@@ -1,6 +1,6 @@
 ---
 title: Initialize Keel Mainnet ALM Controller - September 22, 2025
-summary: Signal your support or opposition to initializing the Keel ALM controller instance of the Ethereum mainnet with the listed rate limit parameters.
+summary: Signal your support or opposition to initializing the Keel ALM controller instance and whitelisting the controller on the LitePSM on the Ethereum mainnet with the listed rate limit parameters.
 discussion_link: https://forum.sky.money/t/october-02-2025-prime-technical-scope-keel-initialization-for-upcoming-spell/27192
 parameters:
     input_format: single-choice
