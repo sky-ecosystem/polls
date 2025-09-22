@@ -2820,5 +2820,346 @@
       "start_date": "2025-09-22T16:00:00.000Z",
       "end_date": "2025-09-25T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-22-gll-mainnet-plume-deploy-gll-to-plume.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet and Plume - Deploy Grove Liquidity Layer to Plume - September 22, 2025",
+      "summary": "Signal your support or opposition to deploying the Grove Liquidity Layer to Plume.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-grove-for-upcoming-spell/27190",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-gll-mainnet-plume-oboard-apollo-acrdx.md",
+    "metadata": {
+      "title": "Grove Liquidity Layer Mainnet and Plume - Onboard Apollo ACRDX - September 22, 2025",
+      "summary": "Signal your support or opposition to onboarding Apollo ACRDX to the Grove Liquidity Layer on Plume.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-grove-for-upcoming-spell/27190",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-initialize-keel-alm-controller.md",
+    "metadata": {
+      "title": "Initialize Keel Mainnet ALM Controller - September 22, 2025",
+      "summary": "Signal your support or opposition to initializing the Keel ALM controller instance and whitelisting the controller on the LitePSM on the Ethereum mainnet with the listed rate limit parameters.",
+      "discussion_link": "https://forum.sky.money/t/october-02-2025-prime-technical-scope-keel-initialization-for-upcoming-spell/27192",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-launch-spark-savings-v2.md",
+    "metadata": {
+      "title": "Spark Savings Mainnet - Launch Savings v2 Vaults for USDC, USDT, and ETH - September 22, 2025",
+      "summary": "Signal your support or opposition to launching Spark Savings v2 vaults for USDC, USDT, and ETH.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-sll-mainnet-add-transferasset-rate-limit-for-syrup.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Add transferAsset Rate Limit for SYRUP - September 22, 2025",
+      "summary": "Signal your support or opposition to adding a transferAsset rate limit for SYRUP in the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-sll-mainnet-claim-aave-core-ausds-rewards.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Claim Aave Core aUSDS Rewards - September 22, 2025",
+      "summary": "Signal your support or opposition to claiming Aave Core aUSDS rewards for the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-sll-mainnet-onboard-b2c2-penny-for-otc-services.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard B2C2 Penny for OTC Services - September 22, 2025",
+      "summary": "Signal your support or opposition to onboarding B2C2 Penny to provide OTC services for the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-sll-mainnet-onboard-speth.md",
+    "metadata": {
+      "title": "Spark Liquidity Layer Mainnet - Onboard SparkLend ETH - September 22, 2025",
+      "summary": "Signal your support or opposition to onboarding SparkLend ETH to the Spark Liquidity Layer on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-spark-spk-staking-configure-symbiotic.md",
+    "metadata": {
+      "title": "Spark Mainnet - SPK Staking - Configure Symbiotic Instance - September 22, 2025",
+      "summary": "Signal your support or opposition to configuring the Symbiotic Instance for SPK staking on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-spark-usds-morpho-increase-ptusde27nov-supply-cap.md",
+    "metadata": {
+      "title": "Spark USDS Morpho Vault - Increase PT-USDe-27Nov2025 Supply Cap - September 22, 2025",
+      "summary": "Signal your support or opposition to increasing the PT-USDe-27Nov2025 supply cap.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-09-22-sparklend-withdraw-dai-usds-reserves.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Withdraw USDS and DAI Reserves from SparkLend - September 22, 2025",
+      "summary": "Signal your support or opposition to withdrawing USDS and DAI reserves from SparkLend to the Spark Proxy on mainnet.",
+      "discussion_link": "https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-22T16:00:00.000Z",
+      "end_date": "2025-09-25T16:00:00.000Z"
+    }
   }
 ]
