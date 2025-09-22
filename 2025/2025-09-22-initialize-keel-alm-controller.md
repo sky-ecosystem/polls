@@ -45,7 +45,7 @@ The community can vote in this poll to express support or opposition to initiali
     - daiUsds_: [DAI_USDS](https://etherscan.io/address/0x3225737a9bbb6473cb4a45b7244aca2befdb276a)
     - cctp_: [CCTP Token Messenger](https://etherscan.io/address/0xbd3fa81b58ba92a82136038b25adec7066af3155)
 
-### [Rate Limits](https://sky-atlas.powerhouse.io/A.AG2.1_Introduction/1c1f2ff0-8d73-81ce-8f79-d0b9ae8ec6c4|7896ed33263873e2) Parameters
+### [Rate Limit](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de) Parameters
 
 - **LIMIT_USDS_MINT**:
     - Max amount: **10_000e18 USDS** (Onboarding)
