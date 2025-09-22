@@ -28,7 +28,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 ## Review
 
-The community can vote in this poll to express support or opposition to initializing the Keel ALM controller on mainnet with the following addresses and rate limit parameters:
+The community can vote in this poll to express support or opposition to initializing the Keel ALM controller and add it to the LitePSM whitelist on mainnet with the following addresses and rate limit parameters:
 
 ### Contract Addresses
 
@@ -58,6 +58,10 @@ The community can vote in this poll to express support or opposition to initiali
     - Slope: **5_000e18 sUSDS per day**
 - **sUSDS (LIMIT_4626_WITHDRAW) Withdrawals**:
     - Max amount: **Unlimited**
+
+### LitePSM Whitelist
+
+- `kiss` the deployed ALM controller to allow the use of the swapNoFee functions in the LitePSM.
 
 Please review the discussion [thread](https://forum.sky.money/t/october-02-2025-prime-technical-scope-keel-initialization-for-upcoming-spell/27192) to help inform your position before voting.
 
