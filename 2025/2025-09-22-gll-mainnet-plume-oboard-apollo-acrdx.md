@@ -34,7 +34,7 @@ The community can vote in this poll to express support or opposition to the foll
 
 If this poll passes, Sky Governance will approve the DAO Resolution authorizing the subscription to the Anemoy Tokenized Apollo Diversified Credit Fund by Aspen Grove Ltd with the IPFS hash [bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi](https://gateway.pinata.cloud/ipfs/bafkreiefed2vyibzwd7ajacaezuq5r422z4zoo4lnbk3ximd5mzktwjzfi)
 
-### [Plume] Apollo ACRDX [Rate Limits](https://sky-atlas.powerhouse.io/A.AG2.1_Introduction/1c1f2ff0-8d73-81ce-8f79-d0b9ae8ec6c4|7896ed33263873e2)
+### [Plume] Apollo ACRDX [Rate Limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
 
 * ACRDX: plume:[0x354a9222571259457B2e98b2285B62e6a9bf4eD3](https://explorer.plume.org/address/0x354a9222571259457B2e98b2285B62e6a9bf4eD3)
   * Deposits:
@@ -43,11 +43,11 @@ If this poll passes, Sky Governance will approve the DAO Resolution authorizing 
   * Withdrawals:
     * Max amount: **Unlimited**
 
-### [Mainnet and Plume] JTRSY Transfer and Redemption [Rate Limits](https://sky-atlas.powerhouse.io/A.AG2.1_Introduction/1c1f2ff0-8d73-81ce-8f79-d0b9ae8ec6c4|7896ed33263873e2)
+### [Mainnet and Plume] JTRSY Transfer and Redemption [Rate Limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
 
 Grove will be redeeming JTRSY on Plume for the USDC liquidity necessary to purchase 50m of ACRDX. The following rate parameters will be necessary to transfer JTRSY shares to Plume and redeem it for USDC.
 
-#### [Mainnet] LIMIT_CENTRIFUGE_TRANSFER [Rate Limits](https://sky-atlas.powerhouse.io/A.AG2.1_Introduction/1c1f2ff0-8d73-81ce-8f79-d0b9ae8ec6c4|7896ed33263873e2)
+#### [Mainnet] LIMIT_CENTRIFUGE_TRANSFER [Rate Limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
 
 - JTRSY token: eth:[0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A](https://etherscan.io/address/0xFE6920eB6C421f1179cA8c8d4170530CDBdfd77A)
 - Plume destinationCentrifugeId: **4**
@@ -59,7 +59,7 @@ Grove will be redeeming JTRSY on Plume for the USDC liquidity necessary to purch
 - centrifugeId: **4**
 - receipient: Plume.ALM_PROXY
 
-#### JTRSY Withdrawl [Rate Limits](https://sky-atlas.powerhouse.io/A.AG2.1_Introduction/1c1f2ff0-8d73-81ce-8f79-d0b9ae8ec6c4|7896ed33263873e2)
+#### JTRSY Withdrawl [Rate Limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
 
 - JTRSY token: plume:[0x818A3593340622c1D6A51B039e191F2f8C99A1F2](https://explorer.plume.org/address/0x818A3593340622c1D6A51B039e191F2f8C99A1F2)
 - Max amount: **20 million USDC**
