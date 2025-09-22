@@ -39,14 +39,14 @@ The community can vote in this poll to express support or opposition to launchin
     - Setter: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark operations safe)
     - Taker: [0x1601843c5E9bC251A3272907010AFa41Fa18347E](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E) (ALM Proxy)
   - Yield
-    - Max yield: 5%
-    - Current yield (at launch): 0%
-  - Supply cap: 10,000 WETH
+    - Max yield: **5%**
+    - Current yield (at launch): **0%**
+  - Supply cap: **10,000 WETH**
   - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
     - transferAssets
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
 
 ### USDC
 
@@ -57,14 +57,14 @@ The community can vote in this poll to express support or opposition to launchin
     - Setter: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark operations safe)
     - Taker: [0x1601843c5E9bC251A3272907010AFa41Fa18347E](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E) (ALM Proxy)
   - Yield
-    - Max yield: 10%
-    - Current yield (at launch): 0%
-  - Supply cap: 50 million USDC
+    - Max yield: **10%**
+    - Current yield (at launch): **0%**
+  - Supply cap: **50 million USDC**
   - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
     - transferAssets
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
 
 ### USDT
 
@@ -75,14 +75,14 @@ The community can vote in this poll to express support or opposition to launchin
     - Setter: [0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC](https://etherscan.io/address/0x2E1b01adABB8D4981863394bEa23a1263CBaeDfC) (Spark operations safe)
     - Taker: [0x1601843c5E9bC251A3272907010AFa41Fa18347E](https://etherscan.io/address/0x1601843c5E9bC251A3272907010AFa41Fa18347E) (ALM Proxy)
   - Yield
-    - Max yield: 10%
-    - Current yield (at launch): 0%
-  - Supply cap: 50 million USDT
+    - Max yield: **10%**
+    - Current yield (at launch): **0%**
+  - Supply cap: **50 million USDT**
   - SLL [rate limits](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de)
     - take
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
     - transferAssets
-      - maxAmount: unlimited
+      - maxAmount: **unlimited**
 
 Please review the discussion [thread](https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191) to help inform your position before voting.
 

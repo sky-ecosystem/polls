@@ -36,12 +36,12 @@ The community can vote in this poll to express support or opposition to onboardi
   * slope: 20 million per day
 * USDT transferAsset
   * Recipient address: tbd upon completion of B2C2 onboarding, will be provided before inclusion in executive spell
-  * maxAmount: 1 million
-  * slope: 20 million per day
+  * maxAmount: **1 million USDT**
+  * slope: **20 million USDT per day**
 * PYUSD transferAsset
   * Recipient address: tbd upon completion of B2C2 onboarding, will be provided before inclusion in executive spell
-  * maxAmount: 1 million
-  * slope: 20 million per day
+  * maxAmount: **1 million PYUSD**
+  * slope: **20 million PYUSD per day**
 
 Please review the discussion [thread](https://forum.sky.money/t/october-2-2025-proposed-changes-to-spark-for-upcoming-spell/27191) to help inform your position before voting.
 
