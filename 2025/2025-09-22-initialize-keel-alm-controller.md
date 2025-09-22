@@ -48,14 +48,14 @@ The community can vote in this poll to express support or opposition to initiali
 ### [Rate Limit](https://sky-atlas.powerhouse.io/A.2.3.9.1.1.1.1.2_Rate_Limits/264f2ff0-8d73-8050-892b-e4a0ed9828dc|9e1ff936a6cb63b1903ca2d845de) Parameters
 
 - **LIMIT_USDS_MINT**:
-    - Max amount: **10_000e18 USDS** (Onboarding)
-    - Slope: **5_000e18 USDS per day**
+    - Max amount: **10,000 USDS** (Onboarding)
+    - Slope: **5,000 USDS per day**
 - **LIMIT_USDS_TO_USDC**:
-    - Max amount: **10_000e18 USDS** (Onboarding)
-    - Slope: **5_000e18 USDS per day**
+    - Max amount: **10,000 USDS** (Onboarding)
+    - Slope: **5,000 USDS per day**
 - **sUSDS (LIMIT_4626_DEPOSIT) Deposits**:
-    - Max amount: **10_000e18 sUSDS** (Onboarding)
-    - Slope: **5_000e18 sUSDS per day**
+    - Max amount: **10,000 sUSDS** (Onboarding)
+    - Slope: **5,000 sUSDS per day**
 - **sUSDS (LIMIT_4626_WITHDRAW) Withdrawals**:
     - Max amount: **Unlimited**
 
