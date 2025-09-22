@@ -1,6 +1,6 @@
 ---
 title: Initialize Keel Mainnet ALM Controller - September 22, 2025
-summary: Signal your support or opposition to inializing the Keel ALM controller instance of the Ethereum mainnet with the listed rate limit parameters.
+summary: Signal your support or opposition to initializing the Keel ALM controller instance of the Ethereum mainnet with the listed rate limit parameters.
 discussion_link: https://forum.sky.money/t/october-02-2025-prime-technical-scope-keel-initialization-for-upcoming-spell/27192
 parameters:
     input_format: single-choice
@@ -32,11 +32,11 @@ The community can vote in this poll to express support or opposition to initiali
 
 ### Contract Addresses
 
-- ALM Proxy: 0xa5139956eC99aE2e51eA39d0b57C42B6D8db0758
+- ALM Proxy: [0xa5139956eC99aE2e51eA39d0b57C42B6D8db0758](https://etherscan.io/address/0xa5139956eC99aE2e51eA39d0b57C42B6D8db0758)
     - admin: [Keel Subproxy](https://etherscan.io/address/0x355CD90Ecb1b409Fdf8b64c4473C3B858dA2c310)
-- RateLimits: 0x65E7B39e508944F7C4278d3e4580f84Eb20b26a7
+- RateLimits: [0x65E7B39e508944F7C4278d3e4580f84Eb20b26a7](https://etherscan.io/address/0x65E7B39e508944F7C4278d3e4580f84Eb20b26a7)
     - admin: [Keel Subproxy](https://etherscan.io/address/0x355CD90Ecb1b409Fdf8b64c4473C3B858dA2c310)
-- ALM Controller: 0xEF26BDc34F35669C235345aeF24A251B1EE80EF3
+- ALM Controller: [0xEF26BDc34F35669C235345aeF24A251B1EE80EF3](https://etherscan.io/address/0xEF26BDc34F35669C235345aeF24A251B1EE80EF3)
     - admin: [Keel Subproxy](https://etherscan.io/address/0x355CD90Ecb1b409Fdf8b64c4473C3B858dA2c310)
     - proxy: ALM Proxy listed above
     - rateLimits_: RateLimits listed above
