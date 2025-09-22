@@ -33,7 +33,7 @@ The community can vote in this poll to express support or opposition to onboardi
 * USDC transferAsset
   * Recipient address: tbd upon completion of B2C2 onboarding, will be provided before inclusion in executive spell
   * maxAmount: **1 million USDC**
-  * slope: 20 million per day
+  * slope: **20 million USDC per day**
 * USDT transferAsset
   * Recipient address: tbd upon completion of B2C2 onboarding, will be provided before inclusion in executive spell
   * maxAmount: **1 million USDT**
