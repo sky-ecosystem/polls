@@ -3161,5 +3161,50 @@
       "start_date": "2025-09-22T16:00:00.000Z",
       "end_date": "2025-09-25T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-09-29-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 29, 2025",
+      "summary": "This Atlas edit 1) develops Risk Framework for Real World Assets, 2) authorizes Genesis Agent Backstop, 3) adds timeline for Primes to submit Atlas Edit requests, 4) authorizes Core GovOps review of Agent Artifacts, 5) authorizes transfer to Spark Foundation, 6) defines role of Spark Assets Foundation, 7) authorizes sweep of Spark profits from the Spark Liquidity Layer, 8) updates terminology in the Atlas to reflect Executor Agents, 9) improves language in the GSM Pause Delay exceptions.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-09-29/27222",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-09-29T16:00:00.000Z",
+      "end_date": "2025-10-02T16:00:00.000Z"
+    }
   }
 ]
