@@ -91,5 +91,6 @@
   "1593": ["low-impact", "spark", "misc-funding"],
   "1594": ["high-impact", "risk-parameter", "grove", "technical"],
   "1595": ["high-impact", "risk-parameter", "grove", "dao-resolution", "collateral-onboard", "technical"],
-  "1596": ["high-impact", "risk-parameter", "keel", "technical"]
+  "1596": ["high-impact", "risk-parameter", "keel", "technical"],
+  "1597": ["high-impact", "risk-parameter", "spark", "weekly", "real-world-assets", "misc-governance", "endgame"]
 }
