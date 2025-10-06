@@ -3206,5 +3206,50 @@
       "start_date": "2025-09-29T16:00:00.000Z",
       "end_date": "2025-10-02T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-10-06-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 6, 2025",
+      "summary": "This Atlas Edit 1) introduces Keel, 2) specifies near term logic for the October Monthly Settlement Cycle, 3) specifies expected timing for Stage 2 of Monthly Settlement Cycle implementation, 4) clarifies the definition of Genesis Capital, 5) defines the Capped SKY Oracle Wrapper, 6) allows direct investment in Pendle PTs, 7) implements Equivalent Loss Framework for real world assets, 8) increases Required Risk Capital for Superstate, 9) adds near term logic for Plume, 10) defines the Executive Process.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-10-06/27272",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-10-06T16:00:00.000Z",
+      "end_date": "2025-10-09T16:00:00.000Z"
+    }
   }
 ]
