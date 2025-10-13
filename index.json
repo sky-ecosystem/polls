@@ -3251,5 +3251,50 @@
       "start_date": "2025-10-06T16:00:00.000Z",
       "end_date": "2025-10-09T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-10-13-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 13, 2025",
+      "summary": "This Atlas Edit 1) introduces Launch Agent 4, 2) updates the Financial RRC Percentage for Pendle PTs, 3) updates the Grove Artifact to authorize investment in Pendle PTs, 4) corrects a definition in the Risk Framework, 5) updates terminology in the Atlas to reflect Executor Agents, 6) clarifies Governance Poll approval requirements, 7) introduces a minor language cleanup.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-10-13/27311",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-10-13T16:00:00.000Z",
+      "end_date": "2025-10-16T16:00:00.000Z"
+    }
   }
 ]
