@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - October 13, 2025
-summary: This Atlas Edit 1) introduces Launch Agent 4, 2) updates RRC Percentage for Pendle PTs, 3) updates Grove Artifact to authorize investment in Pendle PTs, 4) corrects definition in Risk Framework, 5) updates terminology in Atlas to reflect Executor Agents, 6) clarify Governance Poll approval requirements, 7) introduces a minor language cleanup.
+summary: This Atlas Edit 1) introduces Launch Agent 4, 2) updates the Financial RRC Percentage for Pendle PTs, 3) updates the Grove Artifact to authorize investment in Pendle PTs, 4) corrects a definition in the Risk Framework, 5) updates terminology in the Atlas to reflect Executor Agents, 6) clarifies Governance Poll approval requirements, 7) introduces a minor language cleanup.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-10-13/27311
 parameters:
     input_format:
