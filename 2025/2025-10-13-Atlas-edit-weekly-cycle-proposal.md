@@ -52,7 +52,7 @@ _This proposal includes the following edits:_
 - _**Correct Definition In Risk Framework** - Corrects the definition of the LT parameter in the calculation of probability of default for lending markets to refer to the liquidation threshold._
 - _**Update Terminology In Atlas To Reflect Executor Agents** - Continues to move responsibilities from Scope Facilitators to go forward actors and removes outdated logic from the Atlas._
 - _**Clarify Governance Poll Approval Requirements** - Clarifies the requirements regarding Governance Poll approval for certain Sky Core actions._
-- _**Minor Language Cleanup -** Makes minor language changes to clarify the objectives of response to risk capital incidents._
+- _**Minor Language Cleanup** - Makes minor language changes to clarify the objectives of response to risk capital incidents._
 
 ## Outcomes
 
