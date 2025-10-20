@@ -3296,5 +3296,50 @@
       "start_date": "2025-10-13T16:00:00.000Z",
       "end_date": "2025-10-16T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-10-20-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 20, 2025",
+      "summary": "This proposal 1) introduces Sky Direct Exposures 2) defines the process for Interim Deployments 3) renames RRC to CRR 4) replaces Stability Scope Advisor with Core Council Risk Advisor 5) refined documentation of the spell validation process 6) provides flexibility in updating Smart Burn Engine parameters 7) adds new instances to the Grove Artifact.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-10-20/27327",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-10-20T16:00:00.000Z",
+      "end_date": "2025-10-23T16:00:00.000Z"
+    }
   }
 ]
