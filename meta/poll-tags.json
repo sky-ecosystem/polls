@@ -94,5 +94,6 @@
   "1596": ["high-impact", "risk-parameter", "keel", "technical"],
   "1597": ["high-impact", "risk-parameter", "spark", "weekly", "real-world-assets", "misc-governance", "endgame"],
   "1598": ["high-impact", "risk-parameter", "keel", "weekly", "oracle", "technical", "real-world-assets", "misc-governance", "endgame"],
-  "1599": ["high-impact", "risk-parameter", "grove", "weekly", "dao-resolution", "collateral-onboard", "real-world-assets", "misc-governance", "endgame"]
+  "1599": ["high-impact", "risk-parameter", "grove", "weekly", "dao-resolution", "collateral-onboard", "real-world-assets", "misc-governance", "endgame"],
+  "1600": ["high-impact", "risk-parameter", "grove", "weekly", "dao-resolution", "collateral-onboard", "real-world-assets", "misc-governance", "endgame"]
 }
