@@ -39,7 +39,7 @@ The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- [Atlas Edit Pull Request](TBD)
+- [Atlas Edit Pull Request](https://github.com/sky-ecosystem/next-gen-atlas/pull/96)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-10-27/27362)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
