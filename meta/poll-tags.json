@@ -98,5 +98,6 @@
   "1600": ["high-impact", "risk-parameter", "grove", "weekly", "dao-resolution", "collateral-onboard", "surplus", "real-world-assets", "misc-governance", "endgame"],
   "1601": ["high-impact", "risk-parameter", "grove", "weekly", "surplus", "technical", "misc-governance", "misc-funding", "endgame", "psm"],
   "1602": ["medium-impact", "risk-parameter"],
-  "1603": ["high-impact", "risk-parameter", "grove", "keel", "weekly", "dao-resolution", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "endgame", "bridge"]
+  "1603": ["high-impact", "risk-parameter", "grove", "keel", "weekly", "dao-resolution", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "endgame", "bridge"],
+  "1604": ["high-impact", "risk-parameter", "grove", "technical", "real-world-assets", "misc-governance", "misc-funding", "endgame"]
 }
