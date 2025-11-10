@@ -3507,5 +3507,50 @@
       "start_date": "2025-11-06T16:00:00.000Z",
       "end_date": "2025-11-10T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-11-10-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - November 10, 2025",
+      "summary": "This Atlas edit 1) authorizes Gnosis payment 2) updates ASC Requirements for soft launch 3) removes Grove Interim Deployments restrictions 4) adds Prime Spell security enforcement mechanism.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-11-10/27400",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-11-10T16:00:00.000Z",
+      "end_date": "2025-11-13T16:00:00.000Z"
+    }
   }
 ]
