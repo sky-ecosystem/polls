@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - November 17, 2025
-summary: This Atlas edit 1) updates Sky Direct Exposures logic, 2) adds a new public dashboard requirement for Interim Deployments, 3) updates the timeline for the Monthly Settlement Cycle, 4) adds a new DAO Resolution to the Grove Artifact, 5) adds a new SubProxy account for Launch Agent 4, 6) updates remaining references to the Accessibility Reward, 7) Adds Allocation System Primitive documents for Keel.
+summary: This Atlas edit 1) updates Sky Direct Exposures logic, 2) adds a new public dashboard requirement for Interim Deployments, 3) updates the timeline for the Monthly Settlement Cycle, 4) adds a new DAO Resolution to the Grove Artifact, 5) adds a new SubProxy account for Launch Agent 4, 6) updates remaining references to the Accessibility Reward, 7) adds Allocation System Primitive documents for Keel.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-11-17/27421
 parameters:
     input_format:
