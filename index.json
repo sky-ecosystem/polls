@@ -3597,5 +3597,50 @@
       "start_date": "2025-11-17T16:00:00.000Z",
       "end_date": "2025-11-20T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-11-24-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - November 24, 2025",
+      "summary": "This Atlas edit 1) authorizes Core Executor Agent funding, 2) defines a new Ranked Delegate compensation system, 3) updates Agent Artifact for Obex launch, 4) triggers subsidized borrowing for Spark and Grove, 5) expands the use of StarGuard, 6) removes Spark and Grove Senior Risk Capital, 7) adds new DAO Resolution to Grove Artifact, 8) adds internal references.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-11-24/27452",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-11-24T16:00:00.000Z",
+      "end_date": "2025-11-27T16:00:00.000Z"
+    }
   }
 ]
