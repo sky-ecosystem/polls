@@ -30,8 +30,8 @@ The Core Facilitators have placed a Governance Poll into the voting system on be
 
 The community can vote in this poll to express support or opposition to the following parameter changes to the [stUSDS Bounded External Access Module (stUSDS BEAM)](https://sky-atlas.io/#A.4.4.1.3.8):
 
-- Increase [`stepStrBps`](https://sky-atlas.powerhouse.io/A.4.4.1.2.8.2.1_Str_Parameters/264f2ff0-8d73-80e5-972c-f8e6a8c86f05%7Cb341740ee6e1974b4078623f) by 1,000 basis points, from 500 bps to **1,500 bps**.
-- Increase [`stepDutyBps`](https://sky-atlas.powerhouse.io/A.4.4.1.2.8.2.2_Duty_Parameters/264f2ff0-8d73-8060-ba9a-cb2cc94151aa%7Cb341740ee6e1974b4078623f) by 1,000 basis points, from 500 bps to **1,500 bps**.
+- Increase [`stepStrBps`](https://sky-atlas.io/#A.4.4.1.3.8.2.1) by 1,000 basis points, from 500 bps to **1,500 bps**.
+- Increase [`stepDutyBps`](https://sky-atlas.io/#A.4.4.1.3.8.2.2) by 1,000 basis points, from 500 bps to **1,500 bps**.
 
 Please review the discussion [thread](https://forum.sky.money/t/stusds-beam-rate-setter-configuration/27161/76) to help inform your position before voting.
 
