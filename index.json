@@ -3687,5 +3687,81 @@
       "start_date": "2025-12-01T16:00:00.000Z",
       "end_date": "2025-12-04T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-12-08-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - December 8, 2025",
+      "summary": "This Atlas Edit 1) consolidates funds in Core Council Buffer 2) clarifies roles for January Monthly Settlement Cycle 3) records Core Council Executor Agent 1 Genesis Capital 4) adds risk requirements for Kamino and Drift 5) updates stUSDS Risk Parameters 6) streamlines stUSDS parameter change process 7) updates Grove Artifact 8) removes Interim Deployment Restrictions in Keel Artifact 9) adds Launch Agent 6 Artifact 10) cleans up stale reference.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-12-08/27524",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-12-08T16:00:00.000Z",
+      "end_date": "2025-12-11T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2025/2025-12-08-stusds-beam-parameter-changes.md",
+    "metadata": {
+      "title": "stUSDS BEAM Parameter Update - December 8, 2025",
+      "summary": "Signal your support or opposition to increasing the `stepStrBps` and `stepDutyBps` parameters for the stUSDS Bounded External Access Module (stUSDS BEAM).",
+      "discussion_link": "https://forum.sky.money/t/stusds-beam-rate-setter-configuration/27161/76",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-12-08T16:00:00.000Z",
+      "end_date": "2025-12-11T16:00:00.000Z"
+    }
   }
 ]
