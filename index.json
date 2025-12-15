@@ -3763,5 +3763,50 @@
       "start_date": "2025-12-08T16:00:00.000Z",
       "end_date": "2025-12-11T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2025/2025-12-15-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - December 15, 2025",
+      "summary": "This proposal 1) updates the signing requirement and the signers for the Core Council Buffer Multisig, 2) adds an Ecosystem Accord between Sky and Launch Agent 6, 3) updates the Risk Framework with CRR and maximum exposure for Anchorage, 4) expands the usage of StarGuard to include all Agents that have a SubProxy, 5) provides 7.5 million USDS of Senior Risk Capital to Keel.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2025-12-15/27546",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2025-12-15T16:00:00.000Z",
+      "end_date": "2025-12-18T16:00:00.000Z"
+    }
   }
 ]
