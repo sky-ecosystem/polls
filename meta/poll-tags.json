@@ -105,5 +105,6 @@
   "1607": ["high-impact", "risk-parameter", "grove", "obex", "weekly", "dao-resolution", "technical", "misc-governance", "delegates", "misc-funding", "endgame"],
   "1608": ["high-impact", "risk-parameter", "grove", "keel", "weekly", "dao-resolution", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "delegates", "endgame"],
   "1609": ["high-impact", "risk-parameter", "grove", "weekly", "dao-resolution", "oracle", "misc-governance", "delegates", "misc-funding", "endgame"],
-  "1610": ["medium-impact", "risk-parameter"]
+  "1610": ["medium-impact", "risk-parameter"],
+  "1611": ["high-impact", "risk-parameter", "keel", "weekly", "misc-governance", "misc-funding", "endgame"]
 }
