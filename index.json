@@ -3808,5 +3808,50 @@
       "start_date": "2025-12-15T16:00:00.000Z",
       "end_date": "2025-12-18T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-01-05-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - January 5, 2026",
+      "summary": "This Atlas edit 1) updates the Grove Artifact with new deployments and contracts, 2) updates the Keel Artifact with the Solana ALM Controller’s USDC TokenAccount address.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-05/27581",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-01-05T16:00:00.000Z",
+      "end_date": "2026-01-08T16:00:00.000Z"
+    }
   }
 ]
