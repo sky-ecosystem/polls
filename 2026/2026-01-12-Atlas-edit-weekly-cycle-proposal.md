@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - January 12, 2026
-summary: This Atlas edit 1) updates Maple CRR, 2) adjusts token rewards, 3) authorizes transfer to Spark Foundation, 4) updates multisigs in Grove Artifact, 5) updates Grove Allocator Vault parameters, 6) updates multisigs in Keel Artifact, 7) removes legacy references to Accessibility Reward, 8) updates reference to subproxy.
+summary: This Atlas edit 1) updates Maple CRR, 2) adjusts token rewards, 3) authorizes transfer to the Spark Foundation, 4) updates multisigs in the Grove Artifact, 5) updates Grove Allocator Vault parameters, 6) updates multisigs in the Keel Artifact, 7) removes legacy references to Accessibility Reward, 8) updates reference to SubProxy.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-12/27606
 parameters:
     input_format:
