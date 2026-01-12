@@ -27,7 +27,7 @@ end_date: 2026-01-15T16:00:00
 
 # Atlas Edit Weekly Cycle Proposal - January 12, 2026
 
-The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate $TBD]($TBD). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on Monday, January 12 at 16:00 UTC.
+The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-12/27606/2). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on Monday, January 12 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -39,7 +39,7 @@ The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://
 
 The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
 
-- [Atlas Edit Pull Request]($TBD)
+- [Atlas Edit Pull Request](https://github.com/sky-ecosystem/next-gen-atlas/pull/156)
 - [Proposal Discussion Thread](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-12/27606)
 
 A brief summary of this Atlas Edit has been provided by the Author and is shown below:
