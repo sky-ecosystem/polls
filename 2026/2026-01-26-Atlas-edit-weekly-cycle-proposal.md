@@ -1,5 +1,5 @@
 ---
-title: Atlas Edit Weekly Cycle Proposal - January 26. 2026
+title: Atlas Edit Weekly Cycle Proposal - January 26, 2026
 summary: This Atlas edit proposal 1) adds a limit to Sky direct exposure to JAAA, 2) codifies asset-specific CRRs in the Risk Framework, 3) identifies GovOps and Facilitator teams, 4) documents process for transfers to Core Council buffers, 5) updates the Launch Agent 6 Ecosystem Accord, 6) updates the Ecosystem Accord 7, 7) updates the Skybase Multisig signers, 8) corrects parameters for the Grove Agora AUSD instance, 9) cleans up the Grove Instance Configuration document title, 10) updates references to Launch Agent 2.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-26/27643
 parameters:
@@ -25,7 +25,7 @@ start_date: 2026-01-26T16:00:00
 end_date: 2026-01-29T16:00:00
 ---
 
-# Atlas Edit Weekly Cycle Proposal - January 26. 2026
+# Atlas Edit Weekly Cycle Proposal - January 26, 2026
 
 The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-26/27643/2). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on Monday, January 26 at 16:00 UTC.
 
