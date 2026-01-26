@@ -3943,5 +3943,50 @@
       "start_date": "2026-01-19T16:00:00.000Z",
       "end_date": "2026-01-22T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-01-26-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - January 26. 2026",
+      "summary": "This Atlas edit proposal 1) adds a limit to Sky direct exposure to JAAA, 2) codifies asset-specific CRRs in the Risk Framework, 3) identifies GovOps and Facilitator teams, 4) documents process for transfers to Core Council buffers, 5) updates the Launch Agent 6 Ecosystem Accord, 6) updates the Ecosystem Accord 7, 7) updates the Skybase Multisig signers, 8) corrects parameters for the Grove Agora AUSD instance, 9) cleans up the Grove Instance Configuration document title, 10) updates references to Launch Agent 2.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-01-26/27643",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-01-26T16:00:00.000Z",
+      "end_date": "2026-01-29T16:00:00.000Z"
+    }
   }
 ]
