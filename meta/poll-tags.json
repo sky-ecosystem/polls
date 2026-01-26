@@ -109,5 +109,6 @@
   "1611": ["high-impact", "risk-parameter", "keel", "weekly", "misc-governance", "misc-funding", "endgame"],
   "1612": ["high-impact", "grove", "keel", "weekly", "misc-governance", "endgame"],
   "1613": ["high-impact", "risk-parameter", "spark", "grove", "keel", "weekly", "misc-governance", "misc-funding", "endgame"],
-  "1614": ["high-impact", "risk-parameter", "grove", "skybase", "weekly", "real-world-assets", "misc-governance", "misc-funding", "endgame"]
+  "1614": ["high-impact", "risk-parameter", "grove", "skybase", "weekly", "real-world-assets", "misc-governance", "misc-funding", "endgame"],
+  "1615": ["high-impact", "risk-parameter", "grove", "skybase", "ccea1", "weekly", "real-world-assets", "misc-governance", "misc-funding", "endgame"]
 }
