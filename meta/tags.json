@@ -85,12 +85,20 @@
     "precedence": 10
   },
   {
+    "id": "ccea1",
+    "shortname": "CCEA1",
+    "longname": "Core Executor Agent 1",
+    "recommend_ui": true,
+    "description": "Polls related to Core Executor Agent 1",
+    "precedence": 11
+  },
+  {
     "id": "collateral-onboard",
     "shortname": "Collateral On",
     "longname": "Collateral Onboarding",
     "recommend_ui": true,
     "description": "Polls relating to the onboarding of collateral into the Sky Protocol or its Stars",
-    "precedence": 11
+    "precedence": 12
   },
   {
     "id": "oracle",
@@ -98,7 +106,7 @@
     "longname": "Oracle",
     "recommend_ui": true,
     "description": "Polls concerning Oracles used by the Sky Protocol or its Stars",
-    "precedence": 12
+    "precedence": 13
   },
   {
     "id": "medium-impact",
@@ -107,7 +115,7 @@
     "recommend_ui": true,
     "description": "Polls that the Governance Facilitators have judged medium impact",
     "related_link": "https://forum.sky.money/t/introducing-impact-estimations/14267",
-    "precedence": 13
+    "precedence": 14
   },
   {
     "id": "real-world-assets",
@@ -115,7 +123,7 @@
     "longname": "Real World Asset",
     "recommend_ui": true,
     "description": "Polls relating to Real World Assets in the Sky Protocol or its Stars",
-    "precedence": 14
+    "precedence": 15
   },
   {
     "id": "surplus",
@@ -124,7 +132,7 @@
     "recommend_ui": true,
     "description": "Changes to the System Surplus Buffer",
     "related_link": "https://sky-atlas.powerhouse.io/A.3.6.1_Surplus_Buffer/11af2ff0-8d73-806a-afb0-ca38393197d3|57ea2c54",
-    "precedence": 15
+    "precedence": 16
   },
   {
     "id": "bridge",
@@ -132,7 +140,7 @@
     "longname": "Multi-Chain Bridge",
     "recommend_ui": true,
     "description": "Polls relating to the bridging of USDS, SKY, and/or the Sky Protocol or its Stars to other chains",
-    "precedence": 16
+    "precedence": 17
   },
   {
     "id": "low-impact",
@@ -141,7 +149,7 @@
     "recommend_ui": true,
     "description": "Polls that the Governance Facilitators have judged low impact",
     "related_link": "https://forum.sky.money/t/introducing-impact-estimations/14267",
-    "precedence": 17
+    "precedence": 18
   },
   {
     "id": "collateral-offboard",
@@ -149,7 +157,7 @@
     "longname": "Collateral Offboarding",
     "recommend_ui": true,
     "description": "Polls relating to the offboarding of collateral from the Sky Protocol or its Stars",
-    "precedence": 18
+    "precedence": 19
   },
   {
     "id": "dao-resolution",
@@ -157,7 +165,7 @@
     "longname": "DAO Resolution",
     "recommend_ui": true,
     "description": "Polls relating to DAO Resolutions for agreements relating to the Sky Protocol or its Stars",
-    "precedence": 19
+    "precedence": 20
   },
   {
     "id": "delegates",
@@ -166,7 +174,7 @@
     "recommend_ui": true,
     "description": "Polls relating to Sky Protocol's Aligned Delegates",
     "related_link": "https://sky-atlas.powerhouse.io/A.1.5_Aligned_Delegates/4addc93d-996d-408e-9750-b9c39743af4e|0db3",
-    "precedence": 20
+    "precedence": 21
   },
   {
     "id": "auctions",
@@ -174,7 +182,7 @@
     "longname": "Auction",
     "recommend_ui": true,
     "description": "Polls relating to auctions and auction parameters in the Sky Protocol or its Stars",
-    "precedence": 21
+    "precedence": 22
   },
   {
     "id": "ssr",
@@ -183,7 +191,7 @@
     "recommend_ui": true,
     "description": "Polls affecting the Sky Savings Rate",
     "related_link": "https://sky-atlas.powerhouse.io/A.3.2.2.2_Sky_Savings_Rate/73d91126-21c9-4e8a-bedf-8a51a432bb59|57eab733e951",
-    "precedence": 22
+    "precedence": 23
   },
   {
     "id": "dsr",
@@ -192,7 +200,7 @@
     "recommend_ui": true,
     "description": "Polls affecting the Dai Savings Rate",
     "related_link": "https://sky-atlas.powerhouse.io/A.3.2.2.4_Dai_Savings_Rate/8e289e71-7ec5-4ce5-8d4d-41aab7a50f53|57eab733e951",
-    "precedence": 23
+    "precedence": 24
   },
   {
     "id": "ddm",
@@ -200,7 +208,7 @@
     "longname": "Direct Deposit Module",
     "recommend_ui": true,
     "description": "Polls relating to changes to, or onboarding of, Direct Deposit Modules in the Sky Protocol or its Stars",
-    "precedence": 24
+    "precedence": 25
   },
   {
     "id": "psm",
@@ -209,7 +217,7 @@
     "recommend_ui": true,
     "description": "Polls relating to changes to, or onboarding of, Peg Stability Modules in the Sky Protocol or its Stars",
     "related_link": "https://sky-atlas.powerhouse.io/A.3.4.2.7.1_Peg_Stability_Module/1b2f2ff0-8d73-80f4-a8bf-e0a9e05f52a3|57eaaad19a16b74d",
-    "precedence": 25
+    "precedence": 26
   },
   {
     "id": "misc-funding",
@@ -217,7 +225,7 @@
     "longname": "Misc Funding",
     "recommend_ui": true,
     "description": "Polls relating to miscellaneous funding proposals",
-    "precedence": 26
+    "precedence": 27
   },
   {
     "id": "misc-governance",
@@ -225,7 +233,7 @@
     "longname": "Misc Governance",
     "recommend_ui": true,
     "description": "Miscellaneous Polls relating to Governance",
-    "precedence": 27
+    "precedence": 28
   },
   {
     "id": "endgame",
@@ -233,6 +241,6 @@
     "longname": "Endgame",
     "recommend_ui": true,
     "description": "Polls relating to the Endgame Plan",
-    "precedence": 28
+    "precedence": 29
   }
 ]
