@@ -3988,5 +3988,50 @@
       "start_date": "2026-01-26T16:00:00.000Z",
       "end_date": "2026-01-29T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-02-02-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - February 2, 2026",
+      "summary": "This Atlas edit proposal 1) updates the definition of Aggregate Backstop Capital, 2) clarifies the governance process for Allocator vaults, 3) adds an additional Grove deployment, 4) expands technical documentation in the Skybase Artifact, 5) prepares an Agent Artifact for Pattern launch.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-02-02/27675",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-02-02T16:00:00.000Z",
+      "end_date": "2026-02-05T16:00:00.000Z"
+    }
   }
 ]
