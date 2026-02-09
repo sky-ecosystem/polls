@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - February 9, 2026
-summary: This Atlas edit proposal 1) updates Ecosystem Accord, 2) builds out basic information for Core Governance Reward Primitive, 3) removes legacy documents for Ranked Delegates, 4) updates the Distribution Reward Instance Skybase Artifact, 5) removes mentions of Scope Advisor, 6) updates references to Core GovOps, 7) updates Active Data Process to include Operational Facilitator, 8) removes stale references in Needed Research Documents.
+summary: This Atlas edit proposal 1) updates the Ecosystem Accord between Sky, Spark, and Grove, 2) builds out basic information for Core Governance Reward Primitive, 3) removes legacy documents for Ranked Delegates, 4) updates the Distribution Reward Instance Skybase Artifact, 5) removes mentions of Scope Advisor, 6) updates references to Core GovOps, 7) updates Active Data Process to include Operational Facilitator, 8) removes stale references in Needed Research Documents.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-02-09/27696
 parameters:
     input_format:
