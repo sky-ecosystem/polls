@@ -4123,5 +4123,50 @@
       "start_date": "2026-02-16T16:00:00.000Z",
       "end_date": "2026-02-19T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-02-23-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - February 23, 2026",
+      "summary": "This Atlas Edit 1) updates references to Amatsu GovOps to Soter Labs, 2) adds Governance Accessibility Reward Instances to the Skybase Artifact, 3) removes references to StarkNet in Safe Harbor documentation, 4) aligns GitHub and Portal versions of the Atlas.",
+      "discussion_link": "https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-02-23/27728",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-02-23T16:00:00.000Z",
+      "end_date": "2026-02-26T16:00:00.000Z"
+    }
   }
 ]
