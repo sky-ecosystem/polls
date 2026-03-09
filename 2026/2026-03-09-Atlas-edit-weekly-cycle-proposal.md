@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - March 9, 2026
-summary: This Atlas Edit 1) removes JAAA from Sky Direct Exposure, 2) adds sanctioned locations to Full Block List, 3) updates RRC dashboard references, 4) corrects LayerZero multisig signers, 5) corrects Safe Harbor addresses, 6) updates ordering of three Supporting Documents.
+summary: This Atlas Edit 1) reduces SKY buybacks To zero, 2) removes JAAA from Sky Direct Exposure, 3) adds sanctioned locations to Full Block List, 4) updates RRC dashboard references, 5) corrects LayerZero multisig signers, 6) corrects Safe Harbor addresses, 7) updates ordering of three Supporting Documents.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-09/27750
 parameters:
     input_format:
@@ -46,11 +46,12 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 _This proposal includes the following edits:_
 
+- _**Reduce SKY Buybacks To Zero** - Reduces the allocation of protocol revenue to SKY buybacks from 300,000 USDS per day to zero._
 - _**Remove JAAA From Sky Direct Exposures** - Removes JAAA from the list of current Sky Direct Exposures._
 - _**Add Sanctioned Locations To Full Block List** - Adds Afghanistan, Belarus, Burma, Russia, and Venezuela to the Flagged IPs list for Full Block._
 - _**Update RRC Dashboard References** - Updates references to the RRC Dashboard to point to [info.sky.money/required-risk-capital](http://info.sky.money/required-risk-capital) and removes references to the associated API._
 - _**Correct LayerZero Multisig Signers** - Corrects the description of the Solana LayerZero Freezer Multisig signers to accurately reflect the current composition._
-- _**Correct Safe Harbor Addresses** - Updates the Safe Harbor agreement address, contract URL, and asset recovery addresses to reflect the current deployment._
+- _**Correct Safe Harbor Parameters** - Updates the Safe Harbor agreement address, contract URL, asset recovery addresses, and protocol name to reflect the current deployment._
 - _**Update Ordering Of Three Supporting Documents** - Reorders three supporting documents to correct their sequence in the Atlas._
 
 ## Outcomes
