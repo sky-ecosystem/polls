@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - March 9, 2026
-summary: This Atlas Edit 1) reduces SKY buybacks To zero, 2) removes JAAA from Sky Direct Exposure, 3) adds sanctioned locations to Full Block List, 4) updates RRC dashboard references, 5) corrects LayerZero multisig signers, 6) corrects Safe Harbor addresses, 7) updates ordering of three Supporting Documents.
+summary: This Atlas Edit 1) reduces SKY buybacks to zero, 2) removes JAAA from Sky Direct Exposure, 3) adds sanctioned locations to Full Block List, 4) updates RRC dashboard references, 5) corrects LayerZero multisig signers, 6) corrects Safe Harbor addresses and parameters, 7) updates ordering of three Supporting Documents.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-09/27750
 parameters:
     input_format:
