@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - March 9, 2026
-summary: This Atlas Edit 1) reduces SKY buybacks to zero, 2) removes JAAA from Sky Direct Exposure, 3) adds sanctioned locations to Full Block List, 4) updates RRC dashboard references, 5) corrects LayerZero multisig signers, 6) corrects Safe Harbor addresses and parameters, 7) updates ordering of three Supporting Documents.
+summary: This Atlas Edit 1) reduces SKY buybacks, 2) removes JAAA from Sky Direct Exposure, 3) adds sanctioned locations to Full Block List, 4) updates RRC dashboard references, 5) corrects LayerZero multisig signers, 6) corrects Safe Harbor addresses and parameters, 7) updates ordering of three Supporting Documents.
 discussion_link: https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-09/27750
 parameters:
     input_format:
@@ -27,7 +27,7 @@ end_date: 2026-03-12T16:00:00
 
 # Atlas Edit Weekly Cycle Proposal - March 9, 2026
 
-The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-09/27750/4). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on Monday, March 9 at 16:00 UTC.
+The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate cloaky](https://forum.sky.money/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-09/27750/8). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on Monday, March 9 at 16:00 UTC.
 
 **This is a binary vote.**
 
@@ -46,7 +46,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 _This proposal includes the following edits:_
 
-- _**Reduce SKY Buybacks To Zero** - Reduces the allocation of protocol revenue to SKY buybacks from 300,000 USDS per day to zero._
+- _**Reduce SKY Buybacks** - Reduces the allocation of protocol revenue to SKY buybacks from 300,000 USDS per day to 37,600 USDS per day._
 - _**Remove JAAA From Sky Direct Exposures** - Removes JAAA from the list of current Sky Direct Exposures._
 - _**Add Sanctioned Locations To Full Block List** - Adds Afghanistan, Belarus, Burma, Russia, and Venezuela to the Flagged IPs list for Full Block._
 - _**Update RRC Dashboard References** - Updates references to the RRC Dashboard to point to [info.sky.money/required-risk-capital](http://info.sky.money/required-risk-capital) and removes references to the associated API._
