@@ -4213,5 +4213,50 @@
       "start_date": "2026-03-09T16:00:00.000Z",
       "end_date": "2026-03-12T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-03-16-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - March 16, 2026",
+      "summary": "This Atlas edit proposal 1) authorizes funding for Genesis Agents, 2) adds Allocation Vault parameters for Launch Agent 6 and Launch Agent 7, 3) authorizes investments in ACRDX on Ethereum mainnet, 4) adds Allocation System instances to the Grove Artifact, 5) updates multisig operators to Soter Labs.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-16/27767",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-03-16T16:00:00.000Z",
+      "end_date": "2026-03-19T16:00:00.000Z"
+    }
   }
 ]
