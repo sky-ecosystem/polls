@@ -101,6 +101,13 @@
     "precedence": 12
   },
   {
+    "id": "amatsu",
+    "shortname": "Amatsu",
+    "longname": "Amatsu",
+    "recommend_ui": true,
+    "description": "Polls related to Amatsu Agent"
+  },
+  {
     "id": "collateral-onboard",
     "shortname": "Collateral On",
     "longname": "Collateral Onboarding",
