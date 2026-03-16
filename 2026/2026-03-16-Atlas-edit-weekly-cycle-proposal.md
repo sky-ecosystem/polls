@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - March 16, 2026
-summary: This Atlas edit proposal 1) authorizes funding for Genesis Agents, 2) adds Allocation Vault parameters for Launch Agent 6 and Launch Agent 7, 3) Authorizes investments in ACRDX on Ethereum mainnet, 4) adds Allocation System instances to the Grove Artifact, 5) updates multisig operators to Soter Labs.
+summary: This Atlas edit proposal 1) authorizes funding for Genesis Agents, 2) adds Allocation Vault parameters for Launch Agent 6 and Launch Agent 7, 3) authorizes investments in ACRDX on Ethereum mainnet, 4) adds Allocation System instances to the Grove Artifact, 5) updates multisig operators to Soter Labs.
 discussion_link: https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-16/27767
 parameters:
     input_format:
