@@ -30,7 +30,7 @@ The Governance Facilitators have placed a Governance Poll into the voting system
 
 The community can vote in this poll to express support or opposition to reactivating WBTC on SparkLend Ethereum with the following [risk parameters](https://sky-atlas.io/#b370fb72-57f8-4cf1-aab9-597d08afe403):
 
-- Cap automator parameters
+- [Cap automator parameters](https://sky-atlas.io/#6ffdb8ee-b083-40f5-b51b-1c91e954b68b)
   - Deposits
     - max: 3,000 WBTC
     - gap: 500 WBTC
