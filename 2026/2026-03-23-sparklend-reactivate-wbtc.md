@@ -32,15 +32,15 @@ The community can vote in this poll to express support or opposition to reactiva
 
 - [Cap automator parameters](https://sky-atlas.io/#6ffdb8ee-b083-40f5-b51b-1c91e954b68b)
   - Deposits
-    - max: 3,000 WBTC
-    - gap: 500 WBTC
-    - ttl: 12 hours
+    - max: **3,000 WBTC**
+    - gap: **500 WBTC**
+    - ttl: **12 hours**
   - Borrows
-    - max: 1 WBTC
-    - gap: 1 WBTC
-    - ttl: 12 hours
-- [LTV](https://sky-atlas.io/#586478a3-51cb-4a2e-8bb1-b96e6520fdcc): 77%
-- [LT](https://sky-atlas.io/#2dd2045c-6a33-4229-b6c8-e531d6ecd27a): 78%
+    - max: **1 WBTC**
+    - gap: **1 WBTC**
+    - ttl: **12 hours**
+- [LTV](https://sky-atlas.io/#586478a3-51cb-4a2e-8bb1-b96e6520fdcc): **77%**
+- [LT](https://sky-atlas.io/#2dd2045c-6a33-4229-b6c8-e531d6ecd27a): **78%**
 
 Please review the discussion [thread](https://forum.skyeco.com/t/march-26-2026-proposed-changes-to-spark-for-upcoming-spell/27770) and [asset review](https://forum.skyeco.com/t/march-15-2026-wbtc-asset-review/27769) to help inform your position before voting.
 
