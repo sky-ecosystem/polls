@@ -4258,5 +4258,81 @@
       "start_date": "2026-03-16T16:00:00.000Z",
       "end_date": "2026-03-19T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-03-23-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - March 23, 2026",
+      "summary": "This Atlas edit proposal 1) removes Governance poll requirement for SparkLend parameter changes, 2) removes Signal Requests and Non-Standard Weekly Polls from the Atlas, 3) clarifies Facilitator authority to update Atlas after spell execution, 4) adds Spark Foundation Grant Authorization for Q2 2026, 5) updates Spark Prime Arkis deployment parameters, 6) fixes Sentora RLUSD Morpho Vault V2 MaxExchangeRate precision.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-23/27781",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-03-23T16:00:00.000Z",
+      "end_date": "2026-03-26T16:00:00.000Z"
+    }
+  },
+  {
+    "path": "2026/2026-03-23-sparklend-reactivate-wbtc.md",
+    "metadata": {
+      "title": "SparkLend Mainnet - Reactivate WBTC - March 23, 2026",
+      "summary": "Signal your support or opposition to reactivating WBTC with the listed parameters on SparkLend Mainnet.",
+      "discussion_link": "https://forum.skyeco.com/t/march-26-2026-proposed-changes-to-spark-for-upcoming-spell/27770",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "plurality"
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-03-23T16:00:00.000Z",
+      "end_date": "2026-03-26T16:00:00.000Z"
+    }
   }
 ]
