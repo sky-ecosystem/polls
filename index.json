@@ -4334,5 +4334,50 @@
       "start_date": "2026-03-23T16:00:00.000Z",
       "end_date": "2026-03-26T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-03-30-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - March 30, 2026",
+      "summary": "This Atlas edit proposal 1) updates the Emergency Response Article to the Agent Framework, 2) updates the Emergency Spells and Protego documents to the Agent Framework, 3) establishes a Demand Side Buffer for Distribution Reward and Integration Boost payments, 4) transitions Keel to the Pioneer Incentive Pool and updates its development company, 5) updates the Grove Artifact for the April 9 spell, 6) adds TechOps Services as a keeper provider and removes deactivated networks, 7) adds missing Grove ALM Controller contract versions, 8) adds the missing Centrifuge ACRDX Grove instance on Plume, 9) adds a development company to the Launch Agent 6 Artifact, 10) fixes punctuation in the MaxAmount document.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-03-30/27810",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-03-30T16:00:00.000Z",
+      "end_date": "2026-04-02T16:00:00.000Z"
+    }
   }
 ]
