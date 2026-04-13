@@ -4429,7 +4429,7 @@
     "path": "2026/2026-04-13-Atlas-edit-weekly-cycle-proposal.md",
     "metadata": {
       "title": "Atlas Edit Weekly Cycle Proposal - April 13, 2026",
-      "summary": "This Atlas edit proposal 1) updates Grove Liquidity Layer for April 23 spell, 2) adds Pattern Liquidity Layer documentation, 3) transfers Integrator Program responsibility to Operational GovOps, 4) adds Avalanche Asset Recovery Address to Safe Harbor, 5) adds Solana Bridge Distribution Reward Instance to Keel Artifact, 6) corrects RRC And CRR terminology in Risk Framework.",
+      "summary": "This Atlas edit proposal 1) updates Grove Liquidity Layer for future spell contents, 2) adds Pattern Liquidity Layer documentation, 3) transfers Integrator Program responsibility to Operational GovOps, 4) adds Avalanche Asset Recovery Address to Safe Harbor, 5) adds Solana Bridge Distribution Reward Instance to Keel Artifact, 6) corrects RRC And CRR terminology in Risk Framework.",
       "parameters": {
         "input_format": {
           "type": "single-choice",
