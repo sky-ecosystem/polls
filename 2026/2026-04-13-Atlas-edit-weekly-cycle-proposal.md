@@ -45,7 +45,7 @@ A brief summary of this Atlas Edit has been provided by the Author and is shown 
 
 _This proposal includes the following edits:_
 
-- _**Update Grove Liquidity Layer For Future Spell Contents** — pdates the Grove Liquidity Layer: increases USDS mint rate limits to 500M, adds SkyLink transfer rate limits between Ethereum Mainnet and Avalanche, sets the USDC to Ethereum CCTP transfer to Unlimited, onboards the Avalanche Curve USDS/USDC pool, onboards the Centrifuge JTRSY USDS Vault, adds Grove Executor and Receiver addresses on Avalanche, and upgrades the Avalanche ForeignController to version 1.8.0 (LayerZero V2)._
+- _**Update Grove Liquidity Layer For Future Spell Contents** — Updates the Grove Liquidity Layer: increases USDS mint rate limits to 500M, adds SkyLink transfer rate limits between Ethereum Mainnet and Avalanche, sets the USDC to Ethereum CCTP transfer to Unlimited, onboards the Avalanche Curve USDS/USDC pool, onboards the Centrifuge JTRSY USDS Vault, adds Grove Executor and Receiver addresses on Avalanche, and upgrades the Avalanche ForeignController to version 1.8.0 (LayerZero V2)._
 - _**Add Pattern Liquidity Layer Documentation** — Adds documentation for the Pattern Liquidity Layer, including ALM contract addresses, rate limits, Relayer and Freezer Multisigs, and the Maple syrupUSDC Active Instance._
 - _**Transfer Integrator Program Responsibility To Operational GovOps** — Transfers responsibility for the Integrator Program from Ecosystem Actor Viridian Advisors to Operational GovOps._
 - _**Add Avalanche Asset Recovery Address To Safe Harbor** — Adds Avalanche's chain ID and Asset Recovery Address to the Safe Harbor list._
