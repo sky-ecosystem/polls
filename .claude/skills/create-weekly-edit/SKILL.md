@@ -1,3 +1,10 @@
+---
+name: create-weekly-edit
+description: Create Atlas Edit Weekly Cycle Proposal
+argument-hint: "[pr-number] [cf]"
+disable-model-invocation: true
+---
+
 # Create Atlas Edit Weekly Cycle Proposal
 
 ## Description
