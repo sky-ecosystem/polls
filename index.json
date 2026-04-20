@@ -4468,5 +4468,50 @@
       "start_date": "2026-04-13T16:00:00.000Z",
       "end_date": "2026-04-16T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-04-20-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - April 20, 2026",
+      "summary": "This Atlas edit proposal 1) reorders the loss absorption sequence so the Genesis Capital Backstop is applied before the SKY Backstop, 2) collapses ecosystem upkeep to a uniform 50 bps fee, 3) adds documentation for the Plasma SkyLink Bridge, 4) removes the 80/20 Pioneer Incentive Pool split, 5) activates the Launch Agent 6 Pioneer Primitive on Plasma, 6) adds the Multisig Security Enforcement Framework, 7) adds a process for novel Spell items, 8) clarifies the deviation percentage calculation in the Monthly Settlement Cycle, 9) clarifies Prime Agent data production responsibilities, and 10) updates the Solana SkyLink Bridge documents.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-04-20/27851",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-04-20T16:00:00.000Z",
+      "end_date": "2026-04-23T16:00:00.000Z"
+    }
   }
 ]
