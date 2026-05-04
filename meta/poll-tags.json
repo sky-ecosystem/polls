@@ -124,5 +124,5 @@
   "1628": ["high-impact", "risk-parameter", "grove", "keel", "pattern", "weekly", "collateral-onboard", "misc-governance", "endgame", "bridge"],
   "1629": ["high-impact", "risk-parameter", "weekly", "surplus", "technical", "misc-governance", "endgame", "bridge"],
   "1630": ["high-impact", "risk-parameter", "grove", "weekly", "collateral-onboard", "surplus", "real-world-assets", "misc-governance", "misc-funding", "endgame", "bridge"],
-  "1631": ["medium-impact", "spark", "grove", "weekly", "misc-governance", "endgame"]
+  "1631": ["medium-impact", "grove", "weekly", "misc-governance", "endgame"]
 }
