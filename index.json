@@ -4603,5 +4603,50 @@
       "start_date": "2026-05-04T16:00:00.000Z",
       "end_date": "2026-05-07T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-05-11-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - May 11, 2026",
+      "summary": "This Atlas edit proposal 1) specifies the Agent Termination Process in Root Edit Primitive, 2) defines Synome Documents and the Delegated Authority update process, 3) updates Freezer Multisig configuration for Obex, 4) adds Distribution Reward Instance for 1inch to Keel Artifact, 5) fixes incorrect Signer Rotation Registry references, 6) restores Short Term SKY Staking Rewards rate, 7) capitalizes Spell and Spells throughout the Atlas, 8) codifies Prime Spell process, and 9) fixes minor inconsistencies throughout the Atlas.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-05-11/27897",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-05-11T16:00:00.000Z",
+      "end_date": "2026-05-14T16:00:00.000Z"
+    }
   }
 ]
