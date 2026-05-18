@@ -27,7 +27,7 @@ end_date: $YYYY-MM-DDT16:00:00
 
 # Atlas Edit Weekly Cycle Proposal - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#A.1.10.2.2) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate $Delegate_Name]($link). This Governance [Poll](https://sky-atlas.io/#A.1.10.2.2) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#14e99d92-71fc-44d9-9dbf-933bce2e1b32) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate $Delegate_Name]($link). This Governance Poll will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is a binary vote.**
 
