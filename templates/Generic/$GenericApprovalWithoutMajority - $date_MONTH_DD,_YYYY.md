@@ -21,7 +21,7 @@ end_date: $YYYY-MM-DDT16:00:00
 
 # Poll: $GenericChange - $date_MONTH_DD,_YYYY
 
-The $poll_deployers have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://sky-atlas.powerhouse.io/A.1.10.1_Operational_Weekly_Cycle/b189fa17-57a9-4d4e-9780-0ce4efd94211|0db30308) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
+The $poll_deployers have placed a Governance Poll into the voting system on behalf of the $poll_source. This Governance [Poll](https://sky-atlas.io/#999e4aff-e61b-4097-87a8-153afae5098b) will be active for three days beginning on $date_DAY,_MONTH_DD at 16:00 UTC.
 
 **This is an approval vote to select a single winning outcome.**
 
@@ -46,7 +46,7 @@ Please review the discussion [thread]($discussion_link) to help inform your posi
 
 - This change will be included in an upcoming Executive Vote.
 - It is expected that this Executive Vote will take place within 30 days of this poll passing, absent external factors.
-- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.powerhouse.io/A.1.9.2.1_Pause_Delay/a98b8227-95f6-4711-9d8d-f52cbc6ad2d0|0db30758e055) has expired.
+- If the Executive Vote passes, then these changes will become active in the Sky Protocol after the [GSM Pause Delay](https://sky-atlas.io/#3c9545d9-775f-4149-88bf-7d297b5302c6) has expired.
 
 ---
 
