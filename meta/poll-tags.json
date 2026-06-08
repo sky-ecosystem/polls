@@ -128,5 +128,6 @@
   "1632": ["medium-impact", "risk-parameter", "keel", "obex", "weekly", "misc-governance", "endgame"],
   "1633": ["medium-impact", "osero", "weekly", "misc-governance", "endgame"],
   "1634": ["medium-impact", "grove", "weekly", "misc-governance", "endgame", "bridge"],
-  "1635": ["medium-impact", "grove", "weekly", "misc-governance", "endgame", "bridge"]
+  "1635": ["medium-impact", "grove", "weekly", "misc-governance", "endgame", "bridge"],
+  "1636": ["medium-impact", "grove", "misc-governance"]
 }
