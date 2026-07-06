@@ -4963,5 +4963,50 @@
       "start_date": "2026-06-29T16:00:00.000Z",
       "end_date": "2026-07-02T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-07-06-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - July 6, 2026",
+      "summary": "This Atlas edit proposal 1) adds the Shared Diamond PAU Framework, 2) prepares the Osero Artifact for the July 16 Spell, 3) prepares the Grove Artifact for the July 16 Spell, 4) clarifies the Peg Defense Obligation calculation basis, 5) terminates the Boosted Distribution Reward Rate, 6) transfers Maple syrupUSDC allocation from Grove to Spark, 7) adds definitions for Sky Frontier Foundation and Fortification Foundation, 8) expands Agent Creation Primitive inputs, 9) removes the duplicate Monad AUSD Morpho Instance, 10) clarifies that each Agent Spell Reviewer must attach their own Reviewer Checklist, 11) standardizes rate-limit formatting in Grove and Spark Artifacts, and 12) standardizes cross-chain Rate-Limit document names.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-07-06/28028",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-07-06T16:00:00.000Z",
+      "end_date": "2026-07-09T16:00:00.000Z"
+    }
   }
 ]
