@@ -27,7 +27,7 @@ end_date: 2026-07-09T16:00:00
 
 # Atlas Edit Weekly Cycle Proposal - July 6, 2026
 
-The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#14e99d92-71fc-44d9-9dbf-933bce2e1b32) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate ](). This Governance Poll will be active for three days beginning on Monday, June 29 at 16:00 UTC.
+The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#14e99d92-71fc-44d9-9dbf-933bce2e1b32) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate cloaky](https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-07-06/28028/2). This Governance Poll will be active for three days beginning on Monday, July 6 at 16:00 UTC.
 
 **This is a binary vote.**
 
