@@ -133,5 +133,6 @@
   "1637": ["high-impact", "risk-parameter", "spark", "grove", "weekly", "oracle", "technical", "misc-governance", "misc-funding", "endgame", "bridge"],
   "1638": ["high-impact", "risk-parameter", "spark", "grove", "keel", "skybase", "ccea1", "ozone", "amatsu", "weekly", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "misc-funding", "endgame"],
   "1639": ["high-impact", "risk-parameter", "grove", "weekly", "real-world-assets", "misc-governance", "endgame"],
-  "1640": ["high-impact", "risk-parameter", "spark", "grove", "osero", "weekly", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "endgame", "bridge"]
+  "1640": ["high-impact", "risk-parameter", "spark", "grove", "osero", "weekly", "collateral-onboard", "technical", "real-world-assets", "misc-governance", "endgame", "bridge"],
+  "1641": ["high-impact", "risk-parameter", "osero", "weekly", "real-world-assets", "misc-governance", "endgame", "bridge"]
 }
