@@ -5053,5 +5053,50 @@
       "start_date": "2026-07-13T16:00:00.000Z",
       "end_date": "2026-07-16T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-07-20-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - July 20, 2026",
+      "summary": "This Atlas edit proposal 1) reduces the Sky Spread and updates the Reference Rate to SOFR, 2) migrates per-Agent Foundation and Development Company entries into standard parameters, 3) corrects a mislabeled capital term from RRC to CRR, 4) renames SEJRC to PEJRC across the Atlas, 5) renames Spark's Paxos Instances to the Via-Paxos convention, and 6) repoints Ecosystem Operational References repository links to the Soter Labs organization.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-07-20/28062",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-07-20T16:00:00.000Z",
+      "end_date": "2026-07-23T16:00:00.000Z"
+    }
   }
 ]
