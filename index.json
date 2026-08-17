@@ -5233,5 +5233,50 @@
       "start_date": "2026-08-10T16:00:00.000Z",
       "end_date": "2026-08-13T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-08-17-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - August 17, 2026",
+      "summary": "This Atlas edit proposal 1) removes the Agent Termination Compliance Deadline, 2) adds the SubProxyMethods Contract to the Atlas, 3) adds initial documentation regarding the Parallelized Allocation System, 4) makes the scope of netting explicit, 5) authorizes the August 2026 Grove Foundation Grant, 6) specifies Skybase's Development Company, 7) clarifies a Weekly Cycle reference.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-08-17/28166",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-08-17T16:00:00.000Z",
+      "end_date": "2026-08-20T16:00:00.000Z"
+    }
   }
 ]
