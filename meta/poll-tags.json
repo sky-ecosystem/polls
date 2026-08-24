@@ -139,5 +139,6 @@
   "1643": ["medium-impact", "spark", "grove", "weekly", "misc-governance", "endgame", "bridge"],
   "1644": ["medium-impact", "risk-parameter", "keel", "weekly", "surplus", "technical", "misc-governance", "endgame"],
   "1645": ["medium-impact", "risk-parameter", "osero", "weekly", "misc-governance", "endgame"],
-  "1646": ["high-impact", "grove", "skybase", "weekly", "technical", "misc-governance", "misc-funding", "endgame"]
+  "1646": ["high-impact", "grove", "skybase", "weekly", "technical", "misc-governance", "misc-funding", "endgame"],
+  "1647": ["high-impact", "risk-parameter", "osero", "weekly", "technical", "misc-governance", "endgame"]
 }
