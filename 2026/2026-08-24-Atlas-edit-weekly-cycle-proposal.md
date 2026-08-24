@@ -1,6 +1,6 @@
 ---
 title: Atlas Edit Weekly Cycle Proposal - August 24, 2026
-summary: This Atlas edit proposal 1) specifies The PAS (Parallelized Allocation System), 2) adds security specifications for pull request approvals and Freezer Multisigs, 3) corrects the net revenue recognition basis, 4) adds a new-entity verification requirement to Authorized Forum Accounts, 5) updates Osero SparkLend USDS instance off-chain parameters, 6) standardizes language across GSM Pause Delay Exceptions.
+summary: This Atlas edit proposal 1) specifies the PAS (Parallelized Allocation System), 2) adds security specifications for pull request approvals and Freezer Multisigs, 3) corrects the net revenue recognition basis, 4) adds a new-entity verification requirement to Authorized Forum Accounts, 5) updates Osero SparkLend USDS instance off-chain parameters, 6) standardizes language across GSM Pause Delay Exceptions.
 discussion_link: https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-08-24/28189
 parameters:
     input_format:
