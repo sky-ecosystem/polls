@@ -1,0 +1,71 @@
+---
+title: Atlas Edit Weekly Cycle Proposal - September 7, 2026
+summary: This Atlas edit proposal 1) expresses Atlas Rates as annual percentage rates with monthly compounding, 2) adds Core Council Risk Advisor Fallback for Independent Governance Risk Assessment, 3) adds 1inch and Kyber Distribution Reward Instances to Skybase, 4) updates Osero SparkLend USDS Instance off-chain parameter, 5) includes housekeeping updates.
+discussion_link: https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-07/28219
+parameters:
+    input_format:
+        type: single-choice
+        abstain: [0]
+    victory_conditions:
+        - {
+            type: 'and',
+            conditions: [
+                { type : plurality },
+                { type : comparison, comparator : '>=', value: 480000000 }
+            ]
+        }
+        - {type : default, value : 2 }
+    result_display: single-vote-breakdown
+version: v2.0.0
+options:
+   0: Abstain
+   1: Yes
+   2: No
+start_date: 2026-09-07T16:00:00
+end_date: 2026-09-10T16:00:00
+---
+
+# Atlas Edit Weekly Cycle Proposal - September 7, 2026
+
+The Core Facilitators have placed an [Atlas Edit Weekly Cycle Proposal](https://sky-atlas.io/#14e99d92-71fc-44d9-9dbf-933bce2e1b32) into the [voting system](https://vote.sky.money/polling) [on behalf of Ranked Delegate BLUE](https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-07/28219/2). This Governance Poll will be active for three days beginning on Monday, September 7 at 16:00 UTC.
+
+**This is a binary vote.**
+
+- **You may vote for a single option.**
+- **You should vote for the option which you prefer.**
+- **If you would accept either option, you should vote 'Abstain'.**
+
+## Review
+
+The community may vote in this poll to express support or opposition to the following Atlas Edit Weekly Cycle Proposal:
+
+- [Atlas Edit Pull Request](https://github.com/sky-ecosystem/next-gen-atlas/pull/325)
+- [Proposal Discussion Thread](https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-07/28219)
+
+A brief summary of this Atlas Edit has been provided by the Author and is shown below:
+
+_This proposal includes the following edits:_
+
+- _**Express Atlas Rates As Annual Percentage Rates With Monthly Compounding** - Changes the default convention for rates defined in the Atlas from annual percentage yields to annual percentage rates with monthly compounding. Updates the Base Rate, the Sky Savings Rate formula, and the Agent Credit Line Borrow Rate to match._
+- _**Add Core Council Risk Advisor Fallback For Independent Governance Risk Assessment** - Specifies that under the Independent Governance path, if a Prime Agent has no designated independent risk assessor, the Core Council Risk Advisor conducts the Prime Spell's financial risk assessment instead._
+- _**Add 1inch And Kyber Distribution Reward Instances To Skybase** - Adds Instances of the Distribution Reward Primitive for 1inch and Kyber._
+- _**Update Osero SparkLend USDS Instance Off-Chain Parameters** - Updates the off-chain parameters for Osero's SparkLend allocation: reduces the CRR from 10% to 5% and increases the maximum exposure from 25 million USDS to 100 million USDS._
+- _**Housekeeping Updates** - Corrects tense and dates in several Atlas documents now that the cycles and events they describe have concluded, standardizes contract terminology, and formats code excerpts in several Prime Agent Artifacts as fenced code blocks._
+
+## Outcomes
+
+This poll implements a **Minimum Positive Participation** value. The Minimum Positive Participation for Atlas Edit Weekly Cycle Proposals is currently set to **480,000,000 SKY**.
+
+**If the votes for the 'Yes' option exceed the votes for the 'No' option AND the votes for the 'Yes' option equal or exceed 480,000,000 SKY, then the following actions will be taken:**
+
+- The associated Pull Request will be merged into The Atlas.
+
+---
+
+## Resources
+
+If you are new to voting in the Sky Protocol, please see the [voting guide](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) to learn how voting works.
+
+Additional information about the Governance process can be found in the [Operational Manual](https://manual.makerdao.com).
+
+To add current and upcoming votes to your calendar, please see the [Sky Governance Calendar](https://manual.makerdao.com/makerdao/calendars/governance-calendar).
