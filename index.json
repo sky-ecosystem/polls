@@ -5323,5 +5323,50 @@
       "start_date": "2026-08-24T16:00:00.000Z",
       "end_date": "2026-08-27T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-09-07-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 7, 2026",
+      "summary": "This Atlas edit proposal 1) expresses Atlas Rates as annual percentage rates with monthly compounding, 2) adds Core Council Risk Advisor Fallback for Independent Governance Risk Assessment, 3) adds 1inch and Kyber Distribution Reward Instances to Skybase, 4) updates Osero SparkLend USDS Instance off-chain parameter, 5) includes housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-07/28219",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-09-07T16:00:00.000Z",
+      "end_date": "2026-09-10T16:00:00.000Z"
+    }
   }
 ]
