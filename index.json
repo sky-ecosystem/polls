@@ -5368,5 +5368,50 @@
       "start_date": "2026-09-07T16:00:00.000Z",
       "end_date": "2026-09-10T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-09-14-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 14, 2026",
+      "summary": "This Atlas edit proposal 1) equalizes staking reward rates across reward options, 2) adds a Morpho Vault Curation Framework, 3) clarifies how Core Governance Rewards are paid, 4) updates the Osero Artifact for the September 24, 2026 spell, 5) authorizes a September 2026 Grove Foundation grant, 6) authorizes October 2026 Spark Foundation grants, 7) specifies the forum category and title convention for Prime Spell action publications, 8) documents the MKR to SKY Upgrade Penalty's live value, 9) updates two deployment documents to past tense.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-14/28234",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-09-14T16:00:00.000Z",
+      "end_date": "2026-09-17T16:00:00.000Z"
+    }
   }
 ]
