@@ -5413,5 +5413,50 @@
       "start_date": "2026-09-14T16:00:00.000Z",
       "end_date": "2026-09-17T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-09-21-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 21, 2026",
+      "summary": "This Atlas edit proposal 1) enables a Diamond PAU for Osero, 2) records TGE and Genesis Transfer for Grove, 3) corrects the Python reference implementations, 4) implements housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-21/28241",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-09-21T16:00:00.000Z",
+      "end_date": "2026-09-24T16:00:00.000Z"
+    }
   }
 ]
