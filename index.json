@@ -5458,5 +5458,50 @@
       "start_date": "2026-09-21T16:00:00.000Z",
       "end_date": "2026-09-24T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-09-28-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - September 28, 2026",
+      "summary": "This Atlas edit proposal 1) onboards the Gauntlet USDC Prime Morpho Vault to the Osero Liquidity Layer, 2) documents the ERC-4626 Facet controller functions, 3) exempts the force deallocate penalty from Morpho Vault timelock minimums, 4) applies housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-09-28/28262",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-09-28T16:00:00.000Z",
+      "end_date": "2026-10-01T16:00:00.000Z"
+    }
   }
 ]
