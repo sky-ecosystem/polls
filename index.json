@@ -5503,5 +5503,50 @@
       "start_date": "2026-09-28T16:00:00.000Z",
       "end_date": "2026-10-01T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-10-05-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 5, 2026",
+      "summary": "This Atlas edit proposal 1) defines the circulating USDS supply for the Target Aggregate Backstop Capital, 2) updates stUSDS documents for the stUSDS Keeper Launch, 3) enables Spark's cBEAM on Arbitrum and restructures the Parallelized Allocation System by network, 4) grants Grove a Morpho Vault Curation Framework compliance exception for 3 days, 5) adds a highest production rate limit for each Diamond PAU facet, 6) documents the ERC-4626 Facet Maximum Exchange Rate Setter, 7) applies housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-10-05/28279",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-10-05T16:00:00.000Z",
+      "end_date": "2026-10-08T16:00:00.000Z"
+    }
   }
 ]
