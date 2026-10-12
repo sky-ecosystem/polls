@@ -5548,5 +5548,50 @@
       "start_date": "2026-10-05T16:00:00.000Z",
       "end_date": "2026-10-08T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-10-12-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 12, 2026",
+      "summary": "This Atlas edit proposal 1) pays Sky Core bug bounty rewards from the Core Council Buffer, 2) adds Morpho oracle contract requirements and clarifies oracle feed terminology, 3) grants Spark a 3-week Morpho Vault timelock compliance exception, 4) excludes idle USDS held in a Tokenized Treasury Instance from Utilized USDS, 5) centralizes the Diamond PAU Emergency Protocol into Sky Core, 6) updates Lite Peg Stability Module authorized parties, 7) adds the Osero Reward Code range and Distribution Reward Instances, 8) adds the Spark Foundation grant authorization for November 2026, 9) adds the Grove Foundation grant authorization for October 2026, 10) adds a River SPV II Transfer Asset Instance to the Pattern Artifact, 11) adds an Osero Gauntlet Vault deposit rate limit default, 12) records the Osero Diamond PAU Controller as registered with the Configurator.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-10-12/28299",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-10-12T16:00:00.000Z",
+      "end_date": "2026-10-15T16:00:00.000Z"
+    }
   }
 ]
