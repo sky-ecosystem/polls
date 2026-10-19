@@ -5593,5 +5593,50 @@
       "start_date": "2026-10-12T16:00:00.000Z",
       "end_date": "2026-10-15T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-10-19-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 19, 2026",
+      "summary": "This Atlas edit proposal 1) adds standards for audits not commissioned by Sky and revises recognized audit firms, 2) requires the Executive Process Liaison to confirm Prime Spell actions are authorized in the Atlas, 3) clarifies the Core Council Multisig is deployed separately on Arbitrum, 4) records permissioned role holders for Morpho vaults, 5) clarifies Burn USDS and USDC swap rate limit restoration is capped at maxAmount, 6) sets the River I Instance Capital Ratio Requirement to 7%, 7) increases the Osero Gauntlet Vault deposit slope to 650,000 USDC per day, 8) makes housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-10-19/28303",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-10-19T16:00:00.000Z",
+      "end_date": "2026-10-22T16:00:00.000Z"
+    }
   }
 ]
