@@ -5638,5 +5638,50 @@
       "start_date": "2026-10-19T16:00:00.000Z",
       "end_date": "2026-10-22T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-10-26-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - October 26, 2026",
+      "summary": "This Atlas edit proposal 1) requires maintaining team review before auditing changes to other teams' codebases, 2) authorizes a 900,000 USDS Skybase Foundation grant for November 2026, 3) adds the Base deployment of Spark's Diamond PAU, 4) updates the Osero Gauntlet instance off-chain parameters, 5) makes housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-10-26/28348",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-10-26T16:00:00.000Z",
+      "end_date": "2026-10-29T16:00:00.000Z"
+    }
   }
 ]
