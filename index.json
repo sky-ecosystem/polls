@@ -5728,5 +5728,50 @@
       "start_date": "2026-11-02T16:00:00.000Z",
       "end_date": "2026-11-05T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-11-09-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - November 9, 2026",
+      "summary": "This Atlas edit proposal 1) adds weETH as eligible collateral for Morpho vaults, 2) adds a Morpho vault curation governance process, 3) defines the Governance Poll process, 4) replenishes the Demand Side Buffer through the Monthly Settlement Cycle, 5) updates the recognized audit firm categories, 6) adds the Spark Foundation grant for December 2026, 7) adds the Grove Foundation grant for November 2026, 8) adds the CCTP Facet Controller functions, 9) adds Osero to the Base Parallelized Allocation System, 10) updates the Osero Artifact for the November 19, 2026 Executive Vote, 11) clarifies audit recordkeeping requirements, 12) removes references to the Powerhouse system.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-09/28389",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-11-09T16:00:00.000Z",
+      "end_date": "2026-11-12T16:00:00.000Z"
+    }
   }
 ]
