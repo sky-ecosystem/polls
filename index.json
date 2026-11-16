@@ -5773,5 +5773,50 @@
       "start_date": "2026-11-09T16:00:00.000Z",
       "end_date": "2026-11-12T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-11-16-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - November 16, 2026",
+      "summary": "This Atlas edit proposal 1) adds Halo Agents and Sky Core Halos, 2) aligns the Distribution Reward and Integration Boost Invocation Processes, 3) specifies the hop and maxChange bounds for the Osero Diamond PAU on Base, 4) updates the ERC-4626 facet's Highest Production Deposit rate limit, 5) adds file links to the Operational Reference Materials.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-16/28410",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-11-16T16:00:00.000Z",
+      "end_date": "2026-11-19T16:00:00.000Z"
+    }
   }
 ]
