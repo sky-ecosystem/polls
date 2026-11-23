@@ -5818,5 +5818,50 @@
       "start_date": "2026-11-16T16:00:00.000Z",
       "end_date": "2026-11-19T16:00:00.000Z"
     }
+  },
+  {
+    "path": "2026/2026-11-23-Atlas-edit-weekly-cycle-proposal.md",
+    "metadata": {
+      "title": "Atlas Edit Weekly Cycle Proposal - November 23, 2026",
+      "summary": "This Atlas edit proposal 1) adds NFATs and the NFAT Pilot, 2) adds the Swap Asset Facet, 3) adds the Spark Diamond PAU to the Ethereum Mainnet PAS, 4) allows Demand Side Reward payments through the Monthly Settlement Cycle, 5) names the Sky Surplus Buffer as the source of buffer transfers, 6) allows smart contracts to hold the Allocator role on Morpho vaults, 7) updates the ERC-4626 facet's Highest Production Deposit rate limit, 8) prepares the Osero Artifact for the NFAT Pilot, 9) raises the Osero ERC-4626 deposit and CCTP rate limits, 10) adds Yearn Finance as an Osero Distribution Reward Instance, 11) makes housekeeping updates.",
+      "discussion_link": "https://forum.skyeco.com/t/atlas-edit-weekly-cycle-proposal-week-of-2026-11-23/28446",
+      "parameters": {
+        "input_format": {
+          "type": "single-choice",
+          "abstain": [
+            0
+          ],
+          "options": []
+        },
+        "victory_conditions": [
+          {
+            "type": "and",
+            "conditions": [
+              {
+                "type": "plurality"
+              },
+              {
+                "type": "comparison",
+                "comparator": ">=",
+                "value": 480000000
+              }
+            ]
+          },
+          {
+            "type": "default",
+            "value": 2
+          }
+        ],
+        "result_display": "single-vote-breakdown"
+      },
+      "version": "v2.0.0",
+      "options": {
+        "0": "Abstain",
+        "1": "Yes",
+        "2": "No"
+      },
+      "start_date": "2026-11-23T16:00:00.000Z",
+      "end_date": "2026-11-26T16:00:00.000Z"
+    }
   }
 ]
